@@ -1,4 +1,4 @@
-# Talkpython.fm a [unofficial] Compilation of Notable PyPI or Conda Python Packages
+# Talkpython.fm [unofficial] Compilation of Notable PyPI or Conda Python Packages
 
 # Episode 333 
 
