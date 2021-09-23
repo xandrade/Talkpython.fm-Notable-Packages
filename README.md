@@ -3,7 +3,7 @@
 
 # Episode 333 
 
-## State of Data Science in 2021 | Episode #333, published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021. | https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021 
+State of Data Science in 2021 | Episode #333, published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021 | https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021 
 
 ```CuPy : NumPy & SciPy for GPU```
 
