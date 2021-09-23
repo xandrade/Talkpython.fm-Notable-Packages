@@ -1,7 +1,9 @@
 # Talkpython.fm-Notable-Package
 [unofficial] Talkpython.fm | Notable PyPI or Conda packages
 
-* Episode 333 | State of Data Science in 2021 | Episode #333, published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021.
+# Episode 333 | 
+
+## State of Data Science in 2021 | Episode #333, published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021.
 
 `CuPy : NumPy & SciPy for GPU`
 
