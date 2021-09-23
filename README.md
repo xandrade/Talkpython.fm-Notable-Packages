@@ -12,7 +12,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 
 State of Data Science in 2021 | Episode #333, published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021 | https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021 
 
-Package: **CuPy : NumPy & SciPy for GPU** [PyPi]{https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
+Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
 
 ![image](https://user-images.githubusercontent.com/12855744/134486395-6af8b913-9c0b-40f4-9c95-5c51ed44cf53.png)
 
