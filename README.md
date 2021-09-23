@@ -1,4 +1,4 @@
-# [TalkPython['Podcast']](https://talkpython.fm/) Compilation of Notable PyPI or Conda Python Packages
+# [TalkPython['Podcast']](https://talkpython.fm/) Compilation of Notable PyPI Packages
 
 I love listening Talk Python To Me, a weekly podcast hosted by Michael Kennedy dedicated to Python. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps). He has a casual 45 minute conversation with industry experts and at the end of each episode, Michael asks two questions:
 
