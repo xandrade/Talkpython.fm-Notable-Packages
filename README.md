@@ -1,6 +1,6 @@
 # TalkPython['Podcast'] Compilation of Notable PyPI Packages
 
-I love listening [Talk Python To Me](https://talkpython.fm/), a weekly podcast hosted by Michael Kennedy dedicated to Python. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps). He has a casual 45 minute conversation with industry experts and at the end of each episode, Michael asks two questions:
+I love listening [Talk Python To Me](https://talkpython.fm/), a weekly podcast hosted by Michael Kennedy dedicated to Python. The show covers a wide array of Python topics as well as many related topics (e.g. MongoDB, AngularJS, DevOps). He has a casual 45 minute conversation with industry experts. At the end of each episode, Michael asks two questions:
 
 1. If you're going to write some Python code. What editor do you use?
 2. Any notable PyPI (or Conda) package?
