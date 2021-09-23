@@ -1,5 +1,4 @@
-# Talkpython.fm-Notable-Package
-[unofficial] Talkpython.fm | Notable PyPI or Conda packages
+# [unofficial] Talkpython.fm | A Compilation of Notable PyPI or Conda Python Packages
 
 # Episode 333 
 
