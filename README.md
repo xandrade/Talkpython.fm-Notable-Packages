@@ -8,12 +8,10 @@ I love listening [Talk Python To Me](https://talkpython.fm/), a weekly podcast h
 This is a community & unofficial compilation of those amazing Notable PyPI or Conda Python Packages highligted at the need of the show.
 
 
-# Episode 333 
+# [Episode 333](https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021)
 
-- State of Data Science in 2021 
-- Episode #333, 
+- Title: State of Data Science in 2021 
 - Published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021
-- https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021 
 - Guest: Stan Seibert [Twitter: @seibert]
 
 Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
