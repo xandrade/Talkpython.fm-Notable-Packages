@@ -23,8 +23,6 @@ Package: **Luigi (Workflow mgmgt + task scheduling + dependency resolution)** [P
 
 ![image](https://user-images.githubusercontent.com/12855744/134805722-335e5512-e432-4f43-8b26-3946f5e95496.png)
 
-<img src="https://user-images.githubusercontent.com/12855744/134805722-335e5512-e432-4f43-8b26-3946f5e95496.png" width="50%">
-
 Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build complex pipelines of batch jobs. It handles dependency resolution, workflow management, visualization, handling failures, command line integration, and much more.
 
 
