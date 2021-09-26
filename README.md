@@ -13,11 +13,11 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 - Episode #335, published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
 - Guests: David on Twitter: @Hypostulate | Beam Therapeutics: beamtx.com
 
-## Package: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
+Package: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
 
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
 
-## Package: **Luigi (Workflow mgmgt + task scheduling + dependency resolution)** [PyPi](https://pypi.org/project/luigi/) | [Website](https://github.com/spotify/luigi) | [Source Code](https://github.com/spotify/luigi)
+Package: **Luigi (Workflow mgmgt + task scheduling + dependency resolution)** [PyPi](https://pypi.org/project/luigi/) | [Website](https://github.com/spotify/luigi) | [Source Code](https://github.com/spotify/luigi)
 
 ![image](https://user-images.githubusercontent.com/12855744/134805722-335e5512-e432-4f43-8b26-3946f5e95496.png)
 
@@ -31,7 +31,7 @@ Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build compl
 - Episode #334, published Sat, Sep 18, 2021, recorded Thu, Sep 9, 2021.
 - Guests: Rob Emanuele on Twitter: @lossyrob | Tom Augspurger on Twitter: @TomAugspurger
 
-## Package: **Seaborn: Statistical Data Visualization** [PyPi](https://pypi.org/project/seaborn/) | [Website](https://seaborn.pydata.org/) | [Source Code](https://github.com/cupy/cupy/)
+Package: **Seaborn: Statistical Data Visualization** [PyPi](https://pypi.org/project/seaborn/) | [Website](https://seaborn.pydata.org/) | [Source Code](https://github.com/cupy/cupy/)
 
 ![image](https://user-images.githubusercontent.com/12855744/134805244-6561b2e6-9b00-442c-b125-3edd347677ff.png)
 
@@ -44,7 +44,7 @@ Seaborn is a Python visualization library based on matplotlib. It provides a hig
 - Published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021
 - Guest: Stan Seibert on Twitter: @seibert
 
-## Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
+Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
 
 ![image](https://user-images.githubusercontent.com/12855744/134486395-6af8b913-9c0b-40f4-9c95-5c51ed44cf53.png)
 
