@@ -35,7 +35,7 @@ Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build compl
 
 Package: **Seaborn: Statistical Data Visualization** [PyPi](https://pypi.org/project/seaborn/) | [Website](https://seaborn.pydata.org/) | [Source Code](https://github.com/cupy/cupy/)
 
-![image](https://user-images.githubusercontent.com/12855744/134805244-6561b2e6-9b00-442c-b125-3edd347677ff.png)
+<img src="https://user-images.githubusercontent.com/12855744/134805244-6561b2e6-9b00-442c-b125-3edd347677ff.png" width="50%">
 
 Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. If matplotlib is for Android users, seaborn is for iPhone users!
 
@@ -47,8 +47,6 @@ Seaborn is a Python visualization library based on matplotlib. It provides a hig
 - Guest: Stan Seibert on Twitter: @seibert
 
 Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
-
-![image](https://user-images.githubusercontent.com/12855744/134486395-6af8b913-9c0b-40f4-9c95-5c51ed44cf53.png)
 
 <img src="https://user-images.githubusercontent.com/12855744/134486395-6af8b913-9c0b-40f4-9c95-5c51ed44cf53.png" width="50%">
 
