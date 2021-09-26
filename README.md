@@ -15,6 +15,8 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 
 Package: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
 
+![image](https://user-images.githubusercontent.com/12855744/134805873-f9d79c4b-915e-4460-8759-b739a5e72001.png)
+
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
 
 Package: **Luigi (Workflow mgmgt + task scheduling + dependency resolution)** [PyPi](https://pypi.org/project/luigi/) | [Website](https://github.com/spotify/luigi) | [Source Code](https://github.com/spotify/luigi)
