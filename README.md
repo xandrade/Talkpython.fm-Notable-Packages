@@ -13,11 +13,11 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 - Episode #335, published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
 - Guests: David on Twitter: @Hypostulate | Beam Therapeutics: beamtx.com
 
-Package: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
+## Package: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
 
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
 
-Package: **Luigi (Workflow mgmgt + task scheduling + dependency resolution)** [PyPi](https://pypi.org/project/luigi/) | [Website](https://github.com/spotify/luigi) | [Source Code](https://github.com/spotify/luigi)
+## vPackage: **Luigi (Workflow mgmgt + task scheduling + dependency resolution)** [PyPi](https://pypi.org/project/luigi/) | [Website](https://github.com/spotify/luigi) | [Source Code](https://github.com/spotify/luigi)
 
 ![image](https://user-images.githubusercontent.com/12855744/134805722-335e5512-e432-4f43-8b26-3946f5e95496.png)
 
