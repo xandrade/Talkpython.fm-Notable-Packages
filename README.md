@@ -48,7 +48,7 @@ Seaborn is a Python visualization library based on matplotlib. It provides a hig
 
 Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
 
-![image](https://user-images.githubusercontent.com/12855744/134486395-6af8b913-9c0b-40f4-9c95-5c51ed44cf53.png  | width=100)
+![image](https://user-images.githubusercontent.com/12855744/134486395-6af8b913-9c0b-40f4-9c95-5c51ed44cf53.png){:height="50%" width="50%"}
 
 CuPy is an open-source array library for GPU-accelerated computing with Python. CuPy utilizes CUDA Toolkit libraries including cuBLAS, cuRAND, cuSOLVER, cuSPARSE, cuFFT, cuDNN and NCCL to make full use of the GPU architecture. Basically, NumPy & SciPy on steroids! 
 
