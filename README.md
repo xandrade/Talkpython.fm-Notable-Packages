@@ -17,7 +17,7 @@ Package: **Seaborn: Statistical Data Visualization** [PyPi](https://pypi.org/pro
 
 ![image](https://user-images.githubusercontent.com/12855744/134805244-6561b2e6-9b00-442c-b125-3edd347677ff.png)
 
-Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. If matplotlib is for Android users, Seaborn is for iPhone users!
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. If matplotlib is for Android users, seaborn is for iPhone users!
 
 
 
