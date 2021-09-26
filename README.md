@@ -12,7 +12,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 
 - Title: State of Data Science in 2021 
 - Published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021
-- Guest: Stan Seibert [Twitter: @seibert]
+- Guest: Stan Seibert [Twitter: [@seibert](https://twitter.com/seibert)]
 
 Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
 
