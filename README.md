@@ -10,7 +10,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 # [Episode 335](https://talkpython.fm/episodes/show/335/gene-editing-with-python)
 
 - Title: Gene Editing with Python
-- Episode #335, published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
+- Published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
 - Guests: David on Twitter: @Hypostulate | Beam Therapeutics: beamtx.com
 
 Package: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
@@ -30,7 +30,7 @@ Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build compl
 # [Episode 334](https://talkpython.fm/episodes/show/334/microsoft-planetary-computer)
 
 - Title: Microsoft Planetary Computer
-- Episode #334, published Sat, Sep 18, 2021, recorded Thu, Sep 9, 2021.
+- Published Sat, Sep 18, 2021, recorded Thu, Sep 9, 2021.
 - Guests: Rob Emanuele on Twitter: @lossyrob | Tom Augspurger on Twitter: @TomAugspurger
 
 Package: **Seaborn: Statistical Data Visualization** [PyPi](https://pypi.org/project/seaborn/) | [Website](https://seaborn.pydata.org/) | [Source Code](https://github.com/cupy/cupy/)
@@ -51,3 +51,14 @@ Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/)
 ![image](https://user-images.githubusercontent.com/12855744/134486395-6af8b913-9c0b-40f4-9c95-5c51ed44cf53.png)
 
 CuPy is an open-source array library for GPU-accelerated computing with Python. CuPy utilizes CUDA Toolkit libraries including cuBLAS, cuRAND, cuSOLVER, cuSPARSE, cuFFT, cuDNN and NCCL to make full use of the GPU architecture. Basically, NumPy & SciPy on steroids! 
+
+
+# [Episode 332](https://talkpython.fm/episodes/show/332/robust-python)
+
+- Title: Robust Python
+- Published Tue, Aug 31, 2021, recorded Mon, Aug 30, 2021.
+- Guest: Patrick Viafore on Twitter: @PatViaforever
+
+Package: **Stevedore - Manage dynamic plugins for Python applications** [PyPi](https://pypi.org/project/stevedore/) | [Website](https://docs.openstack.org/stevedore/latest/) | [Source Code](https://opendev.org/openstack/stevedore)
+
+Python makes loading code dynamically easy, allowing you to configure and extend your application by discovering and loading extensions ("plugins") at runtime. Many applications implement their own library for doing this, using __import__ or importlib. Stevedore avoids creating yet another extension mechanism by building on top of setuptools entry points. The code for managing entry points tends to be repetitive, though, so stevedore provides manager classes for implementing common patterns for using dynamically loaded extensions.
