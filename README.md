@@ -7,12 +7,25 @@ I love listening [Talk Python To Me](https://talkpython.fm/), a weekly podcast h
 
 This is a community & unofficial compilation of those amazing Notable PyPI or Conda Python Packages highligted at the need of the show.
 
+# [Episode 334](https://talkpython.fm/episodes/show/334/microsoft-planetary-computer)
+
+- Title: Microsoft Planetary Computer
+- Episode #334, published Sat, Sep 18, 2021, recorded Thu, Sep 9, 2021.
+- Guests: Rob Emanuele on Twitter: @lossyrob | Tom Augspurger on Twitter: @TomAugspurger
+
+Package: **Seaborn: Statistical Data Visualization** [PyPi](https://pypi.org/project/seaborn/) | [Website](https://seaborn.pydata.org/) | [Source Code](https://github.com/cupy/cupy/)
+
+![image](https://user-images.githubusercontent.com/12855744/134805244-6561b2e6-9b00-442c-b125-3edd347677ff.png)
+
+Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. If matplotlib is for Android users, Seaborn is for iPhone users!
+
+
 
 # [Episode 333](https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021)
 
 - Title: State of Data Science in 2021 
 - Published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021
-- Guest: Stan Seibert [Twitter: [@seibert](https://twitter.com/seibert)]
+- Guest: Stan Seibert on Twitter: @seibert
 
 Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
 
