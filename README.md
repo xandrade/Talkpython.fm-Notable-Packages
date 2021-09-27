@@ -73,7 +73,7 @@ The question was not asked, but since Łukasz is the author of Black... here we 
 
 Package: **Black - The uncompromising code formatter** [PyPi](https://pypi.org/project/black/) | [Website](https://github.com/psf/black/) | [Source Code](https://github.com/psf/black)
 
-<img src="https://user-images.githubusercontent.com/12855744/134875061-ff77a874-d712-4513-90a5-86c18f35a7c1.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/134875262-4c0059f8-365c-4df7-8c12-d48e389fa1a6.png" width="50%">
 
 Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters. We all love Black!
 
