@@ -84,6 +84,9 @@ Package: **Apache Airflow - Programmatically author, schedule and monitor data p
 
 <img src="https://user-images.githubusercontent.com/12855744/134873876-146ad757-d8e1-4b80-8b85-7a99dcfb43c4.png" width="50%">
 
-Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
+Airflow is a platform created by the community to programmatically author, schedule and monitor workflows. Airflow works best with workflows that are mostly static and slowly changing. When the DAG structure is similar from one run to the next, it clarifies the unit of work and continuity. Other similar projects include Luigi, Oozie and Azkaban.
 
+Airflow is commonly used to process data, but has the opinion that tasks should ideally be idempotent (i.e., results of the task will be the same, and will not create duplicated data in a destination system), and should not pass large quantities of data from one task to the next (though tasks can pass metadata using Airflow's Xcom feature). For high-volume, data-intensive tasks, a best practice is to delegate to external services specializing in that type of work.
+
+Airflow is not a streaming solution, but it is often used to process real-time data, pulling data off streams in batches.
 
