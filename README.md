@@ -62,3 +62,12 @@ CuPy is an open-source array library for GPU-accelerated computing with Python. 
 Package: **Stevedore - Manage dynamic plugins for Python applications** [PyPi](https://pypi.org/project/stevedore/) | [Website](https://docs.openstack.org/stevedore/latest/) | [Source Code](https://opendev.org/openstack/stevedore)
 
 Python makes loading code dynamically easy, allowing you to configure and extend your application by discovering and loading extensions ("plugins") at runtime. Many applications implement their own library for doing this, using __import__ or importlib. Stevedore avoids creating yet another extension mechanism by building on top of setuptools entry points. The code for managing entry points tends to be repetitive, though, so stevedore provides manager classes for implementing common patterns for using dynamically loaded extensions.
+
+# [Episode 331](https://talkpython.fm/episodes/show/331/meet-the-python-developer-in-residence-lukasz-langa)
+
+- Title: Meet the Python Developer in Residence: Lukasz Langa
+- Published Fri, Aug 27, 2021, recorded Wed, Aug 25, 2021.
+- Guest: Łukasz Langa on twitter: @llanga
+
+Package: None
+
