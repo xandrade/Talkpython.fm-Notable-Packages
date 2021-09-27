@@ -69,7 +69,11 @@ Python makes loading code dynamically easy, allowing you to configure and extend
 - Published Fri, Aug 27, 2021, recorded Wed, Aug 25, 2021.
 - Guest: Łukasz Langa on twitter: @llanga
 
-Package: None
+The question was not asked, but since Łukasz is the author of Black... here we go!
+
+Package: **Black - The uncompromising code formatter** [PyPi](https://pypi.org/project/black/) | [Website](https://github.com/psf/black/) | [Source Code](https://github.com/psf/black)
+
+![image](https://user-images.githubusercontent.com/12855744/134874742-df18a5bc-e16f-457b-9238-f66d85d586b9.png)
 
 
 # [Episode 330](https://talkpython.fm/episodes/show/330/apache-airflow-open-source-workflow-with-python)
