@@ -73,8 +73,9 @@ The question was not asked, but since Łukasz is the author of Black... here we 
 
 Package: **Black - The uncompromising code formatter** [PyPi](https://pypi.org/project/black/) | [Website](https://github.com/psf/black/) | [Source Code](https://github.com/psf/black)
 
-![image](https://user-images.githubusercontent.com/12855744/134874742-df18a5bc-e16f-457b-9238-f66d85d586b9.png)
+<img src="hhttps://user-images.githubusercontent.com/12855744/134874742-df18a5bc-e16f-457b-9238-f66d85d586b9.png" width="50%">
 
+Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters. We all love Black!
 
 # [Episode 330](https://talkpython.fm/episodes/show/330/apache-airflow-open-source-workflow-with-python)
 
