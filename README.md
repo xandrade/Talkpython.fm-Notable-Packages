@@ -82,7 +82,7 @@ The question was not asked, but since the team talk about Airflow..
 
 Package: **Apache Airflow - Programmatically author, schedule and monitor data pipelines** [PyPi](https://pypi.org/project/apache-airflow/ | [Website](https://airflow.apache.org/) | [Source Code](https://github.com/apache/airflow)
 
-![image](https://user-images.githubusercontent.com/12855744/134873876-146ad757-d8e1-4b80-8b85-7a99dcfb43c4.png)
+<img src="https://user-images.githubusercontent.com/12855744/134873876-146ad757-d8e1-4b80-8b85-7a99dcfb43c4.png" width="50%">
 
 Airflow is a platform created by the community to programmatically author, schedule and monitor workflows.
 
