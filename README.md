@@ -93,5 +93,3 @@ Airflow is a platform created by the community to programmatically author, sched
 
 Airflow is commonly used to process data, but has the opinion that tasks should ideally be idempotent (i.e., results of the task will be the same, and will not create duplicated data in a destination system), and should not pass large quantities of data from one task to the next (though tasks can pass metadata using Airflow's Xcom feature). For high-volume, data-intensive tasks, a best practice is to delegate to external services specializing in that type of work.
 
-Airflow is not a streaming solution, but it is often used to process real-time data, pulling data off streams in batches.
-
