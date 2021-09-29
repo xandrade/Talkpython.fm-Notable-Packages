@@ -101,4 +101,20 @@ Airflow is commonly used to process data, but has the opinion that tasks should 
 - Guest: Richard Campbell [@richcampbell](https://twitter.com/richcampbell)
 
 
-Package: **None** [PyPi]() | [Website]() | [Source Code](w)
+Package: **None** PyPi | Website | Source Code
+
+
+
+# [Episode 328](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)
+
+- Title: Piccolo: A fast, async ORM for Python (updated)
+- Published Sun, Aug 8, 2021, recorded Thu, Jul 22, 2021.
+- Guest: Daniel Townsend [@danieltownsend](https://twitter.com/danieltownsend)
+
+
+Package: **Pydantic - Data validation and settings management using python 3.6 type hinting** [PyPi](https://pypi.org/project/pydantic/) | [Website](https://github.com/samuelcolvin/pydantic) | [Source Code](https://github.com/samuelcolvin/pydantic)
+
+![image](https://user-images.githubusercontent.com/12855744/135242282-48d99135-f02e-4421-baec-4d8ff674dd51.png)
+
+Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.6+; validate it with pydantic.
+
