@@ -112,7 +112,7 @@ Package: **None** PyPi | Website | Source Code
 - Guest: Daniel Townsend [@danieltownsend](https://twitter.com/danieltownsend)
 
 
-Package: **Pydantic - Data validation and settings management using python 3.6 type hinting** [PyPi](https://pypi.org/project/pydantic/) | [Website](https://github.com/samuelcolvin/pydantic) | [Source Code](https://github.com/samuelcolvin/pydantic)
+Package: **Pydantic - Data validation and settings management** [PyPi](https://pypi.org/project/pydantic/) | [Website](https://github.com/samuelcolvin/pydantic) | [Source Code](https://github.com/samuelcolvin/pydantic)
 
 <img src="https://user-images.githubusercontent.com/12855744/135242282-48d99135-f02e-4421-baec-4d8ff674dd51.png" width="50%">
 
