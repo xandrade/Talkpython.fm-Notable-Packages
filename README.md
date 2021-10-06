@@ -15,7 +15,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 
 Package: **Objexplore - Interactive Python Object Explorer** [PyPi](https://pypi.org/project/objexplore/) | [Website](https://github.com/kylepollina/objexplore) | [Source Code](https://github.com/kylepollina/objexplore)
 
-![image](https://user-images.githubusercontent.com/12855744/136142250-6f3e7688-ff1e-47cd-8377-a5e50e2a3388.png)
+<img src="https://user-images.githubusercontent.com/12855744/136142250-6f3e7688-ff1e-47cd-8377-a5e50e2a3388.png" width="50%">
 
  Objexplore is an interactive Python object explorer for the terminal. Use it while debugging, or exploring a new library, or whatever!
 
