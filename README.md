@@ -7,6 +7,19 @@ I love listening [Talk Python To Me Podcast](https://talkpython.fm/), a weekly p
 
 This is a community & unofficial compilation of those amazing Notable PyPI or Conda Python Packages highligted at the end of the show.
 
+# [Episode 336](https://talkpython.fm/episodes/show/336/terminal-magic-with-rich-and-textual)
+
+- Title: Terminal magic with Rich and Textual
+- Published: Tue, Oct 5, 2021, recorded Mon, Sep 27, 2021.
+- Guests: Will McGugan [@willmcgugan](https://twitter.com/willmcgugan)
+
+Package: **Objexplore - Interactive Python Object Explorer** [PyPi](https://pypi.org/project/objexplore/) | [Website](https://github.com/kylepollina/objexplore) | [Source Code](https://github.com/kylepollina/objexplore)
+
+![image](https://user-images.githubusercontent.com/12855744/136142250-6f3e7688-ff1e-47cd-8377-a5e50e2a3388.png)
+
+ Objexplore is an interactive Python object explorer for the terminal. Use it while debugging, or exploring a new library, or whatever!
+
+
 # [Episode 335](https://talkpython.fm/episodes/show/335/gene-editing-with-python)
 
 - Title: Gene Editing with Python
