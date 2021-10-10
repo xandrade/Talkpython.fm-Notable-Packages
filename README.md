@@ -11,7 +11,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 
 - Title: Kedro for Maintainable Data Science
 - Published Sat, Oct 9, 2021, recorded Fri, Oct 1, 2021.
-- Guests: Waylong [@_WaylonWalker](https://twitter.com/_WaylonWalker) | Yetunda [@yetudada](https://twitter.com/yetudada) | Ivan [@ivandanov](https://twitter.com/ivandanov)
+- Guests: Waylon Walker [@_WaylonWalker](https://twitter.com/_WaylonWalker) | Yetunde Dada [@yetudada](https://twitter.com/yetudada) | Ivan Danov [@ivandanov](https://twitter.com/ivandanov)
 
 Package #1: **fsspec - Filesystem interfaces for Python** [PyPi](https://pypi.org/project/fsspec/) | [Website](https://filesystem-spec.readthedocs.io/en/latest/) | [Source Code](https://github.com/intake/filesystem_spec)
 
