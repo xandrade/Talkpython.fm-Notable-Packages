@@ -7,6 +7,22 @@ I love listening [Talk Python To Me Podcast](https://talkpython.fm/), a weekly p
 
 This is a community & unofficial compilation of those amazing Notable PyPI or Conda Python Packages highligted at the end of the show.
 
+# [Episode 337](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science)
+
+- Title: Kedro for Maintainable Data Science
+- Published Sat, Oct 9, 2021, recorded Fri, Oct 1, 2021.
+- Guests: Waylong [@_WaylonWalker](https://twitter.com/_WaylonWalker) | Yetunda [@yetudada](https://twitter.com/yetudada) |Ivan [@ivandanov](https://twitter.com/ivandanov)
+
+Package #1: **fsspec: Filesystem interfaces for Python** [PyPi](https://pypi.org/project/fsspec/) | [Website](https://filesystem-spec.readthedocs.io/en/latest/) | [Source Code](https://github.com/intake/filesystem_spec)
+
+Filesystem Spec (fsspec) is a project to provide a unified pythonic interface to local, remote and embedded file systems and bytes storage. As described, tread a remove database as local file!
+
+Package #2: **Dynaconf - Configuration Management for Python** [PyPi](https://pypi.org/project/dynaconf/) | [Website](https://www.dynaconf.com/) | [Source Code](https://github.com/rochacbruno/dynaconf)
+
+![image](https://user-images.githubusercontent.com/12855744/136692271-889f25bf-8040-4fd8-a49e-e8741b1e77f8.png)
+
+ Lazy loader of setting
+
 # [Episode 336](https://talkpython.fm/episodes/show/336/terminal-magic-with-rich-and-textual)
 
 - Title: Terminal magic with Rich and Textual
