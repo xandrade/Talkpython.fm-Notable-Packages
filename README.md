@@ -21,7 +21,7 @@ Package #2: **Dynaconf - Configuration Management for Python** [PyPi](https://py
 
 ![image](https://user-images.githubusercontent.com/12855744/136692271-889f25bf-8040-4fd8-a49e-e8741b1e77f8.png)
 
- Lazy loader of setting
+ Lazy setting loader on steroids!
 
 # [Episode 336](https://talkpython.fm/episodes/show/336/terminal-magic-with-rich-and-textual)
 
