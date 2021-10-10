@@ -147,3 +147,18 @@ Package: **Pydantic - Data validation and settings management** [PyPi](https://p
 
 Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.6+; validate it with pydantic.
 
+
+# [Episode 327](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
+
+- Title: Little Automation Tools in Python
+- Published Fri, Jul 30, 2021, recorded Thu, Jul 15, 2021.
+- Guest: Rivers Cuomo [@RiversCuomo](https://twitter.com/RiversCuomo) | Jay Miller [@kjaymiller](https://twitter.com/kjaymiller) | Kim van Wyk [@kim_vanwyk](https://twitter.com/kim_vanwyk) | Rusti Gregory [@greenermountain](https://twitter.com/greenermountain)
+
+Package: **pipx — Install and Run Python Applications in Isolated Environments** [PyPi](https://pypi.org/project/pipx) | [Website](https://pypa.github.io/pipx/) | [Source Code](https://github.com/pypa/pipx)
+
+<img src="https://user-images.githubusercontent.com/12855744/136707633-b928adba-49d5-4068-88e2-92c16462381a.png" width="50%">
+
+This is one of the episodes with the most of packages described. Therefore, we picked the one with the best logo 😃: **pipx**. This is a tool to help you install and run end-user applications written in Python. It's roughly similar to macOS's brew, JavaScript's npx, and Linux's apt.
+
+
+
