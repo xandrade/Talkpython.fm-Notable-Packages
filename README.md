@@ -27,7 +27,7 @@ Package #2: **Dynaconf - Configuration Management for Python** [PyPi](https://py
 
 - Title: Terminal magic with Rich and Textual
 - Published: Tue, Oct 5, 2021, recorded Mon, Sep 27, 2021.
-- Guests: Will McGugan [@willmcgugan](https://twitter.com/willmcgugan)
+- Guest: Will McGugan [@willmcgugan](https://twitter.com/willmcgugan)
 
 Package: **Objexplore - Interactive Python Object Explorer** [PyPi](https://pypi.org/project/objexplore/) | [Website](https://github.com/kylepollina/objexplore) | [Source Code](https://github.com/kylepollina/objexplore)
 
@@ -40,7 +40,7 @@ Package: **Objexplore - Interactive Python Object Explorer** [PyPi](https://pypi
 
 - Title: Gene Editing with Python
 - Published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
-- Guests: David Born [@Hypostulate](https://twitter.com/Hypostulate) & [Beam Therapeutics](https://beamtx.com)
+- Guest: David Born [@Hypostulate](https://twitter.com/Hypostulate) | [Beam Therapeutics](https://beamtx.com)
 
 Package: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
 
@@ -60,7 +60,7 @@ Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build compl
 
 - Title: Microsoft Planetary Computer
 - Published Sat, Sep 18, 2021, recorded Thu, Sep 9, 2021.
-- Guests: Rob Emanuele on Twitter: @lossyrob | Tom Augspurger on Twitter: @TomAugspurger
+- Guests: Rob Emanuele [@lossyrob](https://twitter.com/lossyrob) | Tom Augspurger [@TomAugspurger](https://twitter.com/TomAugspurger)
 
 Package: **Seaborn: Statistical Data Visualization** [PyPi](https://pypi.org/project/seaborn/) | [Website](https://seaborn.pydata.org/) | [Source Code](https://github.com/cupy/cupy/)
 
@@ -73,7 +73,7 @@ Seaborn is a Python visualization library based on matplotlib. It provides a hig
 
 - Title: State of Data Science in 2021 
 - Published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021
-- Guest: Stan Seibert on Twitter: @seibert
+- Guest: Stan Seibert [@seibert](https://twitter.com/seibert) 
 
 Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/) | [Website](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
 
@@ -86,7 +86,7 @@ CuPy is an open-source array library for GPU-accelerated computing with Python. 
 
 - Title: Robust Python
 - Published Tue, Aug 31, 2021, recorded Mon, Aug 30, 2021.
-- Guest: Patrick Viafore on Twitter: @PatViaforever
+- Guest: Patrick Viafore [@PatViaforever](https://twitter.com/PatViaforever) 
 
 Package: **Stevedore - Manage dynamic plugins for Python applications** [PyPi](https://pypi.org/project/stevedore/) | [Website](https://docs.openstack.org/stevedore/latest/) | [Source Code](https://opendev.org/openstack/stevedore)
 
@@ -96,7 +96,7 @@ Python makes loading code dynamically easy, allowing you to configure and extend
 
 - Title: Meet the Python Developer in Residence: Lukasz Langa
 - Published Fri, Aug 27, 2021, recorded Wed, Aug 25, 2021.
-- Guest: Łukasz Langa on twitter: @llanga
+- Guest: Łukasz Langa [@llanga](https://twitter.com/llanga) 
 
 The question was not asked, but since Łukasz is the author of Black... here we go!
 
@@ -110,7 +110,7 @@ Black is the uncompromising Python code formatter. By using it, you agree to ced
 
 - Title: Apache Airflow Open-Source Workflow with Python
 - Published Fri, Aug 20, 2021, recorded Thu, Aug 5, 2021.
-- Guest: Jarek Potiuk: [linkedin.com](https://www.linkedin.com/in/jarekpotiuk/) | Kaxil Naik: @kaxil | Leah Cole: @leahecole
+- Guests: Jarek Potiuk [linkedin.com](https://www.linkedin.com/in/jarekpotiuk/) | Kaxil Naik [@kaxil](https://twitter.com/kaxil) | Leah Cole [@leahecole](https://twitter.com/leahecole)
 
 The question was not asked, but since the team talk about Airflow..
 
@@ -152,7 +152,7 @@ Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define h
 
 - Title: Little Automation Tools in Python
 - Published Fri, Jul 30, 2021, recorded Thu, Jul 15, 2021.
-- Guest: Rivers Cuomo [@RiversCuomo](https://twitter.com/RiversCuomo) | Jay Miller [@kjaymiller](https://twitter.com/kjaymiller) | Kim van Wyk [@kim_vanwyk](https://twitter.com/kim_vanwyk) | Rusti Gregory [@greenermountain](https://twitter.com/greenermountain)
+- Guests: Rivers Cuomo [@RiversCuomo](https://twitter.com/RiversCuomo) | Jay Miller [@kjaymiller](https://twitter.com/kjaymiller) | Kim van Wyk [@kim_vanwyk](https://twitter.com/kim_vanwyk) | Rusti Gregory [@greenermountain](https://twitter.com/greenermountain)
 
 Package: **pipx — Install and Run Python Applications in Isolated Environments** [PyPi](https://pypi.org/project/pipx) | [Website](https://pypa.github.io/pipx/) | [Source Code](https://github.com/pypa/pipx)
 
