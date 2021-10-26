@@ -12,7 +12,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI or Co
 
 - Title: Using cibuildwheel to manage the scikit-HEP packages
 - Published Sun, Oct 17, 2021, recorded Thu, Oct 14, 2021.
-- Guests: Henry Schreiner [@HenrySchreiner3](https://twitter.com/HenrySchreiner3)
+- Guest: Henry Schreiner [@HenrySchreiner3](https://twitter.com/HenrySchreiner3)
 
 Package: **plotext - Plots data directly on terminaln** [PyPi](https://pypi.org/project/plotext/) | [Website](https://github.com/piccolomo/plotext) | [Source Code](https://github.com/piccolomo/plotext)
 
