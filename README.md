@@ -7,6 +7,20 @@ I love listening [Talk Python To Me Podcast](https://talkpython.fm/), a weekly p
 
 This is a community & unofficial compilation of those amazing Notable PyPI or Conda Python Packages highligted at the end of the show.
 
+
+# [Episode 338](https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages)
+
+- Title: Using cibuildwheel to manage the scikit-HEP packages
+- Published Sun, Oct 17, 2021, recorded Thu, Oct 14, 2021.
+- Guests: Henry Schreiner [@HenrySchreiner3](https://twitter.com/HenrySchreiner3)
+
+Package: **plotext - Plots data directly on terminaln** [PyPi](https://pypi.org/project/plotext/) | [Website](https://github.com/piccolomo/plotext) | [Source Code](https://github.com/piccolomo/plotext)
+
+![image](https://user-images.githubusercontent.com/12855744/138847569-abd614dd-1886-496b-a5ff-6696ca0b796b.png)
+
+CLI lovers 📣, plotext plots directly on terminal, it has no dependencies and the syntax is very similar to matplotlib. It also provide a simple command line tool.
+
+
 # [Episode 337](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science)
 
 - Title: Kedro for Maintainable Data Science
