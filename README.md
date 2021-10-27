@@ -243,13 +243,13 @@ Package: **fastai - Making neural nets uncool again** [PyPi](https://pypi.org/pr
 Simplifies training fast and accurate neural nets using modern best practices.
 
 
-## [Episode #321](https://talkpython.fm/episodes/show/321/htmx-clean-dynamic-html-pages)
+## [Episode 321](https://talkpython.fm/episodes/show/321/htmx-clean-dynamic-html-pages)
 
 - Title: HTMX - Clean, Dynamic HTML Pages
 - Published Sat, Jun 19, 2021, recorded Tue, May 25, 2021.
 - Guest: Carson Gross [@htmx_org](https://twitter.com/htmx_org)
 
-Package: **Alpine.js ** PyPi | [Website](https://alpinejs.dev/) | [Source Code](https://github.com/alpinejs/alpine)
+Package: **Alpine.js** PyPi | [Website](https://alpinejs.dev/) | [Source Code](https://github.com/alpinejs/alpine)
 
 <img src="https://user-images.githubusercontent.com/12855744/139036749-7e03c867-3e7b-452d-a2c0-a308759278c7.png" width="50%">
 
