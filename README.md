@@ -225,7 +225,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 Package: **PyO3 — Using Python from Rust** [PyPi]() | [Website]() | [Source Code](https://github.com/PyO3/pyo3)
 
-<img src="https://user-images.githubusercontent.com/12855744/139005910-8a2325eb-88a4-4e7b-92bb-37d5e2319be2.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139005910-8a2325eb-88a4-4e7b-92bb-37d5e2319be2.png" width="35%">
 
 Rust bindings for Python, including tools for creating native Python extension modules. Running and interacting with Python code from a Rust binary is also supported.
 
