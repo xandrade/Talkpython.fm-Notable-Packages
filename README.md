@@ -217,6 +217,19 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 <img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
 
 
+## [Episode 323](https://talkpython.fm/episodes/show/323/best-practices-for-docker-in-production)
+
+- Title: Best practices for Docker in production
+- Published Sat, Jul 3, 2021, recorded Mon, Jun 14, 2021.
+- Guest: Itamar Turner-Trauring [@itamarst](https://twitter.com/itamarst)
+
+Package: **PyO3 — Using Python from Rust** [PyPi]() | [Website]() | [Source Code](https://github.com/PyO3/pyo3)
+
+<img src="https://user-images.githubusercontent.com/12855744/139005910-8a2325eb-88a4-4e7b-92bb-37d5e2319be2.png" width="50%">
+
+Rust bindings for Python, including tools for creating native Python extension modules. Running and interacting with Python code from a Rust binary is also supported.
+
+
 # 2020
 # 2019
 # 2018
