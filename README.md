@@ -190,6 +190,19 @@ Package: **openpyxl — A Python library to read/write Excel 2010 xlsx/xlsm file
 <img src="https://user-images.githubusercontent.com/12855744/139002636-d2a4c87a-ac15-408e-956b-c65888cd9356.png" width="50%">
 
 
+
+## [Episode 325](https://talkpython.fm/episodes/show/325/micropython-circuitpython)
+
+- Title: MicroPython + CircuitPython
+- Published Thu, Jul 15, 2021, recorded Thu, Jul 8, 2021.
+- Guests: Scott [@tannewt](https://twitter.com/tannewt) | Damien's [Site](https://dpgeorge.net)
+
+Package: **HttpPy — More comfortable requests with python** [PyPi](https://pypi.org/project/HttpPy/) | [Website](https://github.com/everitosan/HttpPy) | [Source Code](https://github.com/everitosan/HttpPy)
+
+Python based HttpPy for more comfortable requests. Great replacement of wget command (Windows users, most welcome 😇)
+
+
+
 # 2020
 # 2019
 # 2018
