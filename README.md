@@ -230,6 +230,19 @@ Package: **PyO3 — Using Python from Rust** [PyPi]() | [Website]() | [Source Co
 Rust bindings for Python, including tools for creating native Python extension modules. Running and interacting with Python code from a Rust binary is also supported.
 
 
+## [Episode 322](https://talkpython.fm/episodes/show/322/a-path-into-data-science)
+
+- Title: A path into data science
+- Published Fri, Jun 25, 2021, recorded Thu, Jun 10, 2021.
+- Guest: Sanyam Bhutani [@bhutanisanyam1 ](https://twitter.com/bhutanisanyam1)
+
+Package: **fastai - Making neural nets uncool again** [PyPi](https://pypi.org/project/fastai) | [Website](https://www.fast.ai/) | [Source Code](https://)
+
+<img src="https://user-images.githubusercontent.com/12855744/139035317-9e901c29-a2e8-4a99-a813-b3f990080f71.png" width="50%">
+
+Simplifies training fast and accurate neural nets using modern best practices.
+
+
 # 2020
 # 2019
 # 2018
