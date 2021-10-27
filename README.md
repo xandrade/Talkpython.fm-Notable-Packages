@@ -202,6 +202,17 @@ Package: **HttpPy — More comfortable requests with python** [PyPi](https://pyp
 Python based HttpPy for more comfortable requests. Great replacement of wget command (Windows users, most welcome 😇)
 
 
+## [Episode 324](https://talkpython.fm/episodes/show/324/gatorade-powered-python-apis)
+
+- Title: Gatorade-powered Python APIs
+- Published Fri, Jul 9, 2021, recorded Thu, Jul 8, 2021.
+- Guest: Rod Senra [@rodsenra](https://twitter.com/rodsenra)
+
+Package: **rich  — Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal** [PyPi](https://pypi.org/project/rich) | [Website](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
+
+<img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
+
+Rich is a Python library for rich text and beautiful formatting in the terminal. The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more — out of the box. Who doesn't love **rich**?
 
 # 2020
 # 2019
