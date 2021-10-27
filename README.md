@@ -179,6 +179,17 @@ This is one of the episodes with the most of packages described. Therefore, we p
 
 
 
+## [Episode 326](https://talkpython.fm/episodes/show/326/building-desktop-apps-with-wxpython)
+
+- Title: Building Desktop Apps with wxPython
+- Published Fri, Jul 23, 2021, recorded Wed, Jul 14, 2021.
+- Guest: Mike Driscoll [@driscollis](https://twitter.com/driscollis)
+
+Package: **openpyxl — A Python library to read/write Excel 2010 xlsx/xlsm files** [PyPi](https://pypi.org/project/openpyxl) | [Website](https://openpyxl.readthedocs.io/en/stable/) | [Source Code](https://foss.heptapod.net/openpyxl/openpyxl)
+
+<img src="https://user-images.githubusercontent.com/12855744/139002636-d2a4c87a-ac15-408e-956b-c65888cd9356.png" width="50%">
+
+
 # 2020
 # 2019
 # 2018
