@@ -214,6 +214,9 @@ Package: **rich  — Render rich text, tables, progress bars, syntax highlightin
 
 Rich is a Python library for rich text and beautiful formatting in the terminal. The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more — out of the box. Who doesn't love **rich**?
 
+<img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
+
+
 # 2020
 # 2019
 # 2018
