@@ -249,9 +249,9 @@ Simplifies training fast and accurate neural nets using modern best practices.
 - Published Sat, Jun 19, 2021, recorded Tue, May 25, 2021.
 - Guest: Carson Gross [@htmx_org](https://twitter.com/htmx_org)
 
-Package: **package_name** PyPi | [Website](https://alpinejs.dev/) | [Source Code](https://github.com/alpinejs/alpine)
+Package: **Alpine.js ** PyPi | [Website](https://alpinejs.dev/) | [Source Code](https://github.com/alpinejs/alpine)
 
-<img src="https://user-images.githubusercontent.com/12855744/139036538-8bd96e38-3bc1-45c5-96e4-f70b2d2f4095.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139036749-7e03c867-3e7b-452d-a2c0-a308759278c7.png" width="50%">
 
 This is not a PyPi package, but amazing  new, lightweight, JavaScript framework.
 
