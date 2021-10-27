@@ -7,8 +7,9 @@ I love listening [Talk Python To Me Podcast](https://talkpython.fm/), a weekly p
 
 This is a community & unofficial compilation of those amazing Notable PyPI or Conda Python Packages highligted at the end of the show.
 
+#2021
 
-# [Episode 338](https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages)
+## [Episode 338](https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages)
 
 - Title: Using cibuildwheel to manage the scikit-HEP packages
 - Published Sun, Oct 17, 2021, recorded Thu, Oct 14, 2021.
@@ -21,7 +22,7 @@ Package: **plotext - Plots data directly on terminaln** [PyPi](https://pypi.org/
 CLI lovers 📣, plotext plots directly on terminal, it has no dependencies and the syntax is very similar to matplotlib. It also provide a simple command line tool.
 
 
-# [Episode 337](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science)
+## [Episode 337](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science)
 
 - Title: Kedro for Maintainable Data Science
 - Published Sat, Oct 9, 2021, recorded Fri, Oct 1, 2021.
@@ -37,7 +38,7 @@ Package #2: **Dynaconf - Configuration Management for Python** [PyPi](https://py
 
  Lazy setting loader on steroids!
 
-# [Episode 336](https://talkpython.fm/episodes/show/336/terminal-magic-with-rich-and-textual)
+## [Episode 336](https://talkpython.fm/episodes/show/336/terminal-magic-with-rich-and-textual)
 
 - Title: Terminal magic with Rich and Textual
 - Published: Tue, Oct 5, 2021, recorded Mon, Sep 27, 2021.
@@ -50,7 +51,7 @@ Package: **Objexplore - Interactive Python Object Explorer** [PyPi](https://pypi
  Objexplore is an interactive Python object explorer for the terminal. Use it while debugging, or exploring a new library, or whatever!
 
 
-# [Episode 335](https://talkpython.fm/episodes/show/335/gene-editing-with-python)
+## [Episode 335](https://talkpython.fm/episodes/show/335/gene-editing-with-python)
 
 - Title: Gene Editing with Python
 - Published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
@@ -70,7 +71,7 @@ Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build compl
 
 
 
-# [Episode 334](https://talkpython.fm/episodes/show/334/microsoft-planetary-computer)
+## [Episode 334](https://talkpython.fm/episodes/show/334/microsoft-planetary-computer)
 
 - Title: Microsoft Planetary Computer
 - Published Sat, Sep 18, 2021, recorded Thu, Sep 9, 2021.
@@ -83,7 +84,7 @@ Package: **Seaborn: Statistical Data Visualization** [PyPi](https://pypi.org/pro
 Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. If matplotlib is for Android users, seaborn is for iPhone users!
 
 
-# [Episode 333](https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021)
+## [Episode 333](https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021)
 
 - Title: State of Data Science in 2021 
 - Published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021
@@ -96,7 +97,7 @@ Package: **CuPy : NumPy & SciPy for GPU** [PyPi](https://pypi.org/project/cupy/)
 CuPy is an open-source array library for GPU-accelerated computing with Python. CuPy utilizes CUDA Toolkit libraries including cuBLAS, cuRAND, cuSOLVER, cuSPARSE, cuFFT, cuDNN and NCCL to make full use of the GPU architecture. Basically, NumPy & SciPy on steroids! 
 
 
-# [Episode 332](https://talkpython.fm/episodes/show/332/robust-python)
+## [Episode 332](https://talkpython.fm/episodes/show/332/robust-python)
 
 - Title: Robust Python
 - Published Tue, Aug 31, 2021, recorded Mon, Aug 30, 2021.
@@ -106,7 +107,8 @@ Package: **Stevedore - Manage dynamic plugins for Python applications** [PyPi](h
 
 Python makes loading code dynamically easy, allowing you to configure and extend your application by discovering and loading extensions ("plugins") at runtime. Many applications implement their own library for doing this, using __import__ or importlib. Stevedore avoids creating yet another extension mechanism by building on top of setuptools entry points. The code for managing entry points tends to be repetitive, though, so stevedore provides manager classes for implementing common patterns for using dynamically loaded extensions.
 
-# [Episode 331](https://talkpython.fm/episodes/show/331/meet-the-python-developer-in-residence-lukasz-langa)
+
+## [Episode 331](https://talkpython.fm/episodes/show/331/meet-the-python-developer-in-residence-lukasz-langa)
 
 - Title: Meet the Python Developer in Residence: Lukasz Langa
 - Published Fri, Aug 27, 2021, recorded Wed, Aug 25, 2021.
@@ -120,7 +122,8 @@ Package: **Black - The uncompromising code formatter** [PyPi](https://pypi.org/p
 
 Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters. We all love Black!
 
-# [Episode 330](https://talkpython.fm/episodes/show/330/apache-airflow-open-source-workflow-with-python)
+
+## [Episode 330](https://talkpython.fm/episodes/show/330/apache-airflow-open-source-workflow-with-python)
 
 - Title: Apache Airflow Open-Source Workflow with Python
 - Published Fri, Aug 20, 2021, recorded Thu, Aug 5, 2021.
@@ -137,7 +140,7 @@ Airflow is a platform created by the community to programmatically author, sched
 Airflow is commonly used to process data, but has the opinion that tasks should ideally be idempotent (i.e., results of the task will be the same, and will not create duplicated data in a destination system), and should not pass large quantities of data from one task to the next (though tasks can pass metadata using Airflow's Xcom feature). For high-volume, data-intensive tasks, a best practice is to delegate to external services specializing in that type of work.
 
 
-# [Episode 329](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)
+## [Episode 329](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)
 
 - Title: Geekout: Renewable Energy
 - Published Fri, Aug 13, 2021, recorded Wed, Aug 4, 2021.
@@ -148,7 +151,7 @@ Package: **None** PyPi | Website | Source Code
 
 
 
-# [Episode 328](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)
+## [Episode 328](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)
 
 - Title: Piccolo: A fast, async ORM for Python (updated)
 - Published Sun, Aug 8, 2021, recorded Thu, Jul 22, 2021.
@@ -162,7 +165,7 @@ Package: **Pydantic - Data validation and settings management** [PyPi](https://p
 Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.6+; validate it with pydantic.
 
 
-# [Episode 327](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
+## [Episode 327](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
 
 - Title: Little Automation Tools in Python
 - Published Fri, Jul 30, 2021, recorded Thu, Jul 15, 2021.
@@ -176,3 +179,9 @@ This is one of the episodes with the most of packages described. Therefore, we p
 
 
 
+# 2020
+# 2019
+# 2018
+# 2017
+# 2016
+# 2015
