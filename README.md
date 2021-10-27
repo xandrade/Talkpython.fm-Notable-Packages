@@ -234,7 +234,7 @@ Rust bindings for Python, including tools for creating native Python extension m
 
 - Title: A path into data science
 - Published Fri, Jun 25, 2021, recorded Thu, Jun 10, 2021.
-- Guest: Sanyam Bhutani [@bhutanisanyam1 ](https://twitter.com/bhutanisanyam1)
+- Guest: Sanyam Bhutani [@bhutanisanyam1](https://twitter.com/bhutanisanyam1)
 
 Package: **fastai - Making neural nets uncool again** [PyPi](https://pypi.org/project/fastai) | [Website](https://www.fast.ai/) | [Source Code](https://)
 
@@ -242,6 +242,18 @@ Package: **fastai - Making neural nets uncool again** [PyPi](https://pypi.org/pr
 
 Simplifies training fast and accurate neural nets using modern best practices.
 
+
+## [Episode #321](https://talkpython.fm/episodes/show/321/htmx-clean-dynamic-html-pages)
+
+- Title: HTMX - Clean, Dynamic HTML Pages
+- Published Sat, Jun 19, 2021, recorded Tue, May 25, 2021.
+- Guest: Carson Gross [@htmx_org](https://twitter.com/htmx_org)
+
+Package: **package_name** PyPi | [Website](https://alpinejs.dev/) | [Source Code](https://github.com/alpinejs/alpine)
+
+<img src="https://user-images.githubusercontent.com/12855744/139036538-8bd96e38-3bc1-45c5-96e4-f70b2d2f4095.png" width="50%">
+
+This is not a PyPi package, but amazing  new, lightweight, JavaScript framework.
 
 # 2020
 # 2019
