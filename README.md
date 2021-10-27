@@ -255,6 +255,20 @@ Package: **Alpine.js** PyPi | [Website](https://alpinejs.dev/) | [Source Code](h
 
 This is not a PyPi package, but amazing  new, lightweight, JavaScript framework.
 
+
+## [Episode 320](https://talkpython.fm/episodes/show/320/python-in-the-electrical-energy-sector)
+
+- Title: Python in the Electrical Energy Sector
+- Published Sat, Jun 12, 2021, recorded Sun, Jun 6, 2021.
+- Guest: Jack Simpson's [Site](https://jacksimpson.co/)
+
+Package: **numba - Accelerate Python Functions by compiling Python code using LLVM** [PyPi](https://pypi.org/project/numba/) | [Website](https://numba.pydata.org/) | [Source Code](https://github.com/numba/numba)
+
+<img src="https://user-images.githubusercontent.com/12855744/139037395-c5ebcf43-9b4e-4234-ad71-2fb2fd1a80ab.png" width="50%">
+
+Numba translates Python functions to optimized machine code at runtime using the industry-standard LLVM compiler library. Numba-compiled numerical algorithms in Python can approach the speeds of C or FORTRAN. You don't need to replace the Python interpreter, run a separate compilation step, or even have a C/C++ compiler installed. Just apply one of the Numba decorators to your Python function, and Numba does the rest.
+
+
 # 2020
 # 2019
 # 2018
