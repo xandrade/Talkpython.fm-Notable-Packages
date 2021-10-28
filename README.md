@@ -284,7 +284,7 @@ NetworkML is the machine learning portion of our Poseidon project. The model in 
 
 - Title: Measuring your ML impact with CodeCarbon
 - Published Fri, May 28, 2021, recorded Wed, May 19, 2021.
-- Guests: Victor Schmidt [@ vict0rsch ](https://twitter.com/vict0rsch) | Jonathan Wilson's [Webpage](https://www.haverford.edu/) | Boris Feld [@Lothiraldan](https://twitter.com/Lothiraldan)
+- Guests: Victor Schmidt [@vict0rsch](https://twitter.com/vict0rsch) | Jonathan Wilson's [Webpage](https://www.haverford.edu/) | Boris Feld [@Lothiraldan](https://twitter.com/Lothiraldan)
 
 Package #1: **rich  — Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal** [PyPi](https://pypi.org/project/rich) | [Website](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
 
