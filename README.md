@@ -280,6 +280,27 @@ Package: **NetworkML - Device Functional Role ID via Machine Learning and Networ
 NetworkML is the machine learning portion of our Poseidon project. The model in networkML classifies each device into a functional role via machine learning models trained on features derived from network traffic. "Functional role" refers to the authorized administrative purpose of the device on the network and includes roles such as printer, mail server, and others typically found in an IT environment. Our internal analysis suggests networkML can achieve accuracy, precision, recall, and F1 scores in the high 90's when trained on devices from your own network. Whether this performance can transfer from IT environment to IT environment is an active area of our research. Dear network administrator 🏃🏃🏃🏃🏃, NetworkML predicts the functional role of network-connected device via network traffic analysis and machine learning.
 
 
+[Episode 318](https://talkpython.fm/episodes/show/318/measuring-your-ml-impact-with-codecarbon)
+
+- Title: Measuring your ML impact with CodeCarbon
+- Published Fri, May 28, 2021, recorded Wed, May 19, 2021.
+- Guests: Victor Schmidt [@ vict0rsch ](https://twitter.com/vict0rsch) | Jonathan Wilson's [Webpage](https://www.haverford.edu/) | Boris Feld [@Lothiraldan](https://twitter.com/Lothiraldan)
+
+Package #1: **rich  — Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal** [PyPi](https://pypi.org/project/rich) | [Website](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
+
+<img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
+
+Rich is a Python library for rich text and beautiful formatting in the terminal. The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more — out of the box. Hey, don't forget to try: ```from rich import print```, most welcome 😎
+
+<img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
+
+Package #2: **FastAPI - web framework for building APIs** [PyPi](https://pypi.org/project/fastapi) | [Website](https://fastapi.tiangolo.com/) | [Source Code](https://github.com/tiangolo/fastapi)
+
+<img src="https://user-images.githubusercontent.com/12855744/139193341-51a8e2d9-0b8d-4b36-b20e-df1ac103d0a5.png" width="50%">
+
+FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. In addition to the API type check feature, I think that the automatic interactive API documentation provided by Swagger UI is 🤯
+
+
 # 2020
 # 2019
 # 2018
