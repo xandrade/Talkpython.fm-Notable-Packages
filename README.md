@@ -294,7 +294,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 <img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
 
-Package #2: **FastAPI - web framework for building APIs** [PyPi](https://pypi.org/project/fastapi) | [Website](https://fastapi.tiangolo.com/) | [Source Code](https://github.com/tiangolo/fastapi)
+Package #2: **FastAPI - A-W-E-S-O-M-E web framework for building APIs** [PyPi](https://pypi.org/project/fastapi) | [Website](https://fastapi.tiangolo.com/) | [Source Code](https://github.com/tiangolo/fastapi)
 
 <img src="https://user-images.githubusercontent.com/12855744/139193341-51a8e2d9-0b8d-4b36-b20e-df1ac103d0a5.png" width="50%">
 
