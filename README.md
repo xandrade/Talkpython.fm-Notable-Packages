@@ -269,6 +269,16 @@ Package: **numba - Accelerate Python Functions by compiling Python code using LL
 Numba translates Python functions to optimized machine code at runtime using the industry-standard LLVM compiler library. Numba-compiled numerical algorithms in Python can approach the speeds of C or FORTRAN. You don't need to replace the Python interpreter, run a separate compilation step, or even have a C/C++ compiler installed. Just apply one of the Numba decorators to your Python function, and Numba does the rest.
 
 
+## [Episode 319](https://talkpython.fm/episodes/show/319/typosquatting-and-supply-chains-vulnerabilities)
+
+- Title: Typosquatting and Supply Chains Vulnerabilities
+- Published Sun, Jun 6, 2021, recorded Wed, May 26, 2021.
+- Guests: Bentz Tozer's [email](btozer@iqt.org) | John Speed Meyers's [email](jmeyers@iqt.org)
+
+Package: **NetworkML - Device Functional Role ID via Machine Learning and Network Traffic Analysis** [PyPi](https://pypi.org/project/networkml) | [Website](https://github.com/IQTLabs/NetworkML) | [Source Code](https://github.com/IQTLabs/NetworkML)
+
+NetworkML is the machine learning portion of our Poseidon project. The model in networkML classifies each device into a functional role via machine learning models trained on features derived from network traffic. "Functional role" refers to the authorized administrative purpose of the device on the network and includes roles such as printer, mail server, and others typically found in an IT environment. Our internal analysis suggests networkML can achieve accuracy, precision, recall, and F1 scores in the high 90's when trained on devices from your own network. Whether this performance can transfer from IT environment to IT environment is an active area of our research.
+
 # 2020
 # 2019
 # 2018
