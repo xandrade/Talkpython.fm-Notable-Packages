@@ -280,7 +280,7 @@ Package: **NetworkML - Device Functional Role ID via Machine Learning and Networ
 NetworkML is the machine learning portion of our Poseidon project. The model in networkML classifies each device into a functional role via machine learning models trained on features derived from network traffic. "Functional role" refers to the authorized administrative purpose of the device on the network and includes roles such as printer, mail server, and others typically found in an IT environment. Our internal analysis suggests networkML can achieve accuracy, precision, recall, and F1 scores in the high 90's when trained on devices from your own network. Whether this performance can transfer from IT environment to IT environment is an active area of our research. Dear network administrator 🏃🏃🏃🏃🏃, NetworkML predicts the functional role of network-connected device via network traffic analysis and machine learning.
 
 
-[Episode 318](https://talkpython.fm/episodes/show/318/measuring-your-ml-impact-with-codecarbon)
+## [Episode 318](https://talkpython.fm/episodes/show/318/measuring-your-ml-impact-with-codecarbon)
 
 - Title: Measuring your ML impact with CodeCarbon
 - Published Fri, May 28, 2021, recorded Wed, May 19, 2021.
