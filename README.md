@@ -344,15 +344,13 @@ Fancy checking your docstrings? flake8-docstrings extension has you covered. Thi
 
 - Title: Ask us about modern Python projects and tools
 - Published Fri, Apr 30, 2021, recorded Mon, Apr 19, 2021.
-- Guest: Sebastian Witowski [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Sebastian Witowski [@SebaWitowski](https://twitter.com/SebaWitowski)
 
+Package: **Awesome Python - Life is short, you need Python** PyPi | [Website](https://awesome-python.com/) | [Source Code](https://github.com/vinta/awesome-python/)
 
+![image](https://user-images.githubusercontent.com/12855744/139469805-289c2835-4d9a-4f54-a5e5-8022371365c1.png)
 
-Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
+A curated list of awesome Python frameworks, libraries, software and resources. Inspired by awesome-php.
 
 
 
