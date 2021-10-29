@@ -358,15 +358,13 @@ A curated list of awesome Python frameworks, libraries, software and resources. 
 
 - Title: Automate your data exchange with PyDantic
 - Published Thu, Apr 22, 2021, recorded Wed, Apr 14, 2021.
-- Guest: Samuel Colvin [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Samuel Colvin [@samuel_colvin](https://twitter.com/samuel_colvin)
 
+Package: **Starlette - The little ASGI library that shines.** [PyPi](https://pypi.org/project/starlette) | [Website](https://github.com/encode/starlette) | [Source Code](https://github.com/encode/starlette)
 
+<img src="https://user-images.githubusercontent.com/12855744/139470371-154d880a-04ab-47e0-be6e-9633011b6e30.png" width="50%">
 
-Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
+Starlette is a lightweight ASGI framework/toolkit, which is ideal for building high performance async services.
 
 
 
