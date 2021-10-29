@@ -305,16 +305,13 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 
 - Title: Python at the US Federal Election Commission
 - Published Fri, May 21, 2021, recorded Wed, May 19, 2021.
-- Guest: Laura Beaufort [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Laura Beaufort [@laurabeaufort](https://twitter.com/@laurabeaufort)
+- 
+Package: **flask_sqlalchemy - Adds SQLAlchemy support to your Flask application.** [PyPi](https://pypi.org/project/flask_sqlalchemy) | [Website](https://https://flask-sqlalchemy.palletsprojects.com/en/) | [Source Code](https://github.com/pallets/flask-sqlalchemy)
 
-notable PyPI package. You know, maybe something cool that used during the project that you're like, oh, people should really know about this. It doesn't get enough press. Sure. I'm a maintainer for flask, SQL alchemy, so it's a really great package community has been super welcoming, and it's the only one I've been able to really get my hands on. So if you're looking for a project to work on all the flask projects are great to contribute to 50:00 Oh, fantastic. Tel
+<img src="https://user-images.githubusercontent.com/12855744/139461078-a30c15ae-1d06-49a3-8cb0-f715c11a5d17.png" width="50%">
 
-Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
-
+Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to your application. It aims to simplify using SQLAlchemy with Flask by providing useful defaults and extra helpers that make it easier to accomplish common tasks. It makes way easy work with databases in Flask.
 
 
 ## [Episode 316](https://talkpython.fm/episodes/show/316/flask-2.0)
