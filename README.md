@@ -57,7 +57,7 @@ Package: **Objexplore** - *Interactive Python Object Explorer* [PyPi](https://py
 - Published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
 - Guest: David Born [@Hypostulate](https://twitter.com/Hypostulate) | [Beam Therapeutics](https://beamtx.com)
 
-Package: **AWS Cloud Development Kit (AWS CDK)* [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
+Package: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Website](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
 
 ![image](https://user-images.githubusercontent.com/12855744/134805873-f9d79c4b-915e-4460-8759-b739a5e72001.png)
 
