@@ -171,7 +171,7 @@ Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define h
 - Published Fri, Jul 30, 2021, recorded Thu, Jul 15, 2021.
 - Guests: Rivers Cuomo [@RiversCuomo](https://twitter.com/RiversCuomo) | Jay Miller [@kjaymiller](https://twitter.com/kjaymiller) | Kim van Wyk [@kim_vanwyk](https://twitter.com/kim_vanwyk) | Rusti Gregory [@greenermountain](https://twitter.com/greenermountain)
 
-Package: **pipx** - * Install and Run Python Applications in Isolated Environments* [PyPi](https://pypi.org/project/pipx) | [Website](https://pypa.github.io/pipx/) | [Source Code](https://github.com/pypa/pipx)
+Package: **pipx** - *Install and Run Python Applications in Isolated Environments* [PyPi](https://pypi.org/project/pipx) | [Website](https://pypa.github.io/pipx/) | [Source Code](https://github.com/pypa/pipx)
 
 <img src="https://user-images.githubusercontent.com/12855744/136707633-b928adba-49d5-4068-88e2-92c16462381a.png" width="50%">
 
@@ -185,7 +185,7 @@ This is one of the episodes with the most of packages described. Therefore, we p
 - Published Fri, Jul 23, 2021, recorded Wed, Jul 14, 2021.
 - Guest: Mike Driscoll [@driscollis](https://twitter.com/driscollis)
 
-Package: **openpyxl** - * A Python library to read/write Excel 2010 xlsx/xlsm files* [PyPi](https://pypi.org/project/openpyxl) | [Website](https://openpyxl.readthedocs.io/en/stable/) | [Source Code](https://foss.heptapod.net/openpyxl/openpyxl)
+Package: **openpyxl** - *A Python library to read/write Excel 2010 xlsx/xlsm files* [PyPi](https://pypi.org/project/openpyxl) | [Website](https://openpyxl.readthedocs.io/en/stable/) | [Source Code](https://foss.heptapod.net/openpyxl/openpyxl)
 
 <img src="https://user-images.githubusercontent.com/12855744/139002636-d2a4c87a-ac15-408e-956b-c65888cd9356.png" width="50%">
 
@@ -197,7 +197,7 @@ Package: **openpyxl** - * A Python library to read/write Excel 2010 xlsx/xlsm fi
 - Published Thu, Jul 15, 2021, recorded Thu, Jul 8, 2021.
 - Guests: Scott [@tannewt](https://twitter.com/tannewt) | Damien's [Site](https://dpgeorge.net)
 
-Package: **HttpPy** - * More comfortable requests with python* [PyPi](https://pypi.org/project/HttpPy/) | [Website](https://github.com/everitosan/HttpPy) | [Source Code](https://github.com/everitosan/HttpPy)
+Package: **HttpPy** - *More comfortable requests with python* [PyPi](https://pypi.org/project/HttpPy/) | [Website](https://github.com/everitosan/HttpPy) | [Source Code](https://github.com/everitosan/HttpPy)
 
 Python based HttpPy for more comfortable requests. Great replacement of wget command (Windows users, most welcome 😇)
 
@@ -208,7 +208,7 @@ Python based HttpPy for more comfortable requests. Great replacement of wget com
 - Published Fri, Jul 9, 2021, recorded Thu, Jul 8, 2021.
 - Guest: Rod Senra [@rodsenra](https://twitter.com/rodsenra)
 
-Package: **rich ** - * Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal* [PyPi](https://pypi.org/project/rich) | [Website](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
+Package: **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal* [PyPi](https://pypi.org/project/rich) | [Website](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
 
 <img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
 
@@ -223,7 +223,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 - Published Sat, Jul 3, 2021, recorded Mon, Jun 14, 2021.
 - Guest: Itamar Turner-Trauring [@itamarst](https://twitter.com/itamarst)
 
-Package: **PyO3** - * Using Python from Rust* [PyPi]() | [Website]() | [Source Code](https://github.com/PyO3/pyo3)
+Package: **PyO3** - *Using Python from Rust* [PyPi]() | [Website]() | [Source Code](https://github.com/PyO3/pyo3)
 
 <img src="https://user-images.githubusercontent.com/12855744/139005910-8a2325eb-88a4-4e7b-92bb-37d5e2319be2.png" width="35%">
 
@@ -253,7 +253,7 @@ Package: **Alpine.js* PyPi | [Website](https://alpinejs.dev/) | [Source Code](ht
 
 <img src="https://user-images.githubusercontent.com/12855744/139036749-7e03c867-3e7b-452d-a2c0-a308759278c7.png" width="50%">
 
-This is not a PyPi package, but amazing  new, lightweight, JavaScript framework.
+This is not a PyPi package, but it is an amazing: new, lightweight, JavaScript framework.
 
 
 ## [Episode 320](https://talkpython.fm/episodes/show/320/python-in-the-electrical-energy-sector)
@@ -286,7 +286,7 @@ NetworkML is the machine learning portion of our Poseidon project. The model in 
 - Published Fri, May 28, 2021, recorded Wed, May 19, 2021.
 - Guests: Victor Schmidt [@vict0rsch](https://twitter.com/vict0rsch) | Jonathan Wilson's [Webpage](https://www.haverford.edu/) | Boris Feld [@Lothiraldan](https://twitter.com/Lothiraldan)
 
-Package #1: **rich ** - * Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal* [PyPi](https://pypi.org/project/rich) | [Website](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
+Package #1: **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal* [PyPi](https://pypi.org/project/rich) | [Website](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
 
 <img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
 
