@@ -331,16 +331,13 @@ Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define h
 
 - Title: Awesome FastAPI extensions and add ons
 - Published Fri, May 7, 2021, recorded Thu, Apr 22, 2021.
-- Guest: Michael Herman [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Michael Herman [@mikeherman](https://twitter.com/mikeherman)
 
-notable py pi package. So I've been using for docstrings. I've been using flake eight doc strings just to pull up my doc strings. And that has helped me, you know, I use like the sort of the Google flavor of doc strings. And that has helped me adhere to that a little bit better. Yeah. I also want to give a shout out to hotwire Django, so hotwire comes from sort of the rails sort of world, but this is essentially HTML served over WebSockets. So instead of like, you know, doing, you know all this
+Package: **flake8-docstrings - Extension for flake8 which uses pydocstyle to check docstrings** [PyPi](https://pypi.org/project/flake8-docstrings/) | [Website](https://gitlab.com/pycqa/flake8-docstrings) | [Source Code](https://gitlab.com/pycqa/flake8-docstrings)
 
-Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/139466227-2d1f4e07-2587-46ed-8ae0-2f40a2096df3.png" width="50%">
 
-<img src="" width="50%">
-
-Content
-
+Fancy checking your docstrings? flake8-docstrings extension has you covered. This is an extension for flake8 which uses pydocstyle to check docstring.
 
 
 ## [Episode 314](https://talkpython.fm/episodes/show/314/ask-us-about-modern-python-projects-and-tools)
