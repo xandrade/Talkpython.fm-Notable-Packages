@@ -318,16 +318,13 @@ Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to y
 
 - Title: Flask 2.0
 - Published Fri, May 14, 2021, recorded Mon, May 10, 2021.
-- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guests: David Lord [@davidism](https://twitter.com/davidism) | Philip Jones [@pdgjones](https://twitter.com/pdgjones) 
 
+Package: **Pydantic - Data validation and settings management** [PyPi](https://pypi.org/project/pydantic/) | [Website](https://github.com/samuelcolvin/pydantic) | [Source Code](https://github.com/samuelcolvin/pydantic)
 
+<img src="https://user-images.githubusercontent.com/12855744/135242282-48d99135-f02e-4421-baec-4d8ff674dd51.png" width="50%">
 
-Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
-
+Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.6+; validate it with pydantic.
 
 
 ## [Episode 315](https://talkpython.fm/episodes/show/315/awesome-fastapi-extensions-and-add-ons)
