@@ -129,7 +129,7 @@ Black is the uncompromising Python code formatter. By using it, you agree to ced
 - Published Fri, Aug 20, 2021, recorded Thu, Aug 5, 2021.
 - Guests: Jarek Potiuk [linkedin.com](https://www.linkedin.com/in/jarekpotiuk/) | Kaxil Naik [@kaxil](https://twitter.com/kaxil) | Leah Cole [@leahecole](https://twitter.com/leahecole)
 
-The question was not asked, but since the team talk about Airflow..
+The question was not asked, but since the team talked about Airflow..
 
 Package: **Apache Airflow** - *Programmatically author, schedule and monitor data pipelines* [PyPi](https://pypi.org/project/apache-airflow/) | [Website](https://airflow.apache.org/) | [Source Code](https://github.com/apache/airflow)
 
