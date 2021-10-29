@@ -301,6 +301,326 @@ Package #2: **FastAPI - A-W-E-S-O-M-E web framework for building APIs** [PyPi](h
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. In addition to the API type check feature, I think that the automatic interactive API documentation provided by Swagger UI is 🤯
 
 
+## [Episode 317](https://talkpython.fm/episodes/show/317/python-at-the-us-federal-election-commission)
+
+- Title: Python at the US Federal Election Commission
+- Published Fri, May 21, 2021, recorded Wed, May 19, 2021.
+- Guest: Laura Beaufort [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable PyPI package. You know, maybe something cool that used during the project that you're like, oh, people should really know about this. It doesn't get enough press. Sure. I'm a maintainer for flask, SQL alchemy, so it's a really great package community has been super welcoming, and it's the only one I've been able to really get my hands on. So if you're looking for a project to work on all the flask projects are great to contribute to 50:00 Oh, fantastic. Tel
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 316](https://talkpython.fm/episodes/show/316/flask-2.0)
+
+- Title: Flask 2.0
+- Published Fri, May 14, 2021, recorded Mon, May 10, 2021.
+- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+
+
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 315](https://talkpython.fm/episodes/show/315/awesome-fastapi-extensions-and-add-ons)
+
+- Title: Awesome FastAPI extensions and add ons
+- Published Fri, May 7, 2021, recorded Thu, Apr 22, 2021.
+- Guest: Michael Herman [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable py pi package. So I've been using for docstrings. I've been using flake eight doc strings just to pull up my doc strings. And that has helped me, you know, I use like the sort of the Google flavor of doc strings. And that has helped me adhere to that a little bit better. Yeah. I also want to give a shout out to hotwire Django, so hotwire comes from sort of the rails sort of world, but this is essentially HTML served over WebSockets. So instead of like, you know, doing, you know all this
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 314](https://talkpython.fm/episodes/show/314/ask-us-about-modern-python-projects-and-tools)
+
+- Title: Ask us about modern Python projects and tools
+- Published Fri, Apr 30, 2021, recorded Mon, Apr 19, 2021.
+- Guest: Sebastian Witowski [ @ twitter_id ](https://twitter.com/twitter_id)
+
+
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 313](https://talkpython.fm/episodes/show/313/automate-your-data-exchange-with-pydantic)
+
+- Title: Automate your data exchange with PyDantic
+- Published Thu, Apr 22, 2021, recorded Wed, Apr 14, 2021.
+- Guest: Samuel Colvin [ @ twitter_id ](https://twitter.com/twitter_id)
+
+
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 312](https://talkpython.fm/episodes/show/312/python-apps-that-scale-to-billions-of-users)
+
+- Title: Python Apps that Scale to Billions of Users
+- Published Sun, Apr 18, 2021, recorded Thu, Apr 8, 2021.
+- Guest: Julien Danjou [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable 'PyPI'package, if you want, you can shout out 'Tenacity' which we covered or something else if you'd like tenacity, and 'jQuery', which I love. jQuery is a tiny wrapper around the logging system, or parents or the stories that I never remember how to configure the logging system in Python, like I do involve logging in a lot. Like, I don't know, to configure it to work like I want. So jQuery does that. It's pretty easy to use it as a function of functional approach, like diversity in its
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 311](https://talkpython.fm/episodes/show/311/get-inside-the-.git-folder)
+
+- Title: Get inside the .git folder
+- Published Thu, Apr 8, 2021, recorded Thu, Apr 1, 2021.
+- Guest: Rob Richardson [ @ twitter_id ](https://twitter.com/twitter_id)
+
+
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 310](https://talkpython.fm/episodes/show/310/ama-ask-me-anything-with-michael)
+
+- Title: AMA (Ask Me Anything) with Michael
+- Published Fri, Apr 2, 2021, recorded Wed, Mar 31, 2021.
+- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable 'pipe project'. 23:47 So I'm using VS code. I like the like the GUI, although I like the auto completion and intelligence of PyCharm more pilots is making a great leap in that regard. You started using peatlands over the 23:47 Python add in, and you find it makes a difference. 23:47 It's pretty good. It's not PyCharm level yet, but I think it's getting there. In my
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 309](https://talkpython.fm/episodes/show/309/what-ml-can-teach-us-about-life-7-lessons)
+
+- Title: What ML Can Teach Us About Life: 7 Lessons
+- Published Fri, Mar 26, 2021, recorded Fri, Mar 19, 2021.
+- Guest: Eugene Yan [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable 'PIP' project or package that something out there maybe not the most popular, but you're like, Oh, I found this thing that was super helpful. Well, off the top of my head. I cannot think of anything, honestly. But one thing that I love that I hope people will love is'Pytest' Yeah. Alright. Yeah, 'Pytest' is super good. Yeah, let me throw out an example for you. Along with this 'Pytest' idea. Something I came across recently is great expectations, which is kind of like automated testing
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 308](https://talkpython.fm/episodes/show/308/docker-for-python-developers-2021-edition)
+
+- Title: Docker for Python Developers (2021 Edition)
+- Published Sat, Mar 20, 2021, recorded Tue, Mar 9, 2021.
+- Guest: Peter McKee [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable PyPi package. This is like something interesting that you ran across, maybe you wanted to share people that find useful some Python library, 23:42 I love testing. So 'test containers.python', that's a little inside joke that no one on here really knows. But I have I have developer friends. So I will. One of my favorites. Things that argue against is testing just as a thought experiment. It's really fun, right? But anyways, but um, don't listen to me testing
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 307](https://talkpython.fm/episodes/show/307/python-from-1994-to-2021-my-how-youve-grown)
+
+- Title: Python from 1994 to 2021, my how you've grown!
+- Published Thu, Mar 11, 2021, recorded Thu, Mar 4, 2021.
+- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+
+
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 306](https://talkpython.fm/episodes/show/306/scaling-python-and-jupyter-with-zeromq)
+
+- Title: Scaling Python and Jupyter with ZeroMQ
+- Published Fri, Mar 5, 2021, recorded Thu, Feb 11, 2021.
+- Guest: Min Ragan-Kelley [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable 'PyPI' packages, I know, you pick two that have some relation back to this challenge of building binary stuff and distributing it. Yeah. So up until December, there was exactly one computer in the world that could build pi 'pyzmq'releases. That's my laptop. And I finally solved that problem, thanks to two wonderful packages. One is 'ci build wheel', which is a more general useful if you have compiled 'Python' packages, 'ci build' builds a wonderful thing for building and distributing all
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 305](https://talkpython.fm/episodes/show/305/python-community-at-python-discord)
+
+- Title: Python community at Python Discord
+- Published Mon, Mar 1, 2021, recorded Thu, Feb 11, 2021.
+- Guest: Leon Sandøy [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable for in the recent days. 12:17 Yeah, I know what you're gonna say. Yeah. Yeah. So 12:19 you did this beautiful song called the 'PEP 8' song. And look at that. It's almost got 30,000 views on YouTube, which is pretty amazing. I'll put the link into the live stream for people to check out. But yeah, what was the inspiration behind that? That was really well received? Yeah. So it was a team effort, right?
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 304](https://talkpython.fm/episodes/show/304/asyncio-all-the-things-with-omnilib)
+
+- Title: asyncio all the things with Omnilib
+- Published Sun, Feb 21, 2021, recorded Tue, Feb 16, 2021.
+- Guest: John Reese [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable PyPI package. I mean, I guess we spent a lot of time on four of them. Right? Yeah. I've also talked about Microsoft yusor. Yeah. So the joke answer is I have a package called 20:00 Seinfeld that's built on top of a SQL Lite. And essentially, you give it a database of Seinfeld scripts. And you can search for things by actor or by keyword of what they're saying. And it will essentially give you back some elements of dialog from a script that contains your sea
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 303](https://talkpython.fm/episodes/show/303/python-for-astronomy-with-dr.-becky)
+
+- Title: Python for Astronomy with Dr. Becky
+- Published Fri, Feb 12, 2021, recorded Thu, Feb 4, 2021.
+- Guest: Dr. Becky Smethurst [ @ twitter_id ](https://twitter.com/twitter_id)
+
+
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 302](https://talkpython.fm/episodes/show/302/the-data-engineering-landscape-in-2021)
+
+- Title: The Data Engineering Landscape in 2021
+- Published Thu, Feb 4, 2021, recorded Fri, Jan 29, 2021.
+- Guest: Tobias Macey [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable PyPI package or packages. Yeah, we kind of touched on some right. Yeah, exactly. I mean, a lot of them in the list here. I'll just mention again, 'Dagster', DBT. And great expectations. Yeah, very nice. All right, but a call to action. You know, people feel excited this what what should they do? Listen to the data engineering podcast, listen to podcast thought in it if you want to understand a little bit more about the whole ecosystem, because since I do spend so much time in the data en
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 301](https://talkpython.fm/episodes/show/301/deploying-and-running-django-web-apps-in-2021)
+
+- Title: Deploying and running Django web apps in 2021
+- Published Thu, Jan 28, 2021, recorded Tue, Jan 19, 2021.
+- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable PyPI package out there that you are like, Oh, my gosh, I ran across this the other day? I can't believe it. Ah, 01:03:24 that's a good question. I'll go back to an old school on which I think is Bleach. Because I've been thinking about a course on forms. And bleach is is aPython one, not gender specific. But you pretty much always want to have that added to this validates like user input to make sure there's no like cross site scripting type stuff. Yeah.
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 300](https://talkpython.fm/episodes/show/300/building-a-data-science-startup-panel)
+
+- Title: Building a data science startup (panel)
+- Published Fri, Jan 22, 2021, recorded Thu, Jan 7, 2021.
+- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+
+
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 299](https://talkpython.fm/episodes/show/299/personal-search-engine-with-datasette-and-dogsheep)
+
+- Title: Personal search engine with datasette and dogsheep
+- Published Sun, Jan 17, 2021, recorded Wed, Nov 18, 2020.
+- Guest: Simon Willison [ @ twitter_id ](https://twitter.com/twitter_id)
+
+Notable 20:00 API package, something you've run across that you're like, Oh, this thing is cool, you should really know about it. This is great because I get sponsored this using dog sheep. Because I've got all of my starred GitHub repos are pulled into my database into dog sheep. And I can actually run a dog sheep or beta search and say, Show me everything I've starred or sorted by most recent. So the most recent Python I start, I just started a store as t o r. I'
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 298](https://talkpython.fm/episodes/show/298/building-ml-teams-and-finding-ml-jobs)
+
+- Title: Building ML teams and finding ML jobs
+- Published Mon, Jan 11, 2021, recorded Wed, Nov 18, 2020.
+- Guest: Chip Huyen [ @ twitter_id ](https://twitter.com/twitter_id)
+
+notable pipe UI package like something some Python library or package that you've come across, like, Oh, this was so cool. People should know about x. 22:59 I'm not sure. Is this a de novo? I think I typed like paper mill. So is this allows you to format it? Yeah, I think it's pretty cool. So now usually I do a lot experiments with like you did notebook 22:59 thing. 22:59 Yeah. And paper mill comes out i
+
+Package: **package_name** [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
 # 2020
 # 2019
 # 2018
