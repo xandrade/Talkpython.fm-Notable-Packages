@@ -433,16 +433,15 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 
 - Title: Docker for Python Developers (2021 Edition)
 - Published Sat, Mar 20, 2021, recorded Tue, Mar 9, 2021.
-- Guest: Peter McKee [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Peter McKee [@pmckee](https://twitter.com/pmckee)
 
 notable PyPi package. This is like something interesting that you ran across, maybe you wanted to share people that find useful some Python library, 23:42 I love testing. So 'test containers.python', that's a little inside joke that no one on here really knows. But I have I have developer friends. So I will. One of my favorites. Things that argue against is testing just as a thought experiment. It's really fun, right? But anyways, but um, don't listen to me testing
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+Package: **testcontainers-python* - *Test almost anything that can run in a Docker container* [PyPi](https://pypi.org/project/testcontainers/) | [Website](https://github.com/testcontainers/testcontainers-python) | [Source Code](https://github.com/testcontainers/testcontainers-python)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139531692-5cbfae15-b014-48f3-b3ec-b0e3b3a3fdc1.png" width="50%">
 
-Content
-
+Python port for testcontainers-java that allows using docker containers for functional and integration testing. Testcontainers-python provides capabilities to spin up docker containers (such as a database, Selenium web browser, or any other container) for testing.
 
 
 ## [Episode 307](https://talkpython.fm/episodes/show/307/python-from-1994-to-2021-my-how-youve-grown)
