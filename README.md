@@ -426,8 +426,7 @@ Package: **Pytest** - *Simple powerful testing with Python* [PyPi](https://pypi.
 
 <img src="https://user-images.githubusercontent.com/12855744/139531324-1e9f3ae6-934c-4bf9-bd10-22a16fb50cb4.png" width="50%">
 
-The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries. Can you belive that [Brian Okken]
-(https://twitter.com/brianokken) has a [book](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/) about it? lol
+The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries. Can you belive that [Brian Okken](https://twitter.com/brianokken) has a [book](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/) about it? lol
 
 
 ## [Episode 308](https://talkpython.fm/episodes/show/308/docker-for-python-developers-2021-edition)
