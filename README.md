@@ -5,7 +5,7 @@ I love listening [Talk Python To Me Podcast](https://talkpython.fm/), a weekly p
 1. If you're going to write some Python code. What editor do you use?
 2. Any notable PyPI (or Conda) package?
 
-This is a community & unofficial compilation of those amazing Notable PyPI or Conda Python Packages highligted at the end of the show.
+This is a community & unofficial compilation of those amazing Notable PyPI (or Conda) Python Packages highligted at the end of the show.
 
 # 2021
 
@@ -372,15 +372,15 @@ Starlette is a lightweight ASGI framework/toolkit, which is ideal for building h
 
 - Title: Python Apps that Scale to Billions of Users
 - Published Sun, Apr 18, 2021, recorded Thu, Apr 8, 2021.
-- Guest: Julien Danjou [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Julien Danjou [@juldanjou](https://twitter.com/juldanjou)
 
 notable 'PyPI'package, if you want, you can shout out 'Tenacity' which we covered or something else if you'd like tenacity, and 'jQuery', which I love. jQuery is a tiny wrapper around the logging system, or parents or the stories that I never remember how to configure the logging system in Python, like I do involve logging in a lot. Like, I don't know, to configure it to work like I want. So jQuery does that. It's pretty easy to use it as a function of functional approach, like diversity in its
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+Package: **tenacity** - Retry code until it succeeds** [PyPi](https://pypi.org/project/tenacity/) | [Website](https://tenacity.readthedocs.io/en/latest/) | [Source Code](https://github.com/jd/tenacity)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139524888-1f517aa8-99fe-4497-bbba-af6406a356fc.pn" width="50%">
 
-Content
+Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from a fork of retrying which is sadly no longer maintained. Tenacity isn't api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
 
 
 
