@@ -448,16 +448,9 @@ Python port for testcontainers-java that allows using docker containers for func
 
 - Title: Python from 1994 to 2021, my how you've grown!
 - Published Thu, Mar 11, 2021, recorded Thu, Mar 4, 2021.
-- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guests: Paul Everitt [@paulweveritt](https://twitter.com/paulweveritt) | Barry Warsaw [@pumpichank](https://twitter.com/pumpichank)
 
-
-
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
-
+There was no time for notable package, but it was an great episode! 
 
 
 ## [Episode 306](https://talkpython.fm/episodes/show/306/scaling-python-and-jupyter-with-zeromq)
