@@ -420,16 +420,14 @@ Click is a Python package for creating beautiful command line interfaces in a co
 
 - Title: What ML Can Teach Us About Life: 7 Lessons
 - Published Fri, Mar 26, 2021, recorded Fri, Mar 19, 2021.
-- Guest: Eugene Yan [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Eugene Yan [@eugeneyan](https://twitter.com/eugeneyan)
 
-notable 'PIP' project or package that something out there maybe not the most popular, but you're like, Oh, I found this thing that was super helpful. Well, off the top of my head. I cannot think of anything, honestly. But one thing that I love that I hope people will love is'Pytest' Yeah. Alright. Yeah, 'Pytest' is super good. Yeah, let me throw out an example for you. Along with this 'Pytest' idea. Something I came across recently is great expectations, which is kind of like automated testing
+Package: **Pytest** - *Simple powerful testing with Python* [PyPi](https://pypi.org/project/pytest) | [Website](https://docs.pytest.org/) | [Source Code](https://github.com/pytest-dev/pytest)
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/139531324-1e9f3ae6-934c-4bf9-bd10-22a16fb50cb4.png" width="50%">
 
-<img src="" width="50%">
-
-Content
-
+The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries. Can you belive that [Brian Okken]
+(https://twitter.com/brianokken) has a [book](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/) about it? lol
 
 
 ## [Episode 308](https://talkpython.fm/episodes/show/308/docker-for-python-developers-2021-edition)
