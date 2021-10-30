@@ -435,9 +435,7 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 - Published Sat, Mar 20, 2021, recorded Tue, Mar 9, 2021.
 - Guest: Peter McKee [@pmckee](https://twitter.com/pmckee)
 
-notable PyPi package. This is like something interesting that you ran across, maybe you wanted to share people that find useful some Python library, 23:42 I love testing. So 'test containers.python', that's a little inside joke that no one on here really knows. But I have I have developer friends. So I will. One of my favorites. Things that argue against is testing just as a thought experiment. It's really fun, right? But anyways, but um, don't listen to me testing
-
-Package: **testcontainers-python* - *Test almost anything that can run in a Docker container* [PyPi](https://pypi.org/project/testcontainers/) | [Website](https://github.com/testcontainers/testcontainers-python) | [Source Code](https://github.com/testcontainers/testcontainers-python)
+Package: **testcontainers-python** - *Test almost anything that can run in a Docker container* [PyPi](https://pypi.org/project/testcontainers/) | [Website](https://github.com/testcontainers/testcontainers-python) | [Source Code](https://github.com/testcontainers/testcontainers-python)
 
 <img src="https://user-images.githubusercontent.com/12855744/139531692-5cbfae15-b014-48f3-b3ec-b0e3b3a3fdc1.png" width="50%">
 
@@ -457,16 +455,15 @@ There was no time for notable package, but it was an great episode!
 
 - Title: Scaling Python and Jupyter with ZeroMQ
 - Published Fri, Mar 5, 2021, recorded Thu, Feb 11, 2021.
-- Guest: Min Ragan-Kelley [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Min Ragan-Kelley [@minrk](https://twitter.com/minrk)
 
 notable 'PyPI' packages, I know, you pick two that have some relation back to this challenge of building binary stuff and distributing it. Yeah. So up until December, there was exactly one computer in the world that could build pi 'pyzmq'releases. That's my laptop. And I finally solved that problem, thanks to two wonderful packages. One is 'ci build wheel', which is a more general useful if you have compiled 'Python' packages, 'ci build' builds a wonderful thing for building and distributing all
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+Package: **cibuildwheel** - *Build Python wheels on CI with minimal configuration* [PyPi](https://pypi.org/project/cibuildwheel) | [Website](https://cibuildwheel.readthedocs.io/en/stable/) | [Source Code](https://github.com/pypa/cibuildwheel)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139532144-a80f1b2b-d214-48b2-8c08-721fcc5b6ef8.png" width="50%">
 
-Content
-
+Python wheels are great. Building them across Mac, Linux, Windows, on multiple versions of Python, is not. ```cibuildwheel``` runs on your CI server - currently it supports GitHub Actions, Azure Pipelines, Travis CI, AppVeyor, CircleCI, and GitLab CI - and it builds and tests your wheels across all of your platforms.
 
 
 ## [Episode 305](https://talkpython.fm/episodes/show/305/python-community-at-python-discord)
