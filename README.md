@@ -376,7 +376,7 @@ Starlette is a lightweight ASGI framework/toolkit, which is ideal for building h
 
 notable 'PyPI'package, if you want, you can shout out 'Tenacity' which we covered or something else if you'd like tenacity, and 'jQuery', which I love. jQuery is a tiny wrapper around the logging system, or parents or the stories that I never remember how to configure the logging system in Python, like I do involve logging in a lot. Like, I don't know, to configure it to work like I want. So jQuery does that. It's pretty easy to use it as a function of functional approach, like diversity in its
 
-Package: **tenacity** - Retry code until it succeeds** [PyPi](https://pypi.org/project/tenacity/) | [Website](https://tenacity.readthedocs.io/en/latest/) | [Source Code](https://github.com/jd/tenacity)
+Package: **tenacity** - *Retry code until it succeeds* [PyPi](https://pypi.org/project/tenacity/) | [Website](https://tenacity.readthedocs.io/en/latest/) | [Source Code](https://github.com/jd/tenacity)
 
 <img src="https://user-images.githubusercontent.com/12855744/139524888-1f517aa8-99fe-4497-bbba-af6406a356fc.pn" width="50%">
 
@@ -388,15 +388,12 @@ Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in 
 
 - Title: Get inside the .git folder
 - Published Thu, Apr 8, 2021, recorded Thu, Apr 1, 2021.
-- Guest: Rob Richardson [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Rob Richardson [@rob_rich](https://twitter.com/rob_rich)
 
 
+Package: **git-hooks-js** - *Utility for managing and running project git hooks for nodejs projects.* ~~PyPi~~ [npm](https://www.npmjs.com/package/git-hooks) | [Website](https://www.npmjs.com/package/git-hooks) | [Source Code](https://github.com/tarmolov/git-hooks-js)
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
+git-hooks is an utility for managing and running project git hooks for nodejs projects. It has zero dependecies and easy to use. Just install git-hooks and it will run your hooks when a hook is called by git.
 
 
 
