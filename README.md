@@ -401,16 +401,19 @@ git-hooks is an utility for managing and running project git hooks for nodejs pr
 
 - Title: AMA (Ask Me Anything) with Michael
 - Published Fri, Apr 2, 2021, recorded Wed, Mar 31, 2021.
-- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guests: Kim van Wyk [@kim_vanwyk](https://twitter.com/kim_vanwyk) | Patrik Hlobil [@hlobilpatrik](https://twitter.com/hlobilpatrik)
 
-notable 'pipe project'. 23:47 So I'm using VS code. I like the like the GUI, although I like the auto completion and intelligence of PyCharm more pilots is making a great leap in that regard. You started using peatlands over the 23:47 Python add in, and you find it makes a difference. 23:47 It's pretty good. It's not PyCharm level yet, but I think it's getting there. In my
+Package #1: **pySerial** - *Python Serial Port Extension* [PyPi](https://pypi.org/project/pyserial) | [Website](https://) | [Source Code](https://)
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/139531073-3353bd6c-597f-4d87-95b1-b115cc1a61b8.png" width="50%">
 
-<img src="" width="50%">
+This module encapsulates the access for the serial port. It provides backends for Python running on Windows, OSX, Linux, BSD (possibly any POSIX compliant system) and IronPython. The module named "serial" automatically selects the appropriate backend.
 
-Content
+Package #2: **Click** - *Composable command line interface toolkit* [PyPi](https://pypi.org/project/Click) | [Website](https://palletsprojects.com/p/click/) | [Source Code](https://github.com/pallets/click/)
 
+<img src="https://user-images.githubusercontent.com/12855744/139531131-9e235afa-0b12-469e-85b7-8dbe4cc80c11.png" width="50%">
+
+Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box. It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
 
 
 ## [Episode 309](https://talkpython.fm/episodes/show/309/what-ml-can-teach-us-about-life-7-lessons)
