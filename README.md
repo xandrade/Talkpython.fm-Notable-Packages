@@ -301,6 +301,25 @@ Package #2: **FastAPI - A-W-E-S-O-M-E web framework for building APIs** [PyPi](h
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. In addition to the API type check feature, I think that the automatic interactive API documentation provided by Swagger UI is 🤯
 
 
+
+## [Episode 317](https://talkpython.fm/episodes/show/317/python-at-the-us-federal-election-commission)
+
+- Title: Python at the US Federal Election Commission
+- Published Fri, May 21, 2021, recorded Wed, May 19, 2021.
+- Guest: Laura Beaufort [@laurabeaufort](https://twitter.com/laurabeaufort)
+
+Package #1: **Flask-SQLAlchemy** [PyPi](https://pypi.org/project/Flask-SQLAlchemy/) | [Website](https://flask-sqlalchemy.palletsprojects.com/en/2.x/) | [Source Code](https://github.com/pallets/flask-sqlalchemy/)
+
+<img src="https://flask-sqlalchemy.palletsprojects.com/en/2.x/_static/flask-sqlalchemy-logo.png" width="50%">
+
+Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to your application. It aims to simplify using SQLAlchemy with Flask by providing useful defaults and extra helpers that make it easier to accomplish common tasks.
+
+<img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
+
+
+
+
+
 # 2020
 # 2019
 # 2018
