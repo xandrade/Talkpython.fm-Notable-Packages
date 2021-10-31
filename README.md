@@ -316,6 +316,34 @@ Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to y
 
 
 
+## [Episode 316]()
+
+- Title: Flask 2.0
+- Published Fri, May 14, 2021, recorded Mon, May 10, 2021.
+- Guests:
+	- [David Lord](https://twitter.com/davidism)
+	- [Philip Jones](https://twitter.com/pdgjones)
+
+David: auto invent
+Phil2: trio
+
+
+Package #1: **Pydantic** [PyPi](https://pypi.org/project/pydantic/) | [Website](https://pydantic-docs.helpmanual.io/) | [Source Code](https://github.com/autoinvent/)
+
+Data validation and settings management using python type annotations. `pydantic` enforces type hints at runtime, and provides user friendly errors when data is invalid.
+
+Package #2: **AutoInvent - Libraries for generating GraphQL API and UI from data. Automatic Inventory!** [PyPi](https://pypi.org/project/magql/) | [Website](https://autoinvent.dev) | [Source Code](https://github.com/autoinvent/)
+
+Magql is a GraphQL framework for Python. It generates a full-featured, customizable GraphQL API for your data. It's pronounced "magical", and it is!
+
+Package #3: **trio** [PyPi](https://pypi.org/project/trio) | [Website](https://trio.readthedocs.io/en/stable/) | [Source Code](https://github.com/python-trio/trio)
+
+<img src="https://warehouse-camo.ingress.cmh1.psfhosted.org/f63e71fb87f195504ac2e118f423678fdd382d94/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f707974686f6e2d7472696f2f7472696f2f396230626563363436613331653064306636376238623665636336393339373236666166336531372f6c6f676f2f6c6f676f2d776974682d6261636b67726f756e642e737667" width="50%">
+
+The Trio project’s goal is to produce a production-quality, permissively licensed, async/await-native I/O library for Python. Like all async libraries, its main purpose is to help you write programs that do multiple things at the same time with parallelized I/O.
+
+
+
 
 # 2020
 # 2019
