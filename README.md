@@ -489,7 +489,7 @@ This package offers several data types to ease working with a Redis cache in an 
 
 Package: **seinfeld** - *Query a Seinfeld quote database* [PyPi](https://pypi.org/project/seinfeld/) | [Website](https://github.com/jreese/libseinfeld) | [Source Code](https://github.com/jreese/libseinfeld)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139571052-5c0dde9a-39ca-421c-83d9-981c51a0ff62.png" width="50%">
 
 Python library for querying Seinfeld quotes. Oh yeah, Seinfeld.
 
