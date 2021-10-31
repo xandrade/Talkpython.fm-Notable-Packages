@@ -316,17 +316,13 @@ Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to y
 
 
 
-## [Episode 316]()
+## [Episode 316](https://talkpython.fm/episodes/show/316/flask-2.0)
 
 - Title: Flask 2.0
 - Published Fri, May 14, 2021, recorded Mon, May 10, 2021.
 - Guests:
 	- [David Lord](https://twitter.com/davidism)
 	- [Philip Jones](https://twitter.com/pdgjones)
-
-David: auto invent
-Phil2: trio
-
 
 Package #1: **Pydantic** [PyPi](https://pypi.org/project/pydantic/) | [Website](https://pydantic-docs.helpmanual.io/) | [Source Code](https://github.com/autoinvent/)
 
