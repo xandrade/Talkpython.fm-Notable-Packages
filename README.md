@@ -503,7 +503,7 @@ Python library for querying Seinfeld quotes. Oh yeah, Seinfeld.
 
 Package: **notebook** - *A web-based notebook environment for interactive computing.* [PyPi](https://pypi.org/project/notebook/) | [Website](https://jupyter-notebook.readthedocs.io/en/stable/) | [Source Code](https://github.com/jupyter/notebook/)
 
-<img src="https://user-images.githubusercontent.com/12855744/139571446-a331dee9-5a90-4896-977c-6734d297d14e.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139571461-5a8ed73b-11c7-4ef0-847a-c5cfebb6f94c.png" width="50%">
 
 The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations, and explanatory text. The Notebook has support for multiple programming languages, sharing, and interactive widgets.
 
