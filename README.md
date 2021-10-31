@@ -470,16 +470,15 @@ Python wheels are great. Building them across Mac, Linux, Windows, on multiple v
 
 - Title: Python community at Python Discord
 - Published Mon, Mar 1, 2021, recorded Thu, Feb 11, 2021.
-- Guest: Leon Sandøy [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Leon Sandøy [@lemonsaurus_rex](https://twitter.com/lemonsaurus_rex)
 
 notable for in the recent days. 12:17 Yeah, I know what you're gonna say. Yeah. Yeah. So 12:19 you did this beautiful song called the 'PEP 8' song. And look at that. It's almost got 30,000 views on YouTube, which is pretty amazing. I'll put the link into the live stream for people to check out. But yeah, what was the inspiration behind that? That was really well received? Yeah. So it was a team effort, right?
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+Package: **async-rediscache** - *An easy to use asynchronous Redis cache.* [PyPi](https://pypi.org/project/async-rediscache/) | [Website](https://github.com/SebastiaanZ/async-rediscache) | [Source Code](https://github.com/SebastiaanZ/async-rediscache)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139570548-1d70a874-3d83-4eb2-9d92-177f1ef3dea9.png" width="50%">
 
-Content
-
+This package offers several data types to ease working with a Redis cache in an asynchronous workflow. The package is currently in development and it's not recommended to start using it in production at this point.
 
 
 ## [Episode 304](https://talkpython.fm/episodes/show/304/asyncio-all-the-things-with-omnilib)
