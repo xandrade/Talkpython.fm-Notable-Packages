@@ -341,6 +341,22 @@ The Trio project’s goal is to produce a production-quality, permissively licen
 
 
 
+## [Episode 315](https://talkpython.fm/episodes/show/315/awesome-fastapi-extensions-and-add-ons)
+
+- Title: Awesome FastAPI extensions and add ons
+- Published Fri, May 7, 2021, recorded Thu, Apr 22, 2021.
+- Guest: Michael Herman [@mikeherman](https://twitter.com/mikeherman)
+
+Package #1: **‌flake8-docstrings** [PyPi](https://pypi.org/project/flake8-docstrings/) | [Website](https://github.com/pycqa/flake8-docstrings) | [Source Code](https://github.com/pycqa/flake8-docstrings)
+
+A simple module that adds an extension for the fantastic pydocstyle tool to flake8.
+
+Package #2: **‌hotwire-django** [PyPi](https://pypi.org/project/hotwire-django/) | [Website](https://github.com/hotwire-django/hotwire-django) | [Source Code](https://github.com/hotwire-django/hotwire-django)
+
+This repository aims to help you integrate Hotwire with Django🚀. Inspiration might be taken from @hotwired/hotwire-rails.
+
+
+
 # 2020
 # 2019
 # 2018
