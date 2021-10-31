@@ -513,15 +513,15 @@ The Jupyter Notebook is a web application that allows you to create and share do
 
 - Title: The Data Engineering Landscape in 2021
 - Published Thu, Feb 4, 2021, recorded Fri, Jan 29, 2021.
-- Guest: Tobias Macey [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Tobias Macey [@TobiasMacey](https://twitter.com/TobiasMacey)
 
 notable PyPI package or packages. Yeah, we kind of touched on some right. Yeah, exactly. I mean, a lot of them in the list here. I'll just mention again, 'Dagster', DBT. And great expectations. Yeah, very nice. All right, but a call to action. You know, people feel excited this what what should they do? Listen to the data engineering podcast, listen to podcast thought in it if you want to understand a little bit more about the whole ecosystem, because since I do spend so much time in the data en
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+Package: **dagster** - *A data orchestrator for machine learning, analytics, and ETL.*  [PyPi](https://pypi.org/project/dagster) | [Website](https://dagster.io/) | [Source Code](https://github.com/dagster-io/dagster)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/139571650-3f19c5df-a025-4451-8963-52d4de7c6bd4.png" width="50%">
 
-Content
+An orchestration platform for the development, production, and observation of data assets. Dagster lets you define jobs in terms of the data flow between reusable, logical components, then test locally and run anywhere. With a unified view of jobs and the assets they produce, Dagster can schedule and orchestrate Pandas, Spark, SQL, or anything else that Python can invoke. Dagster is designed for data platform engineers, data engineers, and full-stack data scientists. Building a data platform with Dagster makes your stakeholders more independent and your systems more robust. Developing data pipelines with Dagster makes testing easier and deploying faster.
 
 
 
