@@ -314,9 +314,6 @@ Package #1: **Flask-SQLAlchemy** [PyPi](https://pypi.org/project/Flask-SQLAlchem
 
 Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to your application. It aims to simplify using SQLAlchemy with Flask by providing useful defaults and extra helpers that make it easier to accomplish common tasks.
 
-<img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
-
-
 
 
 
