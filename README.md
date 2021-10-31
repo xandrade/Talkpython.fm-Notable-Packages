@@ -527,7 +527,7 @@ An orchestration platform for the development, production, and observation of da
 
 - Title: Deploying and running Django web apps in 2021
 - Published Thu, Jan 28, 2021, recorded Tue, Jan 19, 2021.
-- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guests: Will Vincent's [Web](https://wsvincent.com) | Carlton Gibson [@carltongibson](https://twitter.com/carltongibson)
 
 Package: **bleach** - *An easy safelist-based HTML-sanitizing tool.* [PyPi](https://pypi.org/project/bleach/) | [Website](https://github.com/mozilla/bleach) | [Source Code](https://github.com/mozilla/bleach)
 
