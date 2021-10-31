@@ -540,8 +540,7 @@ Bleach is an allowed-list-based HTML sanitizing library that escapes or strips m
 
 - Title: Building a data science startup (panel)
 - Published Fri, Jan 22, 2021, recorded Thu, Jan 7, 2021.
-- Guest: Ines Montani @_inesmontani [@_inesmontani](https://twitter.com/_inesmontani) | Matthew Rocklin  [@mrocklin](https://twitter.com/mrocklin) | Jonathon Morgan [@jonathonmorgan](https://twitter.com/jonathonmorgan) | William Stein [@wstein389](https://twitter.com/wstein389)
-
+- Guest: Ines Montani [@_inesmontani](https://twitter.com/_inesmontani) | Matthew Rocklin  [@mrocklin](https://twitter.com/mrocklin) | Jonathon Morgan [@jonathonmorgan](https://twitter.com/jonathonmorgan) | William Stein [@wstein389](https://twitter.com/wstein389)
 
 There was no time for notable package, but it was an great episode! 
 
