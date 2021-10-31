@@ -535,20 +535,15 @@ Package: **bleach** - *An easy safelist-based HTML-sanitizing tool.* [PyPi](http
 
 Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes. Bleach can also linkify text safely, applying filters that Django's urlize filter cannot, and optionally setting rel attributes, even on links already in the text. Bleach is intended for sanitizing text from untrusted sources. If you find yourself jumping through hoops to allow your site administrators to do lots of things, you're probably outside the use cases. Either trust those users, or don't.
 
+
 ## [Episode 300](https://talkpython.fm/episodes/show/300/building-a-data-science-startup-panel)
 
 - Title: Building a data science startup (panel)
 - Published Fri, Jan 22, 2021, recorded Thu, Jan 7, 2021.
-- Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Ines Montani @_inesmontani [@_inesmontani](https://twitter.com/_inesmontani) | Matthew Rocklin  [@mrocklin](https://twitter.com/mrocklin) | Jonathon Morgan [@jonathonmorgan](https://twitter.com/jonathonmorgan) | William Stein [@wstein389](https://twitter.com/wstein389)
 
 
-
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
-
+There was no time for notable package, but it was an great episode! 
 
 
 ## [Episode 299](https://talkpython.fm/episodes/show/299/personal-search-engine-with-datasette-and-dogsheep)
