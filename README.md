@@ -549,16 +549,11 @@ There was no time for notable package, but it was an great episode!
 
 - Title: Personal search engine with datasette and dogsheep
 - Published Sun, Jan 17, 2021, recorded Wed, Nov 18, 2020.
-- Guest: Simon Willison [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Simon Willison [@simonw](https://twitter.com/simonw)
 
-Notable 20:00 API package, something you've run across that you're like, Oh, this thing is cool, you should really know about it. This is great because I get sponsored this using dog sheep. Because I've got all of my starred GitHub repos are pulled into my database into dog sheep. And I can actually run a dog sheep or beta search and say, Show me everything I've starred or sorted by most recent. So the most recent Python I start, I just started a store as t o r. I'
+Package: **flynt** - *string formatting converter.* [PyPi](https://pypi.org/project/flynt/) | [Website](https://github.com/ikamensh/flynt) | [Source Code](https://github.com/ikamensh/flynt)
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
-
+flynt is a command line tool to automatically convert a project's Python code from old "%-formatted" and .format(...) strings into Python 3.6+'s "f-strings".
 
 
 ## [Episode 298](https://talkpython.fm/episodes/show/298/building-ml-teams-and-finding-ml-jobs)
