@@ -515,8 +515,6 @@ The Jupyter Notebook is a web application that allows you to create and share do
 - Published Thu, Feb 4, 2021, recorded Fri, Jan 29, 2021.
 - Guest: Tobias Macey [@TobiasMacey](https://twitter.com/TobiasMacey)
 
-notable PyPI package or packages. Yeah, we kind of touched on some right. Yeah, exactly. I mean, a lot of them in the list here. I'll just mention again, 'Dagster', DBT. And great expectations. Yeah, very nice. All right, but a call to action. You know, people feel excited this what what should they do? Listen to the data engineering podcast, listen to podcast thought in it if you want to understand a little bit more about the whole ecosystem, because since I do spend so much time in the data en
-
 Package: **dagster** - *A data orchestrator for machine learning, analytics, and ETL.*  [PyPi](https://pypi.org/project/dagster) | [Website](https://dagster.io/) | [Source Code](https://github.com/dagster-io/dagster)
 
 <img src="https://user-images.githubusercontent.com/12855744/139571650-3f19c5df-a025-4451-8963-52d4de7c6bd4.png" width="50%">
@@ -531,15 +529,11 @@ An orchestration platform for the development, production, and observation of da
 - Published Thu, Jan 28, 2021, recorded Tue, Jan 19, 2021.
 - Guest: Panelists [ @ twitter_id ](https://twitter.com/twitter_id)
 
-notable PyPI package out there that you are like, Oh, my gosh, I ran across this the other day? I can't believe it. Ah, 01:03:24 that's a good question. I'll go back to an old school on which I think is Bleach. Because I've been thinking about a course on forms. And bleach is is aPython one, not gender specific. But you pretty much always want to have that added to this validates like user input to make sure there's no like cross site scripting type stuff. Yeah.
+Package: **bleach** - *An easy safelist-based HTML-sanitizing tool.* [PyPi](https://pypi.org/project/bleach/) | [Website](https://github.com/mozilla/bleach) | [Source Code](https://github.com/mozilla/bleach)
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/139571798-fdfe0fce-b583-4351-bb84-383c4e8ac6d5.png" width="50%">
 
-<img src="" width="50%">
-
-Content
-
-
+Bleach is an allowed-list-based HTML sanitizing library that escapes or strips markup and attributes. Bleach can also linkify text safely, applying filters that Django's urlize filter cannot, and optionally setting rel attributes, even on links already in the text. Bleach is intended for sanitizing text from untrusted sources. If you find yourself jumping through hoops to allow your site administrators to do lots of things, you're probably outside the use cases. Either trust those users, or don't.
 
 ## [Episode 300](https://talkpython.fm/episodes/show/300/building-a-data-science-startup-panel)
 
