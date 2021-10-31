@@ -439,7 +439,7 @@ Package: **testcontainers-python** - *Test almost anything that can run in a Doc
 
 <img src="https://user-images.githubusercontent.com/12855744/139531692-5cbfae15-b014-48f3-b3ec-b0e3b3a3fdc1.png" width="50%">
 
-Python port for testcontainers-java that allows using docker containers for functional and integration testing. Testcontainers-python provides capabilities to spin up docker containers (such as a database, Selenium web browser, or any other container) for testing.
+Testcontainers-python provides capabilities to spin up docker containers (such as a database, Selenium web browser, or any other container) for testing.
 
 
 ## [Episode 307](https://talkpython.fm/episodes/show/307/python-from-1994-to-2021-my-how-youve-grown)
@@ -485,16 +485,13 @@ This package offers several data types to ease working with a Redis cache in an 
 
 - Title: asyncio all the things with Omnilib
 - Published Sun, Feb 21, 2021, recorded Tue, Feb 16, 2021.
-- Guest: John Reese [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: John Reese [@n7cmdr](https://twitter.com/n7cmdr)
 
-notable PyPI package. I mean, I guess we spent a lot of time on four of them. Right? Yeah. I've also talked about Microsoft yusor. Yeah. So the joke answer is I have a package called 20:00 Seinfeld that's built on top of a SQL Lite. And essentially, you give it a database of Seinfeld scripts. And you can search for things by actor or by keyword of what they're saying. And it will essentially give you back some elements of dialog from a script that contains your sea
-
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+Package: **seinfeld** - *Query a Seinfeld quote database* [PyPi](https://pypi.org/project/seinfeld/) | [Website](https://github.com/jreese/libseinfeld) | [Source Code](https://github.com/jreese/libseinfeld)
 
 <img src="" width="50%">
 
-Content
-
+Python library for querying Seinfeld quotes. Oh yeah, Seinfeld.
 
 
 ## [Episode 303](https://talkpython.fm/episodes/show/303/python-for-astronomy-with-dr.-becky)
