@@ -498,15 +498,14 @@ Python library for querying Seinfeld quotes. Oh yeah, Seinfeld.
 
 - Title: Python for Astronomy with Dr. Becky
 - Published Fri, Feb 12, 2021, recorded Thu, Feb 4, 2021.
-- Guest: Dr. Becky Smethurst [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Dr. Becky Smethurst [@drbecky_](https://twitter.com/drbecky_)
 
 
+Package: **notebook** - *A web-based notebook environment for interactive computing.* [PyPi](https://pypi.org/project/notebook/) | [Website](https://jupyter-notebook.readthedocs.io/en/stable/) | [Source Code](https://github.com/jupyter/notebook/)
 
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/139571446-a331dee9-5a90-4896-977c-6734d297d14e.png" width="50%">
 
-<img src="" width="50%">
-
-Content
+The Jupyter Notebook is a web application that allows you to create and share documents that contain live code, equations, visualizations, and explanatory text. The Notebook has support for multiple programming languages, sharing, and interactive widgets.
 
 
 
