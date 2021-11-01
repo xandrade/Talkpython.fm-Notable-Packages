@@ -467,8 +467,6 @@ There was no time for notable package, but it was an great episode!
 - Published Fri, Mar 5, 2021, recorded Thu, Feb 11, 2021.
 - Guest: Min Ragan-Kelley [@minrk](https://twitter.com/minrk)
 
-notable 'PyPI' packages, I know, you pick two that have some relation back to this challenge of building binary stuff and distributing it. Yeah. So up until December, there was exactly one computer in the world that could build pi 'pyzmq'releases. That's my laptop. And I finally solved that problem, thanks to two wonderful packages. One is 'ci build wheel', which is a more general useful if you have compiled 'Python' packages, 'ci build' builds a wonderful thing for building and distributing all
-
 Package: **cibuildwheel** - *Build Python wheels on CI with minimal configuration* [PyPi](https://pypi.org/project/cibuildwheel) | [Homepage](https://cibuildwheel.readthedocs.io/en/stable/) | [Source Code](https://github.com/pypa/cibuildwheel)
 
 <img src="https://user-images.githubusercontent.com/12855744/139532144-a80f1b2b-d214-48b2-8c08-721fcc5b6ef8.png" width="50%">
@@ -481,8 +479,6 @@ Python wheels are great. Building them across Mac, Linux, Windows, on multiple v
 - Title: Python community at Python Discord
 - Published Mon, Mar 1, 2021, recorded Thu, Feb 11, 2021.
 - Guest: Leon Sandøy [@lemonsaurus_rex](https://twitter.com/lemonsaurus_rex)
-
-notable for in the recent days. 12:17 Yeah, I know what you're gonna say. Yeah. Yeah. So 12:19 you did this beautiful song called the 'PEP 8' song. And look at that. It's almost got 30,000 views on YouTube, which is pretty amazing. I'll put the link into the live stream for people to check out. But yeah, what was the inspiration behind that? That was really well received? Yeah. So it was a team effort, right?
 
 Package: **async-rediscache** - *An easy to use asynchronous Redis cache.* [PyPi](https://pypi.org/project/async-rediscache/) | [Homepage](https://github.com/SebastiaanZ/async-rediscache) | [Source Code](https://github.com/SebastiaanZ/async-rediscache)
 
