@@ -15,7 +15,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI (or C
 - Published Sun, Oct 17, 2021, recorded Thu, Oct 14, 2021.
 - Guest: Henry Schreiner [@HenrySchreiner3](https://twitter.com/HenrySchreiner3)
 
-Package: **plotext** *Plots data directly on terminal* [PyPi](https://pypi.org/project/plotext/) | [Homepage](https://github.com/piccolomo/plotext) | [Source Code](https://github.com/piccolomo/plotext)
+Package: **plotext** - *Plots data directly on terminal* [PyPi](https://pypi.org/project/plotext/) | [Homepage](https://github.com/piccolomo/plotext) | [Source Code](https://github.com/piccolomo/plotext)
 
 ![image](https://user-images.githubusercontent.com/12855744/138847569-abd614dd-1886-496b-a5ff-6696ca0b796b.png)
 
