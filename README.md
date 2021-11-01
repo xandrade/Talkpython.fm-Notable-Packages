@@ -15,7 +15,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI (or C
 - Published Sun, Oct 17, 2021, recorded Thu, Oct 14, 2021.
 - Guest: Henry Schreiner [@HenrySchreiner3](https://twitter.com/HenrySchreiner3)
 
-Package: **plotext** - *Plots data directly on terminal* [PyPi](https://pypi.org/project/plotext/) | [Homepage](https://github.com/piccolomo/plotext) | [Source Code](https://github.com/piccolomo/plotext)
+Package: **plotext** - *Plots data directly on terminal.* [PyPi](https://pypi.org/project/plotext/) | [Homepage](https://github.com/piccolomo/plotext) | [Source Code](https://github.com/piccolomo/plotext)
 
 ![image](https://user-images.githubusercontent.com/12855744/138847569-abd614dd-1886-496b-a5ff-6696ca0b796b.png)
 
@@ -28,11 +28,11 @@ CLI lovers 📣, plotext plots directly on terminal, it has no dependencies and 
 - Published Sat, Oct 9, 2021, recorded Fri, Oct 1, 2021.
 - Guests: Waylon Walker [@_WaylonWalker](https://twitter.com/_WaylonWalker) | Yetunde Dada [@yetudada](https://twitter.com/yetudada) | Ivan Danov [@ivandanov](https://twitter.com/ivandanov)
 
-Package #1: **fsspec** - *Filesystem interfaces for Python* [PyPi](https://pypi.org/project/fsspec/) | [Homepage](https://filesystem-spec.readthedocs.io/en/latest/) | [Source Code](https://github.com/intake/filesystem_spec)
+Package #1: **fsspec** - *Filesystem interfaces for Python.* [PyPi](https://pypi.org/project/fsspec/) | [Homepage](https://filesystem-spec.readthedocs.io/en/latest/) | [Source Code](https://github.com/intake/filesystem_spec)
 
 Filesystem Spec (fsspec) is a project to provide a unified pythonic interface to local, remote and embedded file systems and bytes storage. As described, tread a remove database as local file!
 
-Package #2: **Dynaconf** - *Configuration Management for Python* [PyPi](https://pypi.org/project/dynaconf/) | [Homepage](https://www.dynaconf.com/) | [Source Code](https://github.com/rochacbruno/dynaconf)
+Package #2: **Dynaconf** - *Configuration Management for Python.* [PyPi](https://pypi.org/project/dynaconf/) | [Homepage](https://www.dynaconf.com/) | [Source Code](https://github.com/rochacbruno/dynaconf)
 
 ![image](https://user-images.githubusercontent.com/12855744/136692271-889f25bf-8040-4fd8-a49e-e8741b1e77f8.png)
 
@@ -44,7 +44,7 @@ Package #2: **Dynaconf** - *Configuration Management for Python* [PyPi](https://
 - Published: Tue, Oct 5, 2021, recorded Mon, Sep 27, 2021.
 - Guest: Will McGugan [@willmcgugan](https://twitter.com/willmcgugan)
 
-Package: **Objexplore** - *Interactive Python Object Explorer* [PyPi](https://pypi.org/project/objexplore/) | [Homepage](https://github.com/kylepollina/objexplore) | [Source Code](https://github.com/kylepollina/objexplore)
+Package: **Objexplore** - *Interactive Python Object Explorer.* [PyPi](https://pypi.org/project/objexplore/) | [Homepage](https://github.com/kylepollina/objexplore) | [Source Code](https://github.com/kylepollina/objexplore)
 
 <img src="https://user-images.githubusercontent.com/12855744/136142250-6f3e7688-ff1e-47cd-8377-a5e50e2a3388.png" width="50%">
 
@@ -57,13 +57,13 @@ Package: **Objexplore** - *Interactive Python Object Explorer* [PyPi](https://py
 - Published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
 - Guest: David Born [@Hypostulate](https://twitter.com/Hypostulate) | [Beam Therapeutics](https://beamtx.com)
 
-Package #1: **AWS Cloud Development Kit (AWS CDK)** [PyPi](https://pypi.org/project/aws-cdk.core/) | [Homepage](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
+Package #1: **AWS Cloud Development Kit (AWS CDK)**. [PyPi](https://pypi.org/project/aws-cdk.core/) | [Homepage](https://docs.aws.amazon.com/cdk/latest/guide/work-with-cdk-python.html) | [Source Code](https://github.com/aws/aws-cdk)
 
 ![image](https://user-images.githubusercontent.com/12855744/134805873-f9d79c4b-915e-4460-8759-b739a5e72001.png)
 
 The AWS Cloud Development Kit (AWS CDK) is an open-source software development framework to define cloud infrastructure in code and provision it through AWS CloudFormation.
 
-Package #2: **Luigi** -  *Workflow mgmgt + task scheduling + dependency resolution* [PyPi](https://pypi.org/project/luigi/) | [Homepage](https://github.com/spotify/luigi) | [Source Code](https://github.com/spotify/luigi)
+Package #2: **Luigi** - *Workflow mgmgt + task scheduling + dependency resolution.* [PyPi](https://pypi.org/project/luigi/) | [Homepage](https://github.com/spotify/luigi) | [Source Code](https://github.com/spotify/luigi)
 
 ![image](https://user-images.githubusercontent.com/12855744/134805722-335e5512-e432-4f43-8b26-3946f5e95496.png)
 
@@ -77,7 +77,7 @@ Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build compl
 - Published Sat, Sep 18, 2021, recorded Thu, Sep 9, 2021.
 - Guests: Rob Emanuele [@lossyrob](https://twitter.com/lossyrob) | Tom Augspurger [@TomAugspurger](https://twitter.com/TomAugspurger)
 
-Package: **Seaborn** - *Statistical Data Visualization* [PyPi](https://pypi.org/project/seaborn/) | [Homepage](https://seaborn.pydata.org/) | [Source Code](https://github.com/cupy/cupy/)
+Package: **Seaborn** - *Statistical Data Visualization.* [PyPi](https://pypi.org/project/seaborn/) | [Homepage](https://seaborn.pydata.org/) | [Source Code](https://github.com/cupy/cupy/)
 
 <img src="https://user-images.githubusercontent.com/12855744/134805244-6561b2e6-9b00-442c-b125-3edd347677ff.png" width="50%">
 
@@ -90,7 +90,7 @@ Seaborn is a Python visualization library based on matplotlib. It provides a hig
 - Published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021
 - Guest: Stan Seibert [@seibert](https://twitter.com/seibert) 
 
-Package: **CuPy** - *NumPy & SciPy for GPU* [PyPi](https://pypi.org/project/cupy/) | [Homepage](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
+Package: **CuPy** - *NumPy & SciPy for GPU.* [PyPi](https://pypi.org/project/cupy/) | [Homepage](https://cupy.dev/) | [Source Code](https://github.com/cupy/cupy/)
 
 <img src="https://user-images.githubusercontent.com/12855744/134486395-6af8b913-9c0b-40f4-9c95-5c51ed44cf53.png" width="50%">
 
@@ -103,7 +103,7 @@ CuPy is an open-source array library for GPU-accelerated computing with Python. 
 - Published Tue, Aug 31, 2021, recorded Mon, Aug 30, 2021.
 - Guest: Patrick Viafore [@PatViaforever](https://twitter.com/PatViaforever) 
 
-Package: **Stevedore** - *Manage dynamic plugins for Python applications* [PyPi](https://pypi.org/project/stevedore/) | [Homepage](https://docs.openstack.org/stevedore/latest/) | [Source Code](https://opendev.org/openstack/stevedore)
+Package: **Stevedore** - *Manage dynamic plugins for Python applications.* [PyPi](https://pypi.org/project/stevedore/) | [Homepage](https://docs.openstack.org/stevedore/latest/) | [Source Code](https://opendev.org/openstack/stevedore)
 
 Python makes loading code dynamically easy, allowing you to configure and extend your application by discovering and loading extensions ("plugins") at runtime. Many applications implement their own library for doing this, using __import__ or importlib. Stevedore avoids creating yet another extension mechanism by building on top of setuptools entry points. The code for managing entry points tends to be repetitive, though, so stevedore provides manager classes for implementing common patterns for using dynamically loaded extensions.
 
@@ -116,7 +116,7 @@ Python makes loading code dynamically easy, allowing you to configure and extend
 
 The question was not asked, but since Łukasz is the author of Black... here we go!
 
-Package: **Black** - *The uncompromising code formatter* [PyPi](https://pypi.org/project/black/) | [Homepage](https://github.com/psf/black/) | [Source Code](https://github.com/psf/black)
+Package: **Black** - *The uncompromising code formatter.* [PyPi](https://pypi.org/project/black/) | [Homepage](https://github.com/psf/black/) | [Source Code](https://github.com/psf/black)
 
 <img src="https://user-images.githubusercontent.com/12855744/134875262-4c0059f8-365c-4df7-8c12-d48e389fa1a6.png" width="50%">
 
@@ -127,11 +127,11 @@ Black is the uncompromising Python code formatter. By using it, you agree to ced
 
 - Title: Apache Airflow Open-Source Workflow with Python
 - Published Fri, Aug 20, 2021, recorded Thu, Aug 5, 2021.
-- Guests: Jarek Potiuk [linkedin.com](https://www.linkedin.com/in/jarekpotiuk/) | Kaxil Naik [@kaxil](https://twitter.com/kaxil) | Leah Cole [@leahecole](https://twitter.com/leahecole)
+- Guests: Jarek Potiuk [LinkedIn](https://www.linkedin.com/in/jarekpotiuk/) | Kaxil Naik [@kaxil](https://twitter.com/kaxil) | Leah Cole [@leahecole](https://twitter.com/leahecole)
 
 The question was not asked, but since the team talked about Airflow..
 
-Package: **Apache Airflow** - *Programmatically author, schedule and monitor data pipelines* [PyPi](https://pypi.org/project/apache-airflow/) | [Homepage](https://airflow.apache.org/) | [Source Code](https://github.com/apache/airflow)
+Package: **Apache Airflow** - *Programmatically author, schedule and monitor data pipelines.* [PyPi](https://pypi.org/project/apache-airflow/) | [Homepage](https://airflow.apache.org/) | [Source Code](https://github.com/apache/airflow)
 
 <img src="https://user-images.githubusercontent.com/12855744/134873876-146ad757-d8e1-4b80-8b85-7a99dcfb43c4.png" width="50%">
 
@@ -147,8 +147,7 @@ Airflow is commonly used to process data, but has the opinion that tasks should 
 - Guest: Richard Campbell [@richcampbell](https://twitter.com/richcampbell)
 
 
-Package: **None* PyPi | Website | Source Code
-
+No time for this question :-(
 
 
 ## [Episode 328](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)
@@ -158,7 +157,7 @@ Package: **None* PyPi | Website | Source Code
 - Guest: Daniel Townsend [@danieltownsend](https://twitter.com/danieltownsend)
 
 
-Package: **Pydantic** - *Data validation and settings management* [PyPi](https://pypi.org/project/pydantic/) | [Homepage](https://github.com/samuelcolvin/pydantic) | [Source Code](https://github.com/samuelcolvin/pydantic)
+Package: **Pydantic** - *Data validation and settings management.* [PyPi](https://pypi.org/project/pydantic/) | [Homepage](https://github.com/samuelcolvin/pydantic) | [Source Code](https://github.com/samuelcolvin/pydantic)
 
 <img src="https://user-images.githubusercontent.com/12855744/135242282-48d99135-f02e-4421-baec-4d8ff674dd51.png" width="50%">
 
@@ -171,7 +170,7 @@ Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define h
 - Published Fri, Jul 30, 2021, recorded Thu, Jul 15, 2021.
 - Guests: Rivers Cuomo [@RiversCuomo](https://twitter.com/RiversCuomo) | Jay Miller [@kjaymiller](https://twitter.com/kjaymiller) | Kim van Wyk [@kim_vanwyk](https://twitter.com/kim_vanwyk) | Rusti Gregory [@greenermountain](https://twitter.com/greenermountain)
 
-Package: **pipx** - *Install and Run Python Applications in Isolated Environments* [PyPi](https://pypi.org/project/pipx) | [Homepage](https://pypa.github.io/pipx/) | [Source Code](https://github.com/pypa/pipx)
+Package: **pipx** - *Install and Run Python Applications in Isolated Environments.* [PyPi](https://pypi.org/project/pipx) | [Homepage](https://pypa.github.io/pipx/) | [Source Code](https://github.com/pypa/pipx)
 
 <img src="https://user-images.githubusercontent.com/12855744/136707633-b928adba-49d5-4068-88e2-92c16462381a.png" width="50%">
 
@@ -185,7 +184,7 @@ This is one of the episodes with the most of packages described. Therefore, we p
 - Published Fri, Jul 23, 2021, recorded Wed, Jul 14, 2021.
 - Guest: Mike Driscoll [@driscollis](https://twitter.com/driscollis)
 
-Package: **openpyxl** - *A Python library to read/write Excel 2010 xlsx/xlsm files* [PyPi](https://pypi.org/project/openpyxl) | [Homepage](https://openpyxl.readthedocs.io/en/stable/) | [Source Code](https://foss.heptapod.net/openpyxl/openpyxl)
+Package: **openpyxl** - *A Python library to read/write Excel 2010 xlsx/xlsm files.* [PyPi](https://pypi.org/project/openpyxl) | [Homepage](https://openpyxl.readthedocs.io/en/stable/) | [Source Code](https://foss.heptapod.net/openpyxl/openpyxl)
 
 <img src="https://user-images.githubusercontent.com/12855744/139002636-d2a4c87a-ac15-408e-956b-c65888cd9356.png" width="50%">
 
@@ -197,7 +196,7 @@ Package: **openpyxl** - *A Python library to read/write Excel 2010 xlsx/xlsm fil
 - Published Thu, Jul 15, 2021, recorded Thu, Jul 8, 2021.
 - Guests: Scott [@tannewt](https://twitter.com/tannewt) | Damien's [Site](https://dpgeorge.net)
 
-Package: **HttpPy** - *More comfortable requests with python* [PyPi](https://pypi.org/project/HttpPy/) | [Homepage](https://github.com/everitosan/HttpPy) | [Source Code](https://github.com/everitosan/HttpPy)
+Package: **HttpPy** - *More comfortable requests with python.* [PyPi](https://pypi.org/project/HttpPy/) | [Homepage](https://github.com/everitosan/HttpPy) | [Source Code](https://github.com/everitosan/HttpPy)
 
 Python based HttpPy for more comfortable requests. Great replacement of wget command (Windows users, most welcome 😇)
 
@@ -208,7 +207,7 @@ Python based HttpPy for more comfortable requests. Great replacement of wget com
 - Published Fri, Jul 9, 2021, recorded Thu, Jul 8, 2021.
 - Guest: Rod Senra [@rodsenra](https://twitter.com/rodsenra)
 
-Package: **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal* [PyPi](https://pypi.org/project/rich) | [Homepage](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
+Package: **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal.* [PyPi](https://pypi.org/project/rich) | [Homepage](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
 
 <img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
 
@@ -223,7 +222,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 - Published Sat, Jul 3, 2021, recorded Mon, Jun 14, 2021.
 - Guest: Itamar Turner-Trauring [@itamarst](https://twitter.com/itamarst)
 
-Package: **PyO3** - *Using Python from Rust* [PyPi]() | [Homepage]() | [Source Code](https://github.com/PyO3/pyo3)
+Package: **PyO3** - *Using Python from Rust.* [PyPi]() | [Homepage]() | [Source Code](https://github.com/PyO3/pyo3)
 
 <img src="https://user-images.githubusercontent.com/12855744/139005910-8a2325eb-88a4-4e7b-92bb-37d5e2319be2.png" width="35%">
 
@@ -236,7 +235,7 @@ Rust bindings for Python, including tools for creating native Python extension m
 - Published Fri, Jun 25, 2021, recorded Thu, Jun 10, 2021.
 - Guest: Sanyam Bhutani [@bhutanisanyam1](https://twitter.com/bhutanisanyam1)
 
-Package: **fastai** - *Making neural nets uncool again* [PyPi](https://pypi.org/project/fastai) | [Homepage](https://www.fast.ai/) | [Source Code](https://)
+Package: **fastai** - *Making neural nets uncool again.* [PyPi](https://pypi.org/project/fastai) | [Homepage](https://www.fast.ai/) | [Source Code](https://)
 
 <img src="https://user-images.githubusercontent.com/12855744/139035317-9e901c29-a2e8-4a99-a813-b3f990080f71.png" width="50%">
 
@@ -262,7 +261,7 @@ This is not a PyPi package, but it is an amazing: new, lightweight, JavaScript f
 - Published Sat, Jun 12, 2021, recorded Sun, Jun 6, 2021.
 - Guest: Jack Simpson's [Site](https://jacksimpson.co/)
 
-Package: **numba** - *Accelerate Python Functions by compiling Python code using LLVM* [PyPi](https://pypi.org/project/numba/) | [Homepage](https://numba.pydata.org/) | [Source Code](https://github.com/numba/numba)
+Package: **numba** - *Accelerate Python Functions by compiling Python code using LLVM.* [PyPi](https://pypi.org/project/numba/) | [Homepage](https://numba.pydata.org/) | [Source Code](https://github.com/numba/numba)
 
 <img src="https://user-images.githubusercontent.com/12855744/139037395-c5ebcf43-9b4e-4234-ad71-2fb2fd1a80ab.png" width="50%">
 
@@ -275,7 +274,7 @@ Numba translates Python functions to optimized machine code at runtime using the
 - Published Sun, Jun 6, 2021, recorded Wed, May 26, 2021.
 - Guests: Bentz Tozer's [email](btozer@iqt.org) | John Speed Meyers's [email](jmeyers@iqt.org)
 
-Package: **NetworkML** - *Device Functional Role ID via Machine Learning and Network Traffic Analysis* [PyPi](https://pypi.org/project/networkml) | [Homepage](https://github.com/IQTLabs/NetworkML) | [Source Code](https://github.com/IQTLabs/NetworkML)
+Package: **NetworkML** - *Device Functional Role ID via Machine Learning and Network Traffic Analysis.* [PyPi](https://pypi.org/project/networkml) | [Homepage](https://github.com/IQTLabs/NetworkML) | [Source Code](https://github.com/IQTLabs/NetworkML)
 
 NetworkML is the machine learning portion of our Poseidon project. The model in networkML classifies each device into a functional role via machine learning models trained on features derived from network traffic. "Functional role" refers to the authorized administrative purpose of the device on the network and includes roles such as printer, mail server, and others typically found in an IT environment. Our internal analysis suggests networkML can achieve accuracy, precision, recall, and F1 scores in the high 90's when trained on devices from your own network. Whether this performance can transfer from IT environment to IT environment is an active area of our research. Dear network administrator 🏃🏃🏃🏃🏃, NetworkML predicts the functional role of network-connected device via network traffic analysis and machine learning.
 
@@ -286,7 +285,7 @@ NetworkML is the machine learning portion of our Poseidon project. The model in 
 - Published Fri, May 28, 2021, recorded Wed, May 19, 2021.
 - Guests: Victor Schmidt [@vict0rsch](https://twitter.com/vict0rsch) | Jonathan Wilson's [Webpage](https://www.haverford.edu/) | Boris Feld [@Lothiraldan](https://twitter.com/Lothiraldan)
 
-Package #1: **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal* [PyPi](https://pypi.org/project/rich) | [Homepage](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
+Package #1: **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal.* [PyPi](https://pypi.org/project/rich) | [Homepage](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
 
 <img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
 
@@ -294,7 +293,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 
 <img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
 
-Package #2: **FastAPI** - *A-W-E-S-O-M-E web framework for building APIs* [PyPi](https://pypi.org/project/fastapi) | [Homepage](https://fastapi.tiangolo.com/) | [Source Code](https://github.com/tiangolo/fastapi)
+Package #2: **FastAPI** - *A-W-E-S-O-M-E web framework for building APIs.* [PyPi](https://pypi.org/project/fastapi) | [Homepage](https://fastapi.tiangolo.com/) | [Source Code](https://github.com/tiangolo/fastapi)
 
 <img src="https://user-images.githubusercontent.com/12855744/139193341-51a8e2d9-0b8d-4b36-b20e-df1ac103d0a5.png" width="50%">
 
@@ -358,7 +357,7 @@ This repository aims to help you integrate Hotwire with Django🚀. Inspiration 
 - Published Fri, Apr 30, 2021, recorded Mon, Apr 19, 2021.
 - Guest: Sebastian Witowski [@SebaWitowski](https://twitter.com/SebaWitowski)
 
-Package: **Awesome Python** - *Life is short, you need Python* PyPi | [Homepage](https://awesome-python.com/) | [Source Code](https://github.com/vinta/awesome-python/)
+Package: **Awesome Python** - *Life is short, you need Python.* PyPi | [Homepage](https://awesome-python.com/) | [Source Code](https://github.com/vinta/awesome-python/)
 
 ![image](https://user-images.githubusercontent.com/12855744/139469805-289c2835-4d9a-4f54-a5e5-8022371365c1.png)
 
@@ -386,8 +385,6 @@ Starlette is a lightweight ASGI framework/toolkit, which is ideal for building h
 - Published Sun, Apr 18, 2021, recorded Thu, Apr 8, 2021.
 - Guest: Julien Danjou [@juldanjou](https://twitter.com/juldanjou)
 
-notable 'PyPI'package, if you want, you can shout out 'Tenacity' which we covered or something else if you'd like tenacity, and 'jQuery', which I love. jQuery is a tiny wrapper around the logging system, or parents or the stories that I never remember how to configure the logging system in Python, like I do involve logging in a lot. Like, I don't know, to configure it to work like I want. So jQuery does that. It's pretty easy to use it as a function of functional approach, like diversity in its
-
 Package: **tenacity** - *Retry code until it succeeds* [PyPi](https://pypi.org/project/tenacity/) | [Homepage](https://tenacity.readthedocs.io/en/latest/) | [Source Code](https://github.com/jd/tenacity)
 
 Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from a fork of retrying which is sadly no longer maintained. Tenacity isn't api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
@@ -413,13 +410,13 @@ git-hooks is an utility for managing and running project git hooks for nodejs pr
 - Published Fri, Apr 2, 2021, recorded Wed, Mar 31, 2021.
 - Guests: Kim van Wyk [@kim_vanwyk](https://twitter.com/kim_vanwyk) | Patrik Hlobil [@hlobilpatrik](https://twitter.com/hlobilpatrik)
 
-Package #1: **pySerial** - *Python Serial Port Extension* [PyPi](https://pypi.org/project/pyserial) | [Homepage](https://) | [Source Code](https://)
+Package #1: **pySerial** - *Python Serial Port Extension.* [PyPi](https://pypi.org/project/pyserial) | [Homepage](https://) | [Source Code](https://)
 
 <img src="https://user-images.githubusercontent.com/12855744/139531073-3353bd6c-597f-4d87-95b1-b115cc1a61b8.png" width="50%">
 
 This module encapsulates the access for the serial port. It provides backends for Python running on Windows, OSX, Linux, BSD (possibly any POSIX compliant system) and IronPython. The module named "serial" automatically selects the appropriate backend.
 
-Package #2: **Click** - *Composable command line interface toolkit* [PyPi](https://pypi.org/project/Click) | [Homepage](https://palletsprojects.com/p/click/) | [Source Code](https://github.com/pallets/click/)
+Package #2: **Click** - *Composable command line interface toolkit.* [PyPi](https://pypi.org/project/Click) | [Homepage](https://palletsprojects.com/p/click/) | [Source Code](https://github.com/pallets/click/)
 
 <img src="https://user-images.githubusercontent.com/12855744/139531131-9e235afa-0b12-469e-85b7-8dbe4cc80c11.png" width="50%">
 
@@ -432,7 +429,7 @@ Click is a Python package for creating beautiful command line interfaces in a co
 - Published Fri, Mar 26, 2021, recorded Fri, Mar 19, 2021.
 - Guest: Eugene Yan [@eugeneyan](https://twitter.com/eugeneyan)
 
-Package: **Pytest** - *Simple powerful testing with Python* [PyPi](https://pypi.org/project/pytest) | [Homepage](https://docs.pytest.org/) | [Source Code](https://github.com/pytest-dev/pytest)
+Package: **Pytest** - *Simple powerful testing with Python.* [PyPi](https://pypi.org/project/pytest) | [Homepage](https://docs.pytest.org/) | [Source Code](https://github.com/pytest-dev/pytest)
 
 <img src="https://user-images.githubusercontent.com/12855744/139531324-1e9f3ae6-934c-4bf9-bd10-22a16fb50cb4.png" width="50%">
 
@@ -445,7 +442,7 @@ The pytest framework makes it easy to write small tests, yet scales to support c
 - Published Sat, Mar 20, 2021, recorded Tue, Mar 9, 2021.
 - Guest: Peter McKee [@pmckee](https://twitter.com/pmckee)
 
-Package: **testcontainers-python** - *Test almost anything that can run in a Docker container* [PyPi](https://pypi.org/project/testcontainers/) | [Homepage](https://github.com/testcontainers/testcontainers-python) | [Source Code](https://github.com/testcontainers/testcontainers-python)
+Package: **testcontainers-python** - *Test almost anything that can run in a Docker container.* [PyPi](https://pypi.org/project/testcontainers/) | [Homepage](https://github.com/testcontainers/testcontainers-python) | [Source Code](https://github.com/testcontainers/testcontainers-python)
 
 <img src="https://user-images.githubusercontent.com/12855744/139531692-5cbfae15-b014-48f3-b3ec-b0e3b3a3fdc1.png" width="50%">
 
@@ -467,7 +464,7 @@ There was no time for notable package, but it was an great episode!
 - Published Fri, Mar 5, 2021, recorded Thu, Feb 11, 2021.
 - Guest: Min Ragan-Kelley [@minrk](https://twitter.com/minrk)
 
-Package: **cibuildwheel** - *Build Python wheels on CI with minimal configuration* [PyPi](https://pypi.org/project/cibuildwheel) | [Homepage](https://cibuildwheel.readthedocs.io/en/stable/) | [Source Code](https://github.com/pypa/cibuildwheel)
+Package: **cibuildwheel** - *Build Python wheels on CI with minimal configuration.* [PyPi](https://pypi.org/project/cibuildwheel) | [Homepage](https://cibuildwheel.readthedocs.io/en/stable/) | [Source Code](https://github.com/pypa/cibuildwheel)
 
 <img src="https://user-images.githubusercontent.com/12855744/139532144-a80f1b2b-d214-48b2-8c08-721fcc5b6ef8.png" width="50%">
 
