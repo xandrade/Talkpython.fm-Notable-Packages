@@ -565,7 +565,6 @@ Package: **flynt** - *string formatting converter.* [PyPi](https://pypi.org/proj
 
 flynt is a command line tool to automatically convert a project's Python code from old "%-formatted" and .format(...) strings into Python 3.6+'s "f-strings".
 
-=======
 
 # 2020
 # 2019
