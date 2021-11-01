@@ -390,8 +390,6 @@ notable 'PyPI'package, if you want, you can shout out 'Tenacity' which we covere
 
 Package: **tenacity** - *Retry code until it succeeds* [PyPi](https://pypi.org/project/tenacity/) | [Website](https://tenacity.readthedocs.io/en/latest/) | [Source Code](https://github.com/jd/tenacity)
 
-<img src="https://user-images.githubusercontent.com/12855744/139524888-1f517aa8-99fe-4497-bbba-af6406a356fc.pn" width="50%">
-
 Tenacity is an Apache 2.0 licensed general-purpose retrying library, written in Python, to simplify the task of adding retry behavior to just about anything. It originates from a fork of retrying which is sadly no longer maintained. Tenacity isn't api compatible with retrying but adds significant new functionality and fixes a number of longstanding bugs.
 
 
