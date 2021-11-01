@@ -347,11 +347,15 @@ The Trio project’s goal is to produce a production-quality, permissively licen
 - Published Fri, May 7, 2021, recorded Thu, Apr 22, 2021.
 - Guest: Michael Herman [@mikeherman](https://twitter.com/mikeherman)
 
-Package: **flake8-docstrings** - *Extension for flake8 which uses pydocstyle to check docstrings* [PyPi](https://pypi.org/project/flake8-docstrings/) | [Website](https://gitlab.com/pycqa/flake8-docstrings) | [Source Code](https://gitlab.com/pycqa/flake8-docstrings)
+Package #1: **flake8-docstrings** [PyPi](https://pypi.org/project/flake8-docstrings/) | [Website](https://github.com/pycqa/flake8-docstrings) | [Source Code](https://github.com/pycqa/flake8-docstrings)
 
 <img src="https://user-images.githubusercontent.com/12855744/139466227-2d1f4e07-2587-46ed-8ae0-2f40a2096df3.png" width="50%">
 
-Fancy checking your docstrings? flake8-docstrings extension has you covered. This is an extension for flake8 which uses pydocstyle to check docstring.
+A simple module that adds an extension for the fantastic pydocstyle tool to flake8.
+
+Package #2: **hotwire-django** [PyPi](https://pypi.org/project/hotwire-django/) | [Website](https://github.com/hotwire-django/hotwire-django) | [Source Code](https://github.com/hotwire-django/hotwire-django)
+
+This repository aims to help you integrate Hotwire with Django🚀. Inspiration might be taken from @hotwired/hotwire-rails.
 
 
 ## [Episode 314](https://talkpython.fm/episodes/show/314/ask-us-about-modern-python-projects-and-tools)
