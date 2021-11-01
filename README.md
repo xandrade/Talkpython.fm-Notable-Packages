@@ -306,7 +306,7 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 - Title: Python at the US Federal Election Commission
 - Published Fri, May 21, 2021, recorded Wed, May 19, 2021.
 - Guest: Laura Beaufort [@laurabeaufort](https://twitter.com/@laurabeaufort)
-- 
+ 
 Package: **Flask-SQLAlchemy** - *Adds SQLAlchemy support to your Flask application.* [PyPi](https://pypi.org/project/flask_sqlalchemy) | [Website](https://https://flask-sqlalchemy.palletsprojects.com/en/) | [Source Code](https://github.com/pallets/flask-sqlalchemy)
 
 <img src="https://user-images.githubusercontent.com/12855744/139461078-a30c15ae-1d06-49a3-8cb0-f715c11a5d17.png" width="50%">
@@ -319,12 +319,6 @@ Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to y
 - Title: Flask 2.0
 - Published Fri, May 14, 2021, recorded Mon, May 10, 2021.
 - Guests: David Lord [@davidism](https://twitter.com/davidism) | Philip Jones [@pdgjones](https://twitter.com/pdgjones) 
-
-Package: **Pydantic** - *Data validation and settings management* [PyPi](https://pypi.org/project/pydantic/) | [Website](https://github.com/samuelcolvin/pydantic) | [Source Code](https://github.com/samuelcolvin/pydantic)
-
-<img src="https://user-images.githubusercontent.com/12855744/135242282-48d99135-f02e-4421-baec-4d8ff674dd51.png" width="50%">
-
-Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.6+; validate it with pydantic.
 
 Package #1: **Pydantic** - *Data validation and settings management.* [PyPi](https://pypi.org/project/pydantic/) | [Website](https://pydantic-docs.helpmanual.io/) | [Source Code](https://github.com/samuelcolvin/pydantic/)
 
@@ -589,6 +583,7 @@ Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://)
 Content
 
 
+=======
 
 # 2020
 # 2019
