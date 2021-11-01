@@ -565,22 +565,6 @@ Package: **flynt** - *string formatting converter.* [PyPi](https://pypi.org/proj
 
 flynt is a command line tool to automatically convert a project's Python code from old "%-formatted" and .format(...) strings into Python 3.6+'s "f-strings".
 
-
-## [Episode 298](https://talkpython.fm/episodes/show/298/building-ml-teams-and-finding-ml-jobs)
-
-- Title: Building ML teams and finding ML jobs
-- Published Mon, Jan 11, 2021, recorded Wed, Nov 18, 2020.
-- Guest: Chip Huyen [ @ twitter_id ](https://twitter.com/twitter_id)
-
-notable pipe UI package like something some Python library or package that you've come across, like, Oh, this was so cool. People should know about x. 22:59 I'm not sure. Is this a de novo? I think I typed like paper mill. So is this allows you to format it? Yeah, I think it's pretty cool. So now usually I do a lot experiments with like you did notebook 22:59 thing. 22:59 Yeah. And paper mill comes out i
-
-Package: **package_name* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
-
-
 =======
 
 # 2020
