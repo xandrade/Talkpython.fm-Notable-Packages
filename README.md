@@ -15,7 +15,7 @@ This is a community & unofficial compilation of those amazing Notable PyPI (or C
 - Published Thu, Nov 4, 2021, recorded Mon, Nov 1, 2021.
 - Guests: Guido van Rossum [@gvanrossum](https://twitter.com/gvanrossum) | Mark Shannon [LinkedIn](https://www.linkedin.com/in/mark-shannon-bb459551/)
 
-No notable package was mentioned during this podcast, but we appreciate the ongoing work for making Python faster (one step at the time).
+No notable package was mentioned during this episode, but we appreciate the ongoing work for making Python faster (one step at the time).
 
 
 ## [Episode 338](https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages)
