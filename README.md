@@ -28,7 +28,7 @@ Package: **plotext** - *Plots data directly on terminal.* [PyPi](https://pypi.or
 
 ![image](https://user-images.githubusercontent.com/12855744/138847569-abd614dd-1886-496b-a5ff-6696ca0b796b.png)
 
-CLI lovers 📣, plotext plots directly on terminal, it has no dependencies and the syntax is very similar to matplotlib. It also provide a simple command line tool.
+CLI lovers 📣, plotext plots directly on terminal, it has no dependencies and the syntax is very similar to matplotlib. It also provides a simple command line tool.
 
 
 ## [Episode 337](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science)
@@ -39,7 +39,7 @@ CLI lovers 📣, plotext plots directly on terminal, it has no dependencies and 
 
 Package #1: **fsspec** - *Filesystem interfaces for Python.* [PyPi](https://pypi.org/project/fsspec/) | [Homepage](https://filesystem-spec.readthedocs.io/en/latest/) | [Source Code](https://github.com/intake/filesystem_spec)
 
-Filesystem Spec (fsspec) is a project to provide a unified pythonic interface to local, remote and embedded file systems and bytes storage. As described, tread a remove database as local file!
+Filesystem Spec (fsspec) is a project to provide a unified pythonic interface to local, remote and embedded file systems and bytes storage. As described, treat a remote database as a local file!
 
 Package #2: **Dynaconf** - *Configuration Management for Python.* [PyPi](https://pypi.org/project/dynaconf/) | [Homepage](https://www.dynaconf.com/) | [Source Code](https://github.com/rochacbruno/dynaconf)
 
@@ -261,7 +261,7 @@ Package: **Alpine.js* PyPi | [Homepage](https://alpinejs.dev/) | [Source Code](h
 
 <img src="https://user-images.githubusercontent.com/12855744/139036749-7e03c867-3e7b-452d-a2c0-a308759278c7.png" width="50%">
 
-This is not a PyPi package, but it is an amazing: new, lightweight, JavaScript framework.
+This is not a PyPi package, but it is a amazing: a new, lightweight, JavaScript framework.
 
 
 ## [Episode 320](https://talkpython.fm/episodes/show/320/python-in-the-electrical-energy-sector)
