@@ -9,6 +9,30 @@ This is a community & unofficial compilation of those amazing Notable PyPI (or C
 
 # 2021
 
+
+## [Episode 340](https://talkpython.fm/episodes/show/340/time-to-jit-your-python-with-pyjion)
+
+- Title: Time to JIT your Python with Pyjion?
+- Published Wed, Nov 10, 2021, recorded Wed, Nov 3, 2021.
+- Guest: Anthony Shaw [@anthonypjshaw](https://twitter.com/anthonypjshaw)
+
+Package #1: **Tortoise ORM** - *Easy async ORM for python, built with relations in mind.* [PyPi](https://pypi.org/project/tortoise-orm/) | [Website](https://tortoise.github.io/) | [Source Code](https://github.com/tortoise/tortoise-orm)
+
+<img src="https://user-images.githubusercontent.com/12855744/141423182-bc3b661f-b0b2-42ed-8609-c7ac80ce7ce1.png" width="50%">
+
+Tortoise ORM is an easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django. Tortoise ORM was built with relations in mind and admiration for the excellent and popular Django ORM. It’s engraved in its design that you are working not with just tables, you work with relational data.
+
+Package #2: **Beanie** - *Asynchronous Python ODM for MongoDB.* [PyPi](https://pypi.org/project/Beanie/) | [Website](https://roman-right.github.io/beanie/) | [Source Code](https://github.com/roman-right/beanie)
+
+![image](https://user-images.githubusercontent.com/12855744/141423414-a7527a59-6d8b-4f00-964b-17136ea635d0.png)
+
+Beanie is an Asynchronous Python object-document mapper (ODM) for MongoDB, based on Motor and Pydantic. When using Beanie each database collection has a corresponding Document that is used to interact with that collection. In addition to retrieving data, Beanie allows you to add, update, or delete documents from the collection as well.
+
+Package #3: **Hathi** - *SQL host scanner and dictionary attack tool* [PyPi](https://pypi.org/project/hathi/) | [Website](https://github.com/tonybaloney/hathi) | [Source Code](https://github.com/tonybaloney/hathi)
+
+A SQL host scanner and dictionary attack tool. Comes with a script (`filter_pass.py`) to filter a series of password lists based on password strength.
+
+
 ## [Episode 339](https://talkpython.fm/episodes/show/339/making-python-faster-with-guido-and-mark)
 
 - Title: Making Python Faster with Guido and Mark
