@@ -28,7 +28,7 @@ Package #2: **Beanie** - *Asynchronous Python ODM for MongoDB.* [PyPi](https://p
 
 Beanie is an Asynchronous Python object-document mapper (ODM) for MongoDB, based on Motor and Pydantic. When using Beanie each database collection has a corresponding Document that is used to interact with that collection. In addition to retrieving data, Beanie allows you to add, update, or delete documents from the collection as well.
 
-Package #3: **Hathi** - * SQL host scanner and dictionary attack tool* [PyPi](https://pypi.org/project/hathi/) | [Website](https://github.com/tonybaloney/hathi) | [Source Code](https://github.com/tonybaloney/hathi)
+Package #3: **Hathi** - *SQL host scanner and dictionary attack tool* [PyPi](https://pypi.org/project/hathi/) | [Website](https://github.com/tonybaloney/hathi) | [Source Code](https://github.com/tonybaloney/hathi)
 
 A SQL host scanner and dictionary attack tool. Comes with a script (`filter_pass.py`) to filter a series of password lists based on password strength.
 
