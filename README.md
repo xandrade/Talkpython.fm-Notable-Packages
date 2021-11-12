@@ -30,6 +30,8 @@ Beanie is an Asynchronous Python object-document mapper (ODM) for MongoDB, based
 
 Package #3: **Hathi** - *SQL host scanner and dictionary attack tool* [PyPi](https://pypi.org/project/hathi/) | [Website](https://github.com/tonybaloney/hathi) | [Source Code](https://github.com/tonybaloney/hathi)
 
+<img src="https://user-images.githubusercontent.com/12855744/141425986-51c92b3b-9771-4467-96ca-1114c9f1ebe6.png" width="50%">
+
 A SQL host scanner and dictionary attack tool. Comes with a script (`filter_pass.py`) to filter a series of password lists based on password strength.
 
 
