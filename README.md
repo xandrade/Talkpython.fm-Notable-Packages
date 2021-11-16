@@ -7,7 +7,7 @@
 
 This is a community & unofficial compilation of those amazing Notable PyPI (or Conda) Python Packages highligted at the end of the show.
 
-Dont forget to hit the star ⭐ button if you like this project and would love to see more such utilities.
+Dont forget to hit the star ⭐ button if you like this project and would love to see updates.
 
 ## Contribute
 Pull requests welcome! Feature requests / bugs will be addressed through issues on this repository. While not every feature request will necessarily be handled by me, maintaining a record for interested contributors is useful.
