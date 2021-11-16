@@ -5,7 +5,9 @@
 1. If you're going to write some Python code. What editor do you use?
 2. Any notable PyPI (or Conda and sometimes npm) package?
 
-This is a community & unofficial compilation of those amazing Notable PyPI (or Conda) Python Packages highligted at the end of the show. 🌟 Star this repo if you found it useful! 🌟
+This is a community & unofficial compilation of those amazing Notable PyPI (or Conda) Python Packages highligted at the end of the show.
+
+Dont forget to hit the star ⭐ button if you like this project and would love to see more such utilities.
 
 # 2021
 
