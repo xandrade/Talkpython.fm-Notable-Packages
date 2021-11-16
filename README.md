@@ -9,6 +9,12 @@ This is a community & unofficial compilation of those amazing Notable PyPI (or C
 
 Dont forget to hit the star ⭐ button if you like this project and would love to see more such utilities.
 
+## Contribute
+Pull requests welcome! Feature requests / bugs will be addressed through issues on this repository. While not every feature request will necessarily be handled by me, maintaining a record for interested contributors is useful.
+
+Additionally, feel free to submit pull requests which add features or address bugs yourself.
+
+
 # 2021
 
 
