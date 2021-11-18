@@ -18,6 +18,19 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2021
 
 
+## [Episode 341](https://talkpython.fm/episodes/show/341/25-pandas-functions-you-didn-t-know-existed)
+
+- Title: 25 Pandas Functions You Didn’t Know Existed
+- Published Wed, Nov 17, 2021, recorded Thu, Nov 4, 2021.
+- Guest: Bex Tuychiev [LinkedIn](https://www.linkedin.com/in/bextuychiev/)
+
+Package: **umap-learn** - *Uniform Manifold Approximation and Projection.* [PyPi](https://pypi.org/project/umap-learn) | [Website](https://umap-learn.readthedocs.io/en/latest/) | [Source Code](https://github.com/lmcinnes/umap)
+
+<img src="https://user-images.githubusercontent.com/12855744/142350425-db878216-b091-49c4-920a-0288dbc7f90d.png" width="50%">
+
+Working with data and searching for a low dimensional projection that has the closest possible equivalent fuzzy topological structure? Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction technique that can be used for visualisation similarly to t-SNE, but also for general non-linear dimension reduction. 
+
+
 ## [Episode 340](https://talkpython.fm/episodes/show/340/time-to-jit-your-python-with-pyjion)
 
 - Title: Time to JIT your Python with Pyjion?
