@@ -24,7 +24,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Wed, Nov 17, 2021, recorded Thu, Nov 4, 2021.
 - Guest: Bex Tuychiev [LinkedIn](https://www.linkedin.com/in/bextuychiev/)
 
-Package: **umap-learn** - *Uniform Manifold Approximation and Projection.l* [PyPi](https://pypi.org/project/umap-learn) | [Website](https://umap-learn.readthedocs.io/en/latest/) | [Source Code](https://github.com/lmcinnes/umap)
+Package: **umap-learn** - *Uniform Manifold Approximation and Projection.* [PyPi](https://pypi.org/project/umap-learn) | [Website](https://umap-learn.readthedocs.io/en/latest/) | [Source Code](https://github.com/lmcinnes/umap)
 
 <img src="https://user-images.githubusercontent.com/12855744/142350425-db878216-b091-49c4-920a-0288dbc7f90d.png" width="50%">
 
