@@ -18,7 +18,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2021
 
 
-## [Episode 342](https://talkpython.fm/episodes/show/342/python-in-architecture-as-in-actual-buildings)✋🏽
+## [Episode 342](https://talkpython.fm/episodes/show/342/python-in-architecture-as-in-actual-buildings)⬅️
 
 - Title: Python in Architecture (as in actual buildings)
 - Published Tue, Nov 23, 2021, recorded Sun, Nov 7, 2021.
@@ -31,7 +31,7 @@ Package: **Pythonic** - *Graphical automation tool.* [PyPi](https://pypi.org/pro
 Pythonic is a graphical programming tool that makes it easy for users to create Python applications using ready-made function modules.
 
 
-## [Episode 341](https://talkpython.fm/episodes/show/341/25-pandas-functions-you-didn-t-know-existed)
+## [Episode 341](https://talkpython.fm/episodes/show/341/25-pandas-functions-you-didn-t-know-existed)⬅️
 
 - Title: 25 Pandas Functions You Didn’t Know Existed
 - Published Wed, Nov 17, 2021, recorded Thu, Nov 4, 2021.
@@ -44,7 +44,7 @@ Package: **umap-learn** - *Uniform Manifold Approximation and Projection.* [PyPi
 Working with data and searching for a low dimensional projection that has the closest possible equivalent fuzzy topological structure? Uniform Manifold Approximation and Projection (UMAP) is a dimension reduction technique that can be used for visualisation similarly to t-SNE, but also for general non-linear dimension reduction. 
 
 
-## [Episode 340](https://talkpython.fm/episodes/show/340/time-to-jit-your-python-with-pyjion)
+## [Episode 340](https://talkpython.fm/episodes/show/340/time-to-jit-your-python-with-pyjion)⬅️
 
 - Title: Time to JIT your Python with Pyjion?
 - Published Wed, Nov 10, 2021, recorded Wed, Nov 3, 2021.
@@ -78,7 +78,7 @@ A SQL host scanner and dictionary attack tool. Comes with a script (`filter_pass
 No notable package was mentioned during this episode, but we appreciate the ongoing work for making Python faster (one step at the time).
 
 
-## [Episode 338](https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages)
+## [Episode 338](https://talkpython.fm/episodes/show/338/using-cibuildwheel-to-manage-the-scikit-hep-packages)⬅️
 
 - Title: Using cibuildwheel to manage the scikit-HEP packages
 - Published Sun, Oct 17, 2021, recorded Thu, Oct 14, 2021.
@@ -91,7 +91,7 @@ Package: **plotext** - *Plots data directly on terminal.* [PyPi](https://pypi.or
 CLI lovers 📣, plotext plots directly on terminal, it has no dependencies and the syntax is very similar to matplotlib. It also provides a simple command line tool.
 
 
-## [Episode 337](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science)
+## [Episode 337](https://talkpython.fm/episodes/show/337/kedro-for-maintainable-data-science)⬅️
 
 - Title: Kedro for Maintainable Data Science
 - Published Sat, Oct 9, 2021, recorded Fri, Oct 1, 2021.
@@ -107,7 +107,7 @@ Package #2: **Dynaconf** - *Configuration Management for Python.* [PyPi](https:/
 
  Lazy setting loader on steroids!
 
-## [Episode 336](https://talkpython.fm/episodes/show/336/terminal-magic-with-rich-and-textual)
+## [Episode 336](https://talkpython.fm/episodes/show/336/terminal-magic-with-rich-and-textual)⬅️
 
 - Title: Terminal magic with Rich and Textual
 - Published: Tue, Oct 5, 2021, recorded Mon, Sep 27, 2021.
@@ -120,7 +120,7 @@ Package: **Objexplore** - *Interactive Python Object Explorer.* [PyPi](https://p
  Objexplore is an interactive Python object explorer for the terminal. Use it while debugging, or exploring a new library, or whatever!
 
  
-## [Episode 335](https://talkpython.fm/episodes/show/335/gene-editing-with-python)
+## [Episode 335](https://talkpython.fm/episodes/show/335/gene-editing-with-python)⬅️
 
 - Title: Gene Editing with Python
 - Published Fri, Sep 24, 2021, recorded Wed, Sep 15, 2021.
@@ -140,7 +140,7 @@ Luigi is a Python (3.6, 3.7, 3.8, 3.9 tested) package that helps you build compl
 
 
 
-## [Episode 334](https://talkpython.fm/episodes/show/334/microsoft-planetary-computer)
+## [Episode 334](https://talkpython.fm/episodes/show/334/microsoft-planetary-computer)⬅️
 
 - Title: Microsoft Planetary Computer
 - Published Sat, Sep 18, 2021, recorded Thu, Sep 9, 2021.
@@ -153,7 +153,7 @@ Package: **Seaborn** - *Statistical Data Visualization.* [PyPi](https://pypi.org
 Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics. If matplotlib is for Android users, seaborn is for iPhone users!
 
 
-## [Episode 333](https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021)
+## [Episode 333](https://talkpython.fm/episodes/show/333/state-of-data-science-in-2021)⬅️
 
 - Title: State of Data Science in 2021 
 - Published Fri, Sep 10, 2021, recorded Thu, Sep 9, 2021
@@ -166,7 +166,7 @@ Package: **CuPy** - *NumPy & SciPy for GPU.* [PyPi](https://pypi.org/project/cup
 CuPy is an open-source array library for GPU-accelerated computing with Python. CuPy utilizes CUDA Toolkit libraries including cuBLAS, cuRAND, cuSOLVER, cuSPARSE, cuFFT, cuDNN and NCCL to make full use of the GPU architecture. Basically, NumPy & SciPy on steroids! 
 
 
-## [Episode 332](https://talkpython.fm/episodes/show/332/robust-python)
+## [Episode 332](https://talkpython.fm/episodes/show/332/robust-python)⬅️
 
 - Title: Robust Python
 - Published Tue, Aug 31, 2021, recorded Mon, Aug 30, 2021.
@@ -219,7 +219,7 @@ Airflow is commonly used to process data, but has the opinion that tasks should 
 No time for this question :-(
 
 
-## [Episode 328](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)
+## [Episode 328](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)⬅️
 
 - Title: Piccolo: A fast, async ORM for Python (updated)
 - Published Sun, Aug 8, 2021, recorded Thu, Jul 22, 2021.
@@ -233,7 +233,7 @@ Package: **Pydantic** - *Data validation and settings management.* [PyPi](https:
 Fast and extensible, pydantic plays nicely with your linters/IDE/brain. Define how data should be in pure, canonical Python 3.6+; validate it with pydantic.
 
 
-## [Episode 327](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)
+## [Episode 327](https://talkpython.fm/episodes/show/327/little-automation-tools-in-python)⬅️
 
 - Title: Little Automation Tools in Python
 - Published Fri, Jul 30, 2021, recorded Thu, Jul 15, 2021.
@@ -247,7 +247,7 @@ This is one of the episodes with the most of packages described. Therefore, we p
 
 
 
-## [Episode 326](https://talkpython.fm/episodes/show/326/building-desktop-apps-with-wxpython)
+## [Episode 326](https://talkpython.fm/episodes/show/326/building-desktop-apps-with-wxpython)⬅️
 
 - Title: Building Desktop Apps with wxPython
 - Published Fri, Jul 23, 2021, recorded Wed, Jul 14, 2021.
@@ -259,7 +259,7 @@ Package: **openpyxl** - *A Python library to read/write Excel 2010 xlsx/xlsm fil
 
 
 
-## [Episode 325](https://talkpython.fm/episodes/show/325/micropython-circuitpython)
+## [Episode 325](https://talkpython.fm/episodes/show/325/micropython-circuitpython)⬅️
 
 - Title: MicroPython + CircuitPython
 - Published Thu, Jul 15, 2021, recorded Thu, Jul 8, 2021.
@@ -270,7 +270,7 @@ Package: **HttpPy** - *More comfortable requests with python.* [PyPi](https://py
 Python based HttpPy for more comfortable requests. Great replacement of wget command (Windows users, most welcome 😇)
 
 
-## [Episode 324](https://talkpython.fm/episodes/show/324/gatorade-powered-python-apis)
+## [Episode 324](https://talkpython.fm/episodes/show/324/gatorade-powered-python-apis)⬅️
 
 - Title: Gatorade-powered Python APIs
 - Published Fri, Jul 9, 2021, recorded Thu, Jul 8, 2021.
@@ -285,7 +285,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 <img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
 
 
-## [Episode 323](https://talkpython.fm/episodes/show/323/best-practices-for-docker-in-production)
+## [Episode 323](https://talkpython.fm/episodes/show/323/best-practices-for-docker-in-production)⬅️
 
 - Title: Best practices for Docker in production
 - Published Sat, Jul 3, 2021, recorded Mon, Jun 14, 2021.
@@ -298,7 +298,7 @@ Package: **PyO3** - *Using Python from Rust.* [PyPi]() | [Homepage]() | [Source 
 Rust bindings for Python, including tools for creating native Python extension modules. Running and interacting with Python code from a Rust binary is also supported.
 
 
-## [Episode 322](https://talkpython.fm/episodes/show/322/a-path-into-data-science)
+## [Episode 322](https://talkpython.fm/episodes/show/322/a-path-into-data-science)⬅️
 
 - Title: A path into data science
 - Published Fri, Jun 25, 2021, recorded Thu, Jun 10, 2021.
@@ -324,7 +324,7 @@ Package: **Alpine.js* PyPi | [Homepage](https://alpinejs.dev/) | [Source Code](h
 This is not a PyPi package, but it is a amazing: a new, lightweight, JavaScript framework.
 
 
-## [Episode 320](https://talkpython.fm/episodes/show/320/python-in-the-electrical-energy-sector)
+## [Episode 320](https://talkpython.fm/episodes/show/320/python-in-the-electrical-energy-sector)⬅️
 
 - Title: Python in the Electrical Energy Sector
 - Published Sat, Jun 12, 2021, recorded Sun, Jun 6, 2021.
@@ -337,7 +337,7 @@ Package: **numba** - *Accelerate Python Functions by compiling Python code using
 Numba translates Python functions to optimized machine code at runtime using the industry-standard LLVM compiler library. Numba-compiled numerical algorithms in Python can approach the speeds of C or FORTRAN. You don't need to replace the Python interpreter, run a separate compilation step, or even have a C/C++ compiler installed. Just apply one of the Numba decorators to your Python function, and Numba does the rest.
 
 
-## [Episode 319](https://talkpython.fm/episodes/show/319/typosquatting-and-supply-chains-vulnerabilities)
+## [Episode 319](https://talkpython.fm/episodes/show/319/typosquatting-and-supply-chains-vulnerabilities)⬅️
 
 - Title: Typosquatting and Supply Chains Vulnerabilities
 - Published Sun, Jun 6, 2021, recorded Wed, May 26, 2021.
@@ -348,7 +348,7 @@ Package: **NetworkML** - *Device Functional Role ID via Machine Learning and Net
 NetworkML is the machine learning portion of our Poseidon project. The model in networkML classifies each device into a functional role via machine learning models trained on features derived from network traffic. "Functional role" refers to the authorized administrative purpose of the device on the network and includes roles such as printer, mail server, and others typically found in an IT environment. Our internal analysis suggests networkML can achieve accuracy, precision, recall, and F1 scores in the high 90's when trained on devices from your own network. Whether this performance can transfer from IT environment to IT environment is an active area of our research. Dear network administrator 🏃🏃🏃🏃🏃, NetworkML predicts the functional role of network-connected device via network traffic analysis and machine learning.
 
 
-## [Episode 318](https://talkpython.fm/episodes/show/318/measuring-your-ml-impact-with-codecarbon)
+## [Episode 318](https://talkpython.fm/episodes/show/318/measuring-your-ml-impact-with-codecarbon)⬅️
 
 - Title: Measuring your ML impact with CodeCarbon
 - Published Fri, May 28, 2021, recorded Wed, May 19, 2021.
@@ -369,7 +369,7 @@ Package #2: **FastAPI** - *A-W-E-S-O-M-E web framework for building APIs.* [PyPi
 FastAPI is a modern, fast (high-performance), web framework for building APIs with Python 3.6+ based on standard Python type hints. In addition to the API type check feature, I think that the automatic interactive API documentation provided by Swagger UI is 🤯
 
 
-## [Episode 317](https://talkpython.fm/episodes/show/317/python-at-the-us-federal-election-commission)
+## [Episode 317](https://talkpython.fm/episodes/show/317/python-at-the-us-federal-election-commission)⬅️
 
 - Title: Python at the US Federal Election Commission
 - Published Fri, May 21, 2021, recorded Wed, May 19, 2021.
@@ -382,7 +382,7 @@ Package: **Flask-SQLAlchemy** - *Adds SQLAlchemy support to your Flask applicati
 Flask-SQLAlchemy is an extension for Flask that adds support for SQLAlchemy to your application. It aims to simplify using SQLAlchemy with Flask by providing useful defaults and extra helpers that make it easier to accomplish common tasks.
 
 
-## [Episode 316](https://talkpython.fm/episodes/show/316/flask-2.0)
+## [Episode 316](https://talkpython.fm/episodes/show/316/flask-2.0)⬅️
 
 - Title: Flask 2.0
 - Published Fri, May 14, 2021, recorded Mon, May 10, 2021.
@@ -403,7 +403,7 @@ Package #3: **trio** - *A friendly Python library for async concurrency and I/O.
 The Trio project’s goal is to produce a production-quality, permissively licensed, async/await-native I/O library for Python. Like all async libraries, its main purpose is to help you write programs that do multiple things at the same time with parallelized I/O.
 
 
-## [Episode 315](https://talkpython.fm/episodes/show/315/awesome-fastapi-extensions-and-add-ons)
+## [Episode 315](https://talkpython.fm/episodes/show/315/awesome-fastapi-extensions-and-add-ons)⬅️
 
 - Title: Awesome FastAPI extensions and add ons
 - Published Fri, May 7, 2021, recorded Thu, Apr 22, 2021.
@@ -434,7 +434,7 @@ A curated list of awesome Python frameworks, libraries, software and resources. 
 
 
 
-## [Episode 313](https://talkpython.fm/episodes/show/313/automate-your-data-exchange-with-pydantic)
+## [Episode 313](https://talkpython.fm/episodes/show/313/automate-your-data-exchange-with-pydantic)⬅️
 
 - Title: Automate your data exchange with PyDantic
 - Published Thu, Apr 22, 2021, recorded Wed, Apr 14, 2021.
@@ -448,7 +448,7 @@ Starlette is a lightweight ASGI framework/toolkit, which is ideal for building h
 
 
 
-## [Episode 312](https://talkpython.fm/episodes/show/312/python-apps-that-scale-to-billions-of-users)
+## [Episode 312](https://talkpython.fm/episodes/show/312/python-apps-that-scale-to-billions-of-users)⬅️
 
 - Title: Python Apps that Scale to Billions of Users
 - Published Sun, Apr 18, 2021, recorded Thu, Apr 8, 2021.
@@ -473,7 +473,7 @@ git-hooks is an utility for managing and running project git hooks for nodejs pr
 
 
 
-## [Episode 310](https://talkpython.fm/episodes/show/310/ama-ask-me-anything-with-michael)
+## [Episode 310](https://talkpython.fm/episodes/show/310/ama-ask-me-anything-with-michael)⬅️
 
 - Title: AMA (Ask Me Anything) with Michael
 - Published Fri, Apr 2, 2021, recorded Wed, Mar 31, 2021.
@@ -492,7 +492,7 @@ Package #2: **Click** - *Composable command line interface toolkit.* [PyPi](http
 Click is a Python package for creating beautiful command line interfaces in a composable way with as little code as necessary. It’s the “Command Line Interface Creation Kit”. It’s highly configurable but comes with sensible defaults out of the box. It aims to make the process of writing command line tools quick and fun while also preventing any frustration caused by the inability to implement an intended CLI API.
 
 
-## [Episode 309](https://talkpython.fm/episodes/show/309/what-ml-can-teach-us-about-life-7-lessons)
+## [Episode 309](https://talkpython.fm/episodes/show/309/what-ml-can-teach-us-about-life-7-lessons)⬅️
 
 - Title: What ML Can Teach Us About Life: 7 Lessons
 - Published Fri, Mar 26, 2021, recorded Fri, Mar 19, 2021.
@@ -505,7 +505,7 @@ Package: **Pytest** - *Simple powerful testing with Python.* [PyPi](https://pypi
 The pytest framework makes it easy to write small tests, yet scales to support complex functional testing for applications and libraries. Can you belive that [Brian Okken](https://twitter.com/brianokken) has a [book](https://pragprog.com/titles/bopytest2/python-testing-with-pytest-second-edition/) about it? lol
 
 
-## [Episode 308](https://talkpython.fm/episodes/show/308/docker-for-python-developers-2021-edition)
+## [Episode 308](https://talkpython.fm/episodes/show/308/docker-for-python-developers-2021-edition)⬅️
 
 - Title: Docker for Python Developers (2021 Edition)
 - Published Sat, Mar 20, 2021, recorded Tue, Mar 9, 2021.
@@ -527,7 +527,7 @@ Testcontainers-python provides capabilities to spin up docker containers (such a
 There was no time for notable package, but it was an great episode! 
 
 
-## [Episode 306](https://talkpython.fm/episodes/show/306/scaling-python-and-jupyter-with-zeromq)
+## [Episode 306](https://talkpython.fm/episodes/show/306/scaling-python-and-jupyter-with-zeromq)⬅️
 
 - Title: Scaling Python and Jupyter with ZeroMQ
 - Published Fri, Mar 5, 2021, recorded Thu, Feb 11, 2021.
@@ -540,7 +540,7 @@ Package: **cibuildwheel** - *Build Python wheels on CI with minimal configuratio
 Python wheels are great. Building them across Mac, Linux, Windows, on multiple versions of Python, is not. ```cibuildwheel``` runs on your CI server - currently it supports GitHub Actions, Azure Pipelines, Travis CI, AppVeyor, CircleCI, and GitLab CI - and it builds and tests your wheels across all of your platforms.
 
 
-## [Episode 305](https://talkpython.fm/episodes/show/305/python-community-at-python-discord)
+## [Episode 305](https://talkpython.fm/episodes/show/305/python-community-at-python-discord)⬅️
 
 - Title: Python community at Python Discord
 - Published Mon, Mar 1, 2021, recorded Thu, Feb 11, 2021.
@@ -553,7 +553,7 @@ Package: **async-rediscache** - *An easy to use asynchronous Redis cache.* [PyPi
 This package offers several data types to ease working with a Redis cache in an asynchronous workflow. The package is currently in development and it's not recommended to start using it in production at this point.
 
 
-## [Episode 304](https://talkpython.fm/episodes/show/304/asyncio-all-the-things-with-omnilib)
+## [Episode 304](https://talkpython.fm/episodes/show/304/asyncio-all-the-things-with-omnilib)⬅️
 
 - Title: asyncio all the things with Omnilib
 - Published Sun, Feb 21, 2021, recorded Tue, Feb 16, 2021.
@@ -566,7 +566,7 @@ Package: **seinfeld** - *Query a Seinfeld quote database* [PyPi](https://pypi.or
 Python library for querying Seinfeld quotes. Oh yeah, Seinfeld.
 
 
-## [Episode 303](https://talkpython.fm/episodes/show/303/python-for-astronomy-with-dr.-becky)
+## [Episode 303](https://talkpython.fm/episodes/show/303/python-for-astronomy-with-dr.-becky)⬅️
 
 - Title: Python for Astronomy with Dr. Becky
 - Published Fri, Feb 12, 2021, recorded Thu, Feb 4, 2021.
@@ -581,7 +581,7 @@ The Jupyter Notebook is a web application that allows you to create and share do
 
 
 
-## [Episode 302](https://talkpython.fm/episodes/show/302/the-data-engineering-landscape-in-2021)
+## [Episode 302](https://talkpython.fm/episodes/show/302/the-data-engineering-landscape-in-2021)⬅️
 
 - Title: The Data Engineering Landscape in 2021
 - Published Thu, Feb 4, 2021, recorded Fri, Jan 29, 2021.
@@ -595,7 +595,7 @@ An orchestration platform for the development, production, and observation of da
 
 
 
-## [Episode 301](https://talkpython.fm/episodes/show/301/deploying-and-running-django-web-apps-in-2021)
+## [Episode 301](https://talkpython.fm/episodes/show/301/deploying-and-running-django-web-apps-in-2021)⬅️
 
 - Title: Deploying and running Django web apps in 2021
 - Published Thu, Jan 28, 2021, recorded Tue, Jan 19, 2021.
@@ -617,7 +617,7 @@ Bleach is an allowed-list-based HTML sanitizing library that escapes or strips m
 There was no time for notable package, but it was an great episode! 
 
 
-## [Episode 299](https://talkpython.fm/episodes/show/299/personal-search-engine-with-datasette-and-dogsheep)
+## [Episode 299](https://talkpython.fm/episodes/show/299/personal-search-engine-with-datasette-and-dogsheep)⬅️
 
 - Title: Personal search engine with datasette and dogsheep
 - Published Sun, Jan 17, 2021, recorded Wed, Nov 18, 2020.
