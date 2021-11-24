@@ -18,6 +18,19 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2021
 
 
+## [Episode 342](https://talkpython.fm/episodes/show/342/python-in-architecture-as-in-actual-buildings)
+
+- Title: Python in Architecture (as in actual buildings)
+- Published Tue, Nov 23, 2021, recorded Sun, Nov 7, 2021.
+- Guest: Gui Talarico [ @ twitter_id ](https://twitter.com/twitter_id)
+
+Package: **Pythonic** - *Graphical automation tool.* [PyPi](https://pypi.org/project/pythonic) | [Website](https://github.com/hANSIc99/Pythonic) | [Source Code](https://github.com/hANSIc99/Pythonic)
+
+<img src="https://user-images.githubusercontent.com/12855744/143287362-d8c7d821-c983-493f-8c1c-5382279cde3e.png" width="50%">
+
+Pythonic is a graphical programming tool that makes it easy for users to create Python applications using ready-made function modules.
+
+
 ## [Episode 341](https://talkpython.fm/episodes/show/341/25-pandas-functions-you-didn-t-know-existed)
 
 - Title: 25 Pandas Functions You Didn’t Know Existed
