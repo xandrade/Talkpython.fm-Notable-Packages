@@ -304,7 +304,7 @@ Rust bindings for Python, including tools for creating native Python extension m
 - Published Fri, Jun 25, 2021, recorded Thu, Jun 10, 2021.
 - Guest: Sanyam Bhutani [@bhutanisanyam1](https://twitter.com/bhutanisanyam1)
 
-Package: **fastai** - *Making neural nets uncool again.* [PyPi](https://pypi.org/project/fastai) | [Homepage](https://www.fast.ai/) | [Source Code](https://)
+Package: **fastai** - *Making neural nets uncool again.* [PyPi](https://pypi.org/project/fastai) | [Homepage](https://www.fast.ai/) | [Source Code](https://github.com/fastai/fastai/)
 
 <img src="https://user-images.githubusercontent.com/12855744/139035317-9e901c29-a2e8-4a99-a813-b3f990080f71.png" width="50%">
 
