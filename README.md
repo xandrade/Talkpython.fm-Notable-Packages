@@ -18,7 +18,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2021
 
 
-## [Episode 342](https://talkpython.fm/episodes/show/342/python-in-architecture-as-in-actual-buildings)
+## [Episode 342](https://talkpython.fm/episodes/show/342/python-in-architecture-as-in-actual-buildings)✋🏽
 
 - Title: Python in Architecture (as in actual buildings)
 - Published Tue, Nov 23, 2021, recorded Sun, Nov 7, 2021.
