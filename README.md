@@ -22,7 +22,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 - Title: Python in Architecture (as in actual buildings)
 - Published Tue, Nov 23, 2021, recorded Sun, Nov 7, 2021.
-- Guest: Gui Talarico [ @ twitter_id ](https://twitter.com/twitter_id)
+- Guest: Gui Talarico on [GitHub](github.com/gtalarico/gtalarico)
 
 Package: **Pythonic** - *Graphical automation tool.* [PyPi](https://pypi.org/project/pythonic) | [Website](https://github.com/hANSIc99/Pythonic) | [Source Code](https://github.com/hANSIc99/Pythonic)
 
