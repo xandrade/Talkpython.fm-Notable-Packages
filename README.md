@@ -27,7 +27,7 @@ notable PyPI package out there. Something you come across. This library is aweso
 
 Package: **Pandas Profiling** - *Generate profile report for pandas DataFrame.* [PyPi](https://pypi.org/project/pandas-profiling/) | [Website](https://github.com/pandas-profiling/pandas-profiling) | [Source Code](https://github.com/pandas-profiling/pandas-profiling)
 
-<img src="https://user-images.githubusercontent.com/12855744/144227540-1837cd2e-df5b-44e8-a9db-c8f858f27978.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/144227540-1837cd2e-df5b-44e8-a9db-c8f858f27978.png" width="80%">
 
 Generates profile reports from a pandas DataFrame. The pandas df.describe() function is great but a little basic for serious exploratory data analysis. pandas_profiling extends the pandas DataFrame with df.profile_report() for quick data analysis. I'm a heavy user of this library, thanks for existing!
 
