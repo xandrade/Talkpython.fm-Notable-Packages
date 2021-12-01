@@ -23,8 +23,6 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Tue, Nov 30, 2021, recorded Mon, Nov 8, 2021.
 - Guest: Panelists (🆘🙋 HELP WANTED! to update names and social media links)
 
-notable PyPI package out there. Something you come across. This library is awesome. It doesn't get enough attention. Anything coming to mind? 23:47 Yes. Honestly, something that a lot of our users use, and Jake actually feel free to hop in after me, but I would say Pandas profiling. It's a tool that does somewhat similar stuff to us, but it's a super great tool for many of our users, and I don't think a lot of people know about it, and it works right into Jupyter l
-
 Package: **Pandas Profiling** - *Generate profile report for pandas DataFrame.* [PyPi](https://pypi.org/project/pandas-profiling/) | [Website](https://github.com/pandas-profiling/pandas-profiling) | [Source Code](https://github.com/pandas-profiling/pandas-profiling)
 
 <img src="https://user-images.githubusercontent.com/12855744/144227540-1837cd2e-df5b-44e8-a9db-c8f858f27978.png" width="80%">
