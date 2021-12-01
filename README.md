@@ -23,7 +23,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Tue, Nov 30, 2021, recorded Mon, Nov 8, 2021.
 - Guest: Panelists (🆘🙋 HELP WANTED! to update names and social media links)
 
-Package: **Pandas Profiling** - *Generate profile report for pandas DataFrame.* [PyPi](https://pypi.org/project/pandas-profiling/) | [Website](https://github.com/pandas-profiling/pandas-profiling) | [Source Code](https://github.com/pandas-profiling/pandas-profiling)
+Package: **Pandas Profiling** - *Generate profile report for pandas DataFrame.* [PyPi](https://pypi.org/project/pandas-profiling/) | [Website](https://pandas-profiling.github.io/pandas-profiling/) | [Source Code](https://github.com/pandas-profiling/pandas-profiling)
 
 <img src="https://user-images.githubusercontent.com/12855744/144227540-1837cd2e-df5b-44e8-a9db-c8f858f27978.png" width="80%">
 
