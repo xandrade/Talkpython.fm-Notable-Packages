@@ -29,7 +29,7 @@ Package: **nplusone** - *Detecting the n+1 queries problem in Python.* [PyPi](ht
 nplusone is a library for detecting the n+1 queries problem in Python ORMs, including SQLAlchemy, Peewee, and the Django ORM.
 
 
-[Episode 343](https://talkpython.fm/episodes/show/343/do-excel-things-get-notebook-python-code-with-mito)
+## [Episode 343](https://talkpython.fm/episodes/show/343/do-excel-things-get-notebook-python-code-with-mito)
 
 - Title: Do Excel things, get notebook Python code with Mito
 - Published Tue, Nov 30, 2021, recorded Mon, Nov 8, 2021.
