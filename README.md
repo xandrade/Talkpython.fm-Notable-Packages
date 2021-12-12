@@ -17,6 +17,18 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2021
 
+
+## [Episode 344](https://talkpython.fm/episodes/show/344/sqlalchemy-2.0)
+
+- Title: SQLAlchemy 2.0
+- Published Thu, Dec 9, 2021, recorded Wed, Nov 10, 2021.
+- Guest: Mike Bayer [@zzzeek](https://twitter.com/zzzeek)
+
+Package: **nplusone** - *Detecting the n+1 queries problem in Python.* [PyPi](https://pypi.org/project/nplusone) | [Website](https://github.com/jmcarp/nplusone) | [Source Code](https://github.com/jmcarp/nplusone)
+
+nplusone is a library for detecting the n+1 queries problem in Python ORMs, including SQLAlchemy, Peewee, and the Django ORM.
+
+
 [Episode 343](https://talkpython.fm/episodes/show/343/do-excel-things-get-notebook-python-code-with-mito)
 
 - Title: Do Excel things, get notebook Python code with Mito
