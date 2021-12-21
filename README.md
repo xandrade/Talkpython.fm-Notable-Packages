@@ -503,7 +503,7 @@ git-hooks is an utility for managing and running project git hooks for nodejs pr
 - Published Fri, Apr 2, 2021, recorded Wed, Mar 31, 2021.
 - Guests: Kim van Wyk [@kim_vanwyk](https://twitter.com/kim_vanwyk) | Patrik Hlobil [@hlobilpatrik](https://twitter.com/hlobilpatrik)
 
-Package #1: **pySerial** - *Python Serial Port Extension.* [PyPi](https://pypi.org/project/pyserial) | [Homepage](https://) | [Source Code](https://)
+Package #1: **pySerial** - *Python Serial Port Extension.* [PyPi](https://pypi.org/project/pyserial) | [Homepage](https://github.com/pyserial/pyserial) | [Source Code](https://github.com/pyserial/pyserial)
 
 <img src="https://user-images.githubusercontent.com/12855744/139531073-3353bd6c-597f-4d87-95b1-b115cc1a61b8.png" width="50%">
 
