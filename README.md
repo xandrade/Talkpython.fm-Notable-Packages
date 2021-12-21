@@ -21,7 +21,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 - Title: 20 Recommended Packages in Review
 - Published Tue, Dec 21, 2021, recorded Wed, Nov 24, 2021.
-- Guest: Antonio Andrade [@AntonioAndrade](https://twitter.com/AntonioAndrade) | [LinkedIn](https://www.linkedin.com/in/antonioxandrade/) <- *Hey, Mom! Michael invited me over 😁*
+- Guest: Antonio Andrade [@AntonioAndrade](https://twitter.com/AntonioAndrade) | [LinkedIn](https://www.linkedin.com/in/antonioxandrade/) <- *Hey, Mom! Michael invited me to the podcast 😁*
 
 
 Package #1: **Sumy** - *Module for automatic summarization of text documents and HTML pages.* [PyPi](https://pypi.org/project/sumy) | [Website](https://github.com/miso-belica/sumy) | [Source Code](https://github.com/miso-belica/sumy)
