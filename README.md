@@ -17,6 +17,45 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2021
 
+## [Episode 346](https://talkpython.fm/episodes/show/346/20-recommended-packages-in-review)
+
+- Title: 20 Recommended Packages in Review
+- Published Tue, Dec 21, 2021, recorded Wed, Nov 24, 2021.
+- Guest: Antonio Andrade [@AntonioAndrade](https://twitter.com/AntonioAndrade) | [LinkedIn](https://www.linkedin.com/in/antonioxandrade/)
+
+
+Package #1: **Sumy** - *Module for automatic summarization of text documents and HTML pages.* [PyPi](https://pypi.org/project/sumy) | [Website](https://github.com/miso-belica/sumy) | [Source Code](https://github.com/miso-belica/sumy)
+
+<img src="https://user-images.githubusercontent.com/12855744/146977953-315f2aba-63f8-462c-9ff0-b7146656b907.png" width="50%">
+
+Simple library and command line utility for extracting summary from HTML pages or plain texts. The package also contains simple evaluation framework for text summaries. Implemented summarization methods are described in the documentation. I also maintain a list of alternative implementations of the summarizers in various programming languages.
+
+
+Package #2: **gTTS** - *Python library and CLI tool to interface with Google Translate text-to-speech API.* [PyPi](https://pypi.org/project/gTTS) | [Website](http://gtts.readthedocs.org/) | [Source Code](https://github.com/pndurette/gTTS)
+
+<img src="https://user-images.githubusercontent.com/12855744/146977895-947d86f2-ba84-43b4-bb88-2c0b7240abbb.png" width="50%">
+
+gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Google Translate's text-to-speech API. Write spoken mp3 data to a file, a file-like object (bytestring) for further audio manipulation, or stdout. Or simply pre-generate Google Translate TTS request URLs to feed to an external program. 
+
+
+## [Episode 345](https://talkpython.fm/episodes/show/345/10-tips-and-tools-for-developer-productivity)
+
+- Title: 10 Tips and Tools for Developer Productivity
+- Published Wed, Dec 15, 2021, recorded Wed, Nov 17, 2021.
+- Guest: Jay Miller [@kjaymiller](https://twitter.com/kjaymiller)
+
+Package #1: **Black** - *The uncompromising code formatter.* [PyPi](https://pypi.org/project/black/) | [Homepage](https://github.com/psf/black/) | [Source Code](https://github.com/psf/black)
+
+<img src="https://user-images.githubusercontent.com/12855744/134875262-4c0059f8-365c-4df7-8c12-d48e389fa1a6.png" width="50%">
+
+Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters. We all love Black!
+
+Package #2: **rumps** - *Ridiculously Uncomplicated macOS Python Statusbar apps.* [PyPi](https://pypi.org/project/rumps) | [Website](https://github.com/jaredks/rumps) | [Source Code](https://github.com/jaredks/rumps)
+
+<img src="https://user-images.githubusercontent.com/12855744/146977086-19b24666-040f-4347-9239-09ccdad5b866.png" width="50%">
+
+rumps (Ridiculously Uncomplicated macOS Python Statusbar apps) can greatly shorten the code required to generate a working app. No PyObjC underscore syntax required!. rumps is for any console-based program that would benefit from a simple configuration toolbar or launch menu.
+
 
 ## [Episode 344](https://talkpython.fm/episodes/show/344/sqlalchemy-2.0)
 
