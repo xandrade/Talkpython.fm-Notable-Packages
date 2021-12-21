@@ -315,7 +315,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 - Published Sat, Jul 3, 2021, recorded Mon, Jun 14, 2021.
 - Guest: Itamar Turner-Trauring [@itamarst](https://twitter.com/itamarst)
 
-Package: **PyO3** - *Using Python from Rust.* [PyPi]() | [Homepage]() | [Source Code](https://github.com/PyO3/pyo3)
+Package: **PyO3** - *Using Python from Rust.* PyPi - n/a | [Homepage](https://pyo3.rs) | [Source Code](https://github.com/PyO3/pyo3)
 
 <img src="https://user-images.githubusercontent.com/12855744/139005910-8a2325eb-88a4-4e7b-92bb-37d5e2319be2.png" width="35%">
 
@@ -399,7 +399,7 @@ FastAPI is a modern, fast (high-performance), web framework for building APIs wi
 - Published Fri, May 21, 2021, recorded Wed, May 19, 2021.
 - Guest: Laura Beaufort [@laurabeaufort](https://twitter.com/@laurabeaufort)
  
-Package: **Flask-SQLAlchemy** - *Adds SQLAlchemy support to your Flask application.* [PyPi](https://pypi.org/project/flask_sqlalchemy) | [Homepage](https://https://flask-sqlalchemy.palletsprojects.com/en/) | [Source Code](https://github.com/pallets/flask-sqlalchemy)
+Package: **Flask-SQLAlchemy** - *Adds SQLAlchemy support to your Flask application.* [PyPi](https://pypi.org/project/flask_sqlalchemy) | [Homepage](https://flask-sqlalchemy.palletsprojects.com) | [Source Code](https://github.com/pallets/flask-sqlalchemy)
 
 <img src="https://user-images.githubusercontent.com/12855744/139461078-a30c15ae-1d06-49a3-8cb0-f715c11a5d17.png" width="50%">
 
