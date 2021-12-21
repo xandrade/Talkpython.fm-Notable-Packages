@@ -40,7 +40,13 @@ gTTS (Google Text-to-Speech), a Python library and CLI tool to interface with Go
 - Published Wed, Dec 15, 2021, recorded Wed, Nov 17, 2021.
 - Guest: Jay Miller [@kjaymiller](https://twitter.com/kjaymiller)
 
-Package: **rumps** - *Ridiculously Uncomplicated macOS Python Statusbar apps.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+Package #1: **Black** - *The uncompromising code formatter.* [PyPi](https://pypi.org/project/black/) | [Homepage](https://github.com/psf/black/) | [Source Code](https://github.com/psf/black)
+
+<img src="https://user-images.githubusercontent.com/12855744/134875262-4c0059f8-365c-4df7-8c12-d48e389fa1a6.png" width="50%">
+
+Black is the uncompromising Python code formatter. By using it, you agree to cede control over minutiae of hand-formatting. In return, Black gives you speed, determinism, and freedom from pycodestyle nagging about formatting. You will save time and mental energy for more important matters. We all love Black!
+
+Package #2: **rumps** - *Ridiculously Uncomplicated macOS Python Statusbar apps.* [PyPi](https://pypi.org/project/rumps) | [Website](https://github.com/jaredks/rumps) | [Source Code](https://github.com/jaredks/rumps)
 
 <img src="https://user-images.githubusercontent.com/12855744/146977086-19b24666-040f-4347-9239-09ccdad5b866.png" width="50%">
 
