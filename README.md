@@ -284,7 +284,7 @@ Airflow is commonly used to process data, but has the opinion that tasks should 
 No time for this question :-(
 
 
-## [Episode 328](https://talkpython.fm/episodes/show/329/geekout-renewable-energy)
+## [Episode 328](https://talkpython.fm/episodes/show/328/piccolo-a-fast-async-orm-for-python-updated)
 
 - Title: Piccolo: A fast, async ORM for Python (updated)
 - Published Sun, Aug 8, 2021, recorded Thu, Jul 22, 2021.
