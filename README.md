@@ -692,6 +692,15 @@ Package: **flynt** - *string formatting converter.* [PyPi](https://pypi.org/proj
 
 flynt is a command line tool to automatically convert a project's Python code from old "%-formatted" and .format(...) strings into Python 3.6+'s "f-strings".
 
+## [Episode 298](https://talkpython.fm/episodes/show/298/building-ml-teams-and-finding-ml-jobs)
+
+- Title: Building ML teams and finding ML jobs
+- Published Mon, Jan 11, 2021, recorded Wed, Nov 18, 2020.
+- Guest: Chip Huyen [@chipro](https://twitter.com/chipro)
+
+Package: **papermill** - *parameterizing, executing, and analyzing Jupyter Notebooks.* [PyPi](https://pypi.org/project/papermill/) | [Homepage](https://github.com/nteract/papermill) | [Source Code](https://github.com/nteract/papermill)
+
+papermill is a tool for parameterizing, executing, and analyzing Jupyter Notebooks.
 
 # 2020
 # 2019
