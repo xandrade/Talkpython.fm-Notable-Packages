@@ -15,6 +15,19 @@ Pull requests welcome! Feature requests / bugs will be addressed through issues 
 Additionally, feel free to submit pull requests which add features or address bugs yourself.
 
 
+# 2022
+
+## [Episode 347](https://talkpython.fm/episodes/show/347/cinder-specialized-python-that-flies)
+
+- Title: Cinder - Specialized Python that Flies
+- Published Sat, Jan 8, 2022, recorded Mon, Nov 29, 2021.
+- Guest: Dino Viehland on Tweeter [@DinoViehland](https://twitter.com/DinoViehland)
+
+Package: **mock** - *Test tools for mocking and patching.l.* [PyPi](https://pypi.org/project/mock) | [Website](https://docs.python.org/3/library/unittest.mock.html) | [Source Code](https://github.com/python/cpython/blob/3.10/Lib/unittest/mock.py)
+
+**mock** is a library for testing in Python. It allows you to replace parts of your system under test with mock objects and make assertions about how they have been used. Spoiler alert, mock is now part of the Python standard library, available as unittest.mock in Python 3.3 onwards. This package contains a rolling backport of the standard library mock code compatible with Python 3.6 and up. unittest.mock is a library for testing in Python. It allows you to replace parts of your system under test with mock objects and make assertions about how they have been used. unittest.mock provides a core Mock class removing the need to create a host of stubs throughout your test suite. After performing an action, you can make assertions about which methods / attributes were used and arguments they were called with. You can also specify return values and set needed attributes in the normal way.
+
+
 # 2021
 
 ## [Episode 346](https://talkpython.fm/episodes/show/346/20-recommended-packages-in-review)
