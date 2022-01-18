@@ -25,7 +25,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 Package: **NumPy** - *Fundamental package for array computing with Python..* [PyPi](https://pypi.org/project/NumPy) | [Website](https://numpy.org/) | [Source Code](https://github.com/numpy/numpy)
 
-<img src="https://user-images.githubusercontent.com/12855744/149876499-3dbf1b8f-6cd2-430a-89d5-b6cf6d211e2a.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/149876499-3dbf1b8f-6cd2-430a-89d5-b6cf6d211e2a.png" width="30%">
 
 POWERFUL N-DIMENSIONAL ARRAYS: Fast and versatile, the NumPy vectorization, indexing, and broadcasting concepts are the de-facto standards of array computing today.
 NUMERICAL COMPUTING TOOLS: NumPy offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more.
