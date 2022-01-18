@@ -21,7 +21,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 - Title: Dear PyGui: Simple yet Fast Python GUI Apps
 - Published Mon, Jan 17, 2022, recorded Tue, Nov 9, 2021.
-- Guestes: Jonathan Hoffstadt [@jhoffs1](https://twitter.com/jhoffs1) | Preston Cothren [toulaboy3](https://twitter.com/toulaboy3)
+- Guestes: Jonathan Hoffstadt on Tweeter [@jhoffs1](https://twitter.com/jhoffs1) | Preston Cothren on Tweeter [@toulaboy3](https://twitter.com/toulaboy3)
 
 Package: **NumPy** - *Fundamental package for array computing with Python..* [PyPi](https://pypi.org/project/NumPy) | [Website](https://numpy.org/) | [Source Code](https://github.com/numpy/numpy)
 
