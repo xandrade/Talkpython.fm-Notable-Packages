@@ -17,6 +17,24 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 348](https://talkpython.fm/episodes/show/348/dear-pygui-simple-yet-fast-python-gui-apps)
+
+- Title: Dear PyGui: Simple yet Fast Python GUI Apps
+- Published Mon, Jan 17, 2022, recorded Tue, Nov 9, 2021.
+- Guestes: Jonathan Hoffstadt [@jhoffs1](https://twitter.com/jhoffs1) | Preston Cothren [toulaboy3](https://twitter.com/toulaboy3)
+
+Package: **NumPy** - *Fundamental package for array computing with Python..* [PyPi](https://pypi.org/project/NumPy) | [Website](https://numpy.org/) | [Source Code](https://github.com/numpy/numpy)
+
+<img src="https://user-images.githubusercontent.com/12855744/149876499-3dbf1b8f-6cd2-430a-89d5-b6cf6d211e2a.pn" width="50%">
+
+POWERFUL N-DIMENSIONAL ARRAYS: Fast and versatile, the NumPy vectorization, indexing, and broadcasting concepts are the de-facto standards of array computing today.
+NUMERICAL COMPUTING TOOLS: NumPy offers comprehensive mathematical functions, random number generators, linear algebra routines, Fourier transforms, and more.
+INTEROPERABLE: NumPy supports a wide range of hardware and computing platforms, and plays well with distributed, GPU, and sparse array libraries.
+PERFORMANT: The core of NumPy is well-optimized C code. Enjoy the flexibility of Python with the speed of compiled code.
+EASY TO USE: NumPy’s high level syntax makes it accessible and productive for programmers from any background or experience level.
+OPEN SOURCE" Distributed under a liberal BSD license, NumPy is developed and maintained publicly on GitHub by a vibrant, responsive, and diverse community.
+
+
 ## [Episode 347](https://talkpython.fm/episodes/show/347/cinder-specialized-python-that-flies)
 
 - Title: Cinder - Specialized Python that Flies
