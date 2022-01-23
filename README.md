@@ -17,6 +17,19 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 349](https://talkpython.fm/episodes/show/349/meet-beanie-a-mongodb-odm-pydantic)
+
+- Title: Meet Beanie: A MongoDB ODM + Pydantic
+- Published Sat, Jan 22, 2022, recorded Thu, Nov 18, 2021.
+- Guest: Roman Right [@roman_the_right](https://twitter.com/roman_the_right)
+
+Package: **Yarl** - *Yet another URL library.* [PyPi](https://pypi.org/project/Yarl) | [Website](https://yarl.readthedocs.io/en/latest/) | [Source Code](https://github.com/aio-libs/yarl/)
+
+<img src="https://user-images.githubusercontent.com/12855744/150691879-e9d1276a-9c7b-4c40-8d56-d2b97003e4d5.png" width="50%">
+
+The module provides handy URL class for URL parsing and changing.
+
+
 ## [Episode 348](https://talkpython.fm/episodes/show/348/dear-pygui-simple-yet-fast-python-gui-apps)
 
 - Title: Dear PyGui: Simple yet Fast Python GUI Apps
