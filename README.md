@@ -21,7 +21,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 - Title: Meet Beanie: A MongoDB ODM + Pydantic
 - Published Sat, Jan 22, 2022, recorded Thu, Nov 18, 2021.
-- Guest: Roman Right [@roman_the_right](https://twitter.com/roman_the_right)
+- Guest: Roman Right on Tweeter [@roman_the_right](https://twitter.com/roman_the_right)
 
 Package: **Yarl** - *Yet another URL library.* [PyPi](https://pypi.org/project/Yarl) | [Website](https://yarl.readthedocs.io/en/latest/) | [Source Code](https://github.com/aio-libs/yarl/)
 
