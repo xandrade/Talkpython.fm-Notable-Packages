@@ -17,6 +17,20 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 350](https://talkpython.fm/episodes/show/350/python-steering-council-2021-retrospective)
+
+- Title: Python Steering Council 2021 Retrospective
+- Published Wed, Jan 26, 2022, recorded Tue, Dec 14, 2021.
+- Guests: 
+1. Barry Warsaw on Twitter [@pumpichank](https://twitter.com/pumpichank)
+2. Carol Willing on Twitter [@WillingCarol](https://twitter.com/WillingCarol)
+3. Brett Cannon on Twitter [@brettsky](https://twitter.com/brettsky)
+4. Pablo Galindo Salgado on Twitter [@pyblogsal](https://twitter.com/pyblogsal) 
+5. T. Wouters on Twitter [@Yhg1s](https://twitter.com/Yhg1s)
+
+There was no time for notable PiPy packages, but it was a great show with the PSF!
+
+
 ## [Episode 349](https://talkpython.fm/episodes/show/349/meet-beanie-a-mongodb-odm-pydantic)
 
 - Title: Meet Beanie: A MongoDB ODM + Pydantic
