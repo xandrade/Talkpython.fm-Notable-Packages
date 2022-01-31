@@ -28,7 +28,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 4. Pablo Galindo Salgado on Twitter [@pyblogsal](https://twitter.com/pyblogsal) 
 5. T. Wouters on Twitter [@Yhg1s](https://twitter.com/Yhg1s)
 
-There was no time for notable PiPy packages, but it was a great show with the PSF!
+There was no time for notable PiPy packages, but it was a great show & must listen episode with the Python Steering Council Members!
 
 
 ## [Episode 349](https://talkpython.fm/episodes/show/349/meet-beanie-a-mongodb-odm-pydantic)
