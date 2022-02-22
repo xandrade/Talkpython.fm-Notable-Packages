@@ -23,9 +23,6 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Fri, Feb 18, 2022, recorded Mon, Jan 17, 2022.
 - Guest: Sebastián Ramírez [@tiangolo](https://twitter.com/tiangolo)
 
-ODMantic for MongoDB: github.com
-Beanie for MongoDB: github.com
-
 Package #1: **ODMantic** - *Asynchronous ODM (Object Document Mapper) for MongoDB.* [PyPi](https://pypi.org/project/odmantic) | [Website](https://art049.github.io/odmantic/) | [Source Code](https://github.com/art049/odmantic)
 
 <img src="https://user-images.githubusercontent.com/12855744/155114239-0d1cc92a-c935-41c1-ba85-065749309eb9.png" width="50%">
@@ -45,7 +42,7 @@ Asynchronous Python object-document mapper (ODM) for MongoDB, based on Motor and
 - Guests: 
 1. Emily Morehouse-Valcarcel on Twitter [@emilyemorehouse](https://twitter.com/emilyemorehouse)
 2. Hynek Schlawack on Twitter [@hynek](https://twitter.com/hynek)
-3. XYZ on Twitter [@glyph](https://twitter.com/glyph)
+3. Glyph on Twitter [@glyph](https://twitter.com/glyph)
 
 There was no time for notable PiPy packages, but it is another great eposide to listen!
 
