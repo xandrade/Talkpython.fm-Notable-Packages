@@ -17,6 +17,45 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 353](https://talkpython.fm/episodes/show/353/sqlmodel-the-new-orm-for-fastapi-and-beyond)
+
+- Title: SQLModel: The New ORM for FastAPI and Beyond
+- Published Fri, Feb 18, 2022, recorded Mon, Jan 17, 2022.
+- Guest: Sebastián Ramírez [@tiangolo](https://twitter.com/tiangolo)
+
+Package #1: **ODMantic** - *Asynchronous ODM (Object Document Mapper) for MongoDB.* [PyPi](https://pypi.org/project/odmantic) | [Website](https://art049.github.io/odmantic/) | [Source Code](https://github.com/art049/odmantic)
+
+<img src="https://user-images.githubusercontent.com/12855744/155114239-0d1cc92a-c935-41c1-ba85-065749309eb9.png" width="50%">
+
+Asynchronous ODM (Object Document Mapper) for MongoDB based on standard python type hints. It's built on top of pydantic for model definition and validation.
+
+Package #2: **Beanie** - *Asynchronous Python object-document mapper (ODM) for MongoDB.* [PyPi](https://pypi.org/project/beanie) | [Website](https://github.com/roman-right/beanie) | [Source Code](https://github.com/roman-right/beanie)
+
+<img src="https://user-images.githubusercontent.com/12855744/155114604-6a652c73-deb3-4e80-ab67-2524665fc2d4.png" width="50%">
+
+Asynchronous Python object-document mapper (ODM) for MongoDB, based on Motor and Pydantic.
+
+## [Episode 352](https://talkpython.fm/episodes/show/352/running-python-in-production)
+
+- Title: Running Python in Production
+- Published Tue, Feb 8, 2022, recorded Wed, Jan 12, 2022.
+- Guests: 
+1. Emily Morehouse-Valcarcel on Twitter [@emilyemorehouse](https://twitter.com/emilyemorehouse)
+2. Hynek Schlawack on Twitter [@hynek](https://twitter.com/hynek)
+3. Glyph on Twitter [@glyph](https://twitter.com/glyph)
+
+There was no time for notable PiPy packages, but it is another great eposide to listen!
+
+## [Episode 351](https://talkpython.fm/episodes/show/351/machine-learning-ethics-and-laws-panel)
+
+- Title: Machine Learning Ethics and Laws Panel
+- Published Thu, Feb 3, 2022, recorded Fri, Dec 17, 2021.
+- Guests: 
+1. Emily Morehouse-Valcarcel on Twitter [@kjam](https://twitter.com/kjam)
+2. Hynek Schlawack on Twitter [@_inesmontani](https://twitter.com/_inesmontani)
+
+There was no time for notable PiPy packages, but it is a great eposide to listen!
+
 ## [Episode 350](https://talkpython.fm/episodes/show/350/python-steering-council-2021-retrospective)
 
 - Title: Python Steering Council 2021 Retrospective
