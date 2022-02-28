@@ -42,7 +42,7 @@ It is built on the idea of ensuring best maintainability of your code while bein
 
 Package #3: **pipx** - *Install and Run Python Applications in Isolated Environments.* [PyPi](https://pypi.org/project/pipx) | [Homepage](https://pypa.github.io/pipx/) | [Source Code](https://github.com/pypa/pipx)
 
-<img src="https://user-images.githubusercontent.com/12855744/136707633-b928adba-49d5-4068-88e2-92c16462381a.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/136707633-b928adba-49d5-4068-88e2-92c16462381a.png" width="40%">
 
 This is one of the episodes with the most of packages described. Therefore, we picked the one with the best logo 😃: **pipx**. This is a tool to help you install and run end-user applications written in Python. It's roughly similar to macOS's brew, JavaScript's npx, and Linux's apt.
 
