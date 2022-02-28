@@ -17,11 +17,28 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+
+## [Episode 354](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)
+
+- Title: Sphinx, MyST, and Python Docs in 2022
+- Published Thu, Feb 24, 2022, recorded Wed, Jan 19, 2022.
+- Guest: Panelists 
+
+1. Pradyun
+2. Chris
+3. Paul Everitt on Twitter [@paulweveritt](https://twitter.com/@paulweveritt)
+
+Package: **PursuedPyBear** - *An Event Driven Python Game Engine.* [PyPi](https://pypi.org/project/ppb/) | [Website](https://ppb.dev/) | [Source Code](https://github.com/ppb/pursuedpybear)
+
+<img src="https://user-images.githubusercontent.com/12855744/155920736-bf431e9a-e37c-40b2-98d4-f8f659956c71.png" width="50%">
+
+PursuedPyBear, also known as ppb, exists to be an educational resource. Most obviously used to teach computer science, it can be a useful tool for any topic that a simulation can be helpful. At its core, ppb provides a number of features that make it perfect for video games. The GameEngine itself provides a pluggable subsystem architecture where adding new features is as simple as subclassing and extending System. Additionally, it contains a state stack of Scenes simple containers that let you organize game scenes and UI screens in a simple way.
+
 ## [Episode 353](https://talkpython.fm/episodes/show/353/sqlmodel-the-new-orm-for-fastapi-and-beyond)
 
 - Title: SQLModel: The New ORM for FastAPI and Beyond
 - Published Fri, Feb 18, 2022, recorded Mon, Jan 17, 2022.
-- Guest: Sebastián Ramírez [@tiangolo](https://twitter.com/tiangolo)
+- Guest: Sebastián Ramírez on Twitter [@tiangolo](https://twitter.com/tiangolo)
 
 Package #1: **ODMantic** - *Asynchronous ODM (Object Document Mapper) for MongoDB.* [PyPi](https://pypi.org/project/odmantic) | [Website](https://art049.github.io/odmantic/) | [Source Code](https://github.com/art049/odmantic)
 
