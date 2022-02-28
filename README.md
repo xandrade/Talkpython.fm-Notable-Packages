@@ -32,7 +32,7 @@ Package: **PursuedPyBear** - *An Event Driven Python Game Engine.* [PyPi](https:
 
 <img src="https://user-images.githubusercontent.com/12855744/155920736-bf431e9a-e37c-40b2-98d4-f8f659956c71.png" width="50%">
 
-PursuedPyBear, also known as ppb, exists to be an educational resource. Most obviously used to teach computer science, it can be a useful tool for any topic that a simulation can be helpful. At its core, ppb provides a number of features that make it perfect for video games. The GameEngine itself provides a pluggable subsystem architecture where adding new features is as simple as subclassing and extending System. Additionally, it contains a state stack of Scenes simple containers that let you organize game scenes and UI screens in a simple way.
+PursuedPyBear, also known as ppb, exists to be an educational resource. Most obviously used to teach computer science, it can be a useful tool for any topic that a simulation can be helpful. At its core, ppb provides a number of features that make it perfect for video games. The GameEngine itself provides a pluggable subsystem architecture where adding new features is as simple as subclassing and extending System. Additionally, it contains a state stack of Scenes simple containers that let you organize game scenes and UI screens in a simple way. Here is a [YouTube](https://www.youtube.com/watch?v=zM9G7wAf2g0 ) video from Casey Faist to show how fun PursuedPyBear could be at.
 
 ## [Episode 353](https://talkpython.fm/episodes/show/353/sqlmodel-the-new-orm-for-fastapi-and-beyond)
 
