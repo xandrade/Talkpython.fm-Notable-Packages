@@ -17,11 +17,42 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+
+## [Episode 354](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)
+
+- Title: Sphinx, MyST, and Python Docs in 2022
+- Published Thu, Feb 24, 2022, recorded Wed, Jan 19, 2022.
+- Guest: Panelists 
+
+1. Pradyun Gedam on Twitter [@pradyunsg](https://twitter.com/pradyunsg)
+2. Chris Holdgraf on Twitter [@choldgraf](https://twitter.com/choldgraf)
+3. Paul Everitt on Twitter [@paulweveritt](https://twitter.com/paulweveritt)
+
+Package #1: **PursuedPyBear** - *An Event Driven Python Game Engine.* [PyPi](https://pypi.org/project/ppb/) | [Website](https://ppb.dev/) | [Source Code](https://github.com/ppb/pursuedpybear)
+
+<img src="https://user-images.githubusercontent.com/12855744/155920736-bf431e9a-e37c-40b2-98d4-f8f659956c71.png" width="50%">
+
+PursuedPyBear, also known as ppb, exists to be an educational resource. Most obviously used to teach computer science, it can be a useful tool for any topic that a simulation can be helpful. At its core, ppb provides a number of features that make it perfect for video games. The GameEngine itself provides a pluggable subsystem architecture where adding new features is as simple as subclassing and extending System. Additionally, it contains a state stack of Scenes simple containers that let you organize game scenes and UI screens in a simple way. Here is a [YouTube](https://www.youtube.com/watch?v=zM9G7wAf2g0 ) video from Casey Faist to show how fun PursuedPyBear could be at.
+
+Package #2: **Antidotes** - *Antidotes is a dependency injection micro-framework for Python 3.6+.* [PyPi](https://pypi.org/project/antidote/) | [Website](https://github.com/Finistere/antidote) | [Source Code](https://github.com/Finistere/antidote)
+
+<img src="https://user-images.githubusercontent.com/12855744/155928632-00ea71d6-0058-4235-a725-8c94d6e6862e.png" width="50%">
+
+It is built on the idea of ensuring best maintainability of your code while being as easy to use as possible. It also provides the fastest injection with @inject allowing you to use it virtually anywhere and fast full isolation of your tests.
+
+Package #3: **pipx** - *Install and Run Python Applications in Isolated Environments.* [PyPi](https://pypi.org/project/pipx) | [Homepage](https://pypa.github.io/pipx/) | [Source Code](https://github.com/pypa/pipx)
+
+<img src="https://user-images.githubusercontent.com/12855744/136707633-b928adba-49d5-4068-88e2-92c16462381a.png" width="40%">
+
+This is one of the episodes with the most of packages described. Therefore, we picked the one with the best logo 😃: **pipx**. This is a tool to help you install and run end-user applications written in Python. It's roughly similar to macOS's brew, JavaScript's npx, and Linux's apt.
+
+
+
 ## [Episode 353](https://talkpython.fm/episodes/show/353/sqlmodel-the-new-orm-for-fastapi-and-beyond)
 
 - Title: SQLModel: The New ORM for FastAPI and Beyond
 - Published Fri, Feb 18, 2022, recorded Mon, Jan 17, 2022.
-- Guest: Sebastián Ramírez [@tiangolo](https://twitter.com/tiangolo)
+- Guest: Sebastián Ramírez on Twitter [@tiangolo](https://twitter.com/tiangolo)
 
 Package #1: **ODMantic** - *Asynchronous ODM (Object Document Mapper) for MongoDB.* [PyPi](https://pypi.org/project/odmantic) | [Website](https://art049.github.io/odmantic/) | [Source Code](https://github.com/art049/odmantic)
 
