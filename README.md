@@ -24,9 +24,9 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Thu, Feb 24, 2022, recorded Wed, Jan 19, 2022.
 - Guest: Panelists 
 
-1. Pradyun
-2. Chris
-3. Paul Everitt on Twitter [@paulweveritt](https://twitter.com/@paulweveritt)
+1. Pradyun Gedam on Twitter [@pradyunsg](https://twitter.com/pradyunsg)
+2. Chris Holdgraf on Twitter [@choldgraf](https://twitter.com/choldgraf)
+3. Paul Everitt on Twitter [@paulweveritt](https://twitter.com/paulweveritt)
 
 Package: **PursuedPyBear** - *An Event Driven Python Game Engine.* [PyPi](https://pypi.org/project/ppb/) | [Website](https://ppb.dev/) | [Source Code](https://github.com/ppb/pursuedpybear)
 
