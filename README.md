@@ -17,6 +17,18 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 355](https://talkpython.fm/episodes/show/355/edgedb-building-a-database-in-python)
+
+- Title: EdgeDB - Building a database in Python
+- Published Sun, Mar 6, 2022, recorded Wed, Feb 16, 2022.
+- Guest: Yury Selivanov on Twitter [@1st1](https://twitter.com/@1st1) and [@1st1](https://twitter.com/edgedatabase) 
+
+Package: **mypy** - *Static Typing for Python.* [PyPi](https://pypi.org/project/mypy/) | [Website](http://www.mypy-lang.org/) | [Source Code](https://github.com/python/mypy)
+
+<img src="https://user-images.githubusercontent.com/12855744/156975442-3dcc247c-8205-4e36-b4fb-22d7a6d63474.png" width="50%">
+
+Mypy is an optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing. Mypy combines the expressive power and convenience of Python with a powerful type system and compile-time type checking. Mypy type checks standard Python programs; run them using any Python VM with basically no runtime overhead.
+
 
 ## [Episode 354](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)
 
