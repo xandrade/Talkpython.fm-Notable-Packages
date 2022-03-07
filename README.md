@@ -21,7 +21,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 - Title: EdgeDB - Building a database in Python
 - Published Sun, Mar 6, 2022, recorded Wed, Feb 16, 2022.
-- Guest: Yury Selivanov on Twitter [@1st1](https://twitter.com/@1st1) and [@1st1](https://twitter.com/edgedatabase) 
+- Guest: Yury Selivanov on Twitter [@1st1](https://twitter.com/@1st1) and [@edgedatabase](https://twitter.com/edgedatabase) 
 
 Package: **mypy** - *Static Typing for Python.* [PyPi](https://pypi.org/project/mypy/) | [Website](http://www.mypy-lang.org/) | [Source Code](https://github.com/python/mypy)
 
