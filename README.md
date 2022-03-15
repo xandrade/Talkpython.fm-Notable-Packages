@@ -17,17 +17,32 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 356](https://talkpython.fm/episodes/show/356/tips-for-ml-ai-startups)
+
+- Title: Tips for ML / AI startups
+- Published Mon, Mar 14, 2022, recorded Thu, Feb 17, 2022.
+- Guest:  Dylan Fox [@YouveGotFox](https://twitter.com/YouveGotFox)
+
+notable pipe project. 01:01:51 Some library out there. 01:01:52 You've already talked about it like TensorFlow and some others, but anything out there you're like? Oh, you should definitely check this out. 01:01:58 I would check out Hugging Face if you haven't yet. It's pretty cool library. 01:02:01 Yeah. 01:02:02 Pretty cool library. 01:02:03 Yeah. Hugging Face seems like a really interesting idea. 01:02:05 Yeah. 01:02:06 I want to give a quick sh
+
+Package: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
 ## [Episode 355](https://talkpython.fm/episodes/show/355/edgedb-building-a-database-in-python)
 
 - Title: EdgeDB - Building a database in Python
 - Published Sun, Mar 6, 2022, recorded Wed, Feb 16, 2022.
 - Guest: Yury Selivanov on Twitter [@1st1](https://twitter.com/@1st1) and [@edgedatabase](https://twitter.com/edgedatabase) 
 
-Package: **mypy** - *Static Typing for Python.* [PyPi](https://pypi.org/project/mypy/) | [Website](http://www.mypy-lang.org/) | [Source Code](https://github.com/python/mypy)
+Package: **Hugging Face Hub** - *All the open source things related to huggingface.co.* [PyPi](https://pypi.org/project/huggingface-hub/) | [Website](https://huggingface.co) | [Source Code](https://github.com/huggingface/huggingface_hub)
 
-<img src="https://user-images.githubusercontent.com/12855744/156975442-3dcc247c-8205-4e36-b4fb-22d7a6d63474.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/158339091-61110520-6070-46f3-a014-deb262dc4138.png" width="50%">
 
-Mypy is an optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing. Mypy combines the expressive power and convenience of Python with a powerful type system and compile-time type checking. Mypy type checks standard Python programs; run them using any Python VM with basically no runtime overhead.
+This library allows anyone to work with the Hub repositories: you can clone them, create them and upload your models to them. On top of this, the library also offers methods to access information from the Hub. For example, listing all models that meet specific criteria or get all the files from a specific repo. You can find the library implementation here.
 
 
 ## [Episode 354](https://talkpython.fm/episodes/show/354/sphinx-myst-and-python-docs-in-2022)
