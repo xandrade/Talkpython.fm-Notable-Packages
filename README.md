@@ -17,6 +17,19 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 356](https://talkpython.fm/episodes/show/356/tips-for-ml-ai-startups)
+
+- Title: Tips for ML / AI startups
+- Published Mon, Mar 14, 2022, recorded Thu, Feb 17, 2022.
+- Guest:  Dylan Fox [@YouveGotFox](https://twitter.com/YouveGotFox)
+
+Package: **Hugging Face Hub** - *All the open source things related to huggingface.co.* [PyPi](https://pypi.org/project/huggingface-hub/) | [Website](https://huggingface.co) | [Source Code](https://github.com/huggingface/huggingface_hub)
+
+<img src="https://user-images.githubusercontent.com/12855744/158339091-61110520-6070-46f3-a014-deb262dc4138.png" width="50%">
+
+This library allows anyone to work with the Hub repositories: you can clone them, create them and upload your models to them. On top of this, the library also offers methods to access information from the Hub. For example, listing all models that meet specific criteria or get all the files from a specific repo. You can find the library implementation here.
+
+
 ## [Episode 355](https://talkpython.fm/episodes/show/355/edgedb-building-a-database-in-python)
 
 - Title: EdgeDB - Building a database in Python
