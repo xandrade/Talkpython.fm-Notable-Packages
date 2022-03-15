@@ -29,7 +29,7 @@ Package: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) 
 
 <img src="" width="50%">
 
-Content
+This library allows anyone to work with the Hub repositories: you can clone them, create them and upload your models to them. On top of this, the library also offers methods to access information from the Hub. For example, listing all models that meet specific criteria or get all the files from a specific repo. You can find the library implementation here.
 
 
 ## [Episode 355](https://talkpython.fm/episodes/show/355/edgedb-building-a-database-in-python)
