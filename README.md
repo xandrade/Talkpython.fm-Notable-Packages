@@ -40,13 +40,13 @@ Package: **tqdm** - *Fast, Extensible Progress Meter.* [PyPi](https://pypi.org/p
 
 notable PyPI package, some library you came across for like, oh, this is so cool. People should know about this. 58:56 I recommend the Condor package. If you've got to do any kind of distributed data processing, you should really know what Condor is providing. So I highly recommend exploring. 59:05 That fantastic. 59:06 Megan, I know we've talked about this. I was so excited to see Py Lab come out because it provides us, not Pi Lab. I'm sorry, Jupyter lab. It provides us with so many opportunities to get the data and the analysis to our scientists in the easiest way possible and allows them flexibili
 
-Package #1: **HTCondor** - *Distributed High Throughput Computing system API.* [PyPi](https://pypi.org/project/htcondor) | [Website](https://github.com/htcondor/htcondor/tree/latest) | [Source Code](https://github.com/htcondor/htcondor/)
+Package 1: **HTCondor** - *Distributed High Throughput Computing system API.* [PyPi](https://pypi.org/project/htcondor) | [Website](https://github.com/htcondor/htcondor/tree/latest) | [Source Code](https://github.com/htcondor/htcondor/)
 
 <img src="https://user-images.githubusercontent.com/12855744/160227382-ceb6a136-ffd0-41c2-a59f-3a212634e330.png" width="50%">
 
 HTCondor is a Distributed High Throughput Computing system developed at the Center for High Throughput Computing at the University of Wisconsin - Madison. With it, users can divide large computing workloads into jobs and submit them to an HTCondor scheduler, which will run them on worker nodes managed by HTCondor.
 
-Package #2: **Silly** - *A test data generator that generates stupid names.* [PyPi](https://pypi.org/project/silly) | [Website](https://github.com/htcondor/htcondor/tree/latest) | [Source Code](github.com/cube-drone/silly)
+Package 2: **Silly** - *A test data generator that generates stupid names.* [PyPi](https://pypi.org/project/silly) | [Website](https://github.com/htcondor/htcondor/tree/latest) | [Source Code](github.com/cube-drone/silly)
 
 A python library for producing fanciful test data. Like faker, but... silly
 
