@@ -17,11 +17,45 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+
+## [Episode 358](https://talkpython.fm/episodes/show/358/understanding-pandas-visually-with-pandastutor)
+
+- Title: Understanding Pandas visually with PandasTutor
+- Published Fri, Mar 25, 2022, recorded Mon, Feb 28, 2022.
+- Guest: Sam Lau on Twitter [@samlau95](https://twitter.com/samlau95)
+
+Package: **tqdm** - *Fast, Extensible Progress Meter.* [PyPi](https://pypi.org/project/tqdm) | [Website](https://tqdm.github.io/) | [Source Code](https://github.com/tqdm/tqdm)
+
+
+<img src="https://user-images.githubusercontent.com/12855744/160227006-53093334-d953-4ed7-b39e-6ad352844433.png" width="50%">
+
+```tqdm``` derives from the Arabic word taqaddum (تقدّم) which can mean "progress," and is an abbreviation for "I love you so much" in Spanish (te quiero demasiado). Instantly make your loops show a smart progress meter - just wrap any iterable with tqdm(iterable), and you're done!
+
+
+## [Episode 357](https://talkpython.fm/episodes/show/357/python-and-the-james-webb-space-telescope)
+
+- Title: Python and the James Webb Space Telescope
+- Published Mon, Mar 21, 2022, recorded Wed, Feb 23, 2022.
+- Guest: JWST Scientists Megan Sosey and Mike Swam on [James Web Space Telescope](https://webbtelescope.org/)
+
+notable PyPI package, some library you came across for like, oh, this is so cool. People should know about this. 58:56 I recommend the Condor package. If you've got to do any kind of distributed data processing, you should really know what Condor is providing. So I highly recommend exploring. 59:05 That fantastic. 59:06 Megan, I know we've talked about this. I was so excited to see Py Lab come out because it provides us, not Pi Lab. I'm sorry, Jupyter lab. It provides us with so many opportunities to get the data and the analysis to our scientists in the easiest way possible and allows them flexibili
+
+Package #1: **HTCondor** - *Distributed High Throughput Computing system API.* [PyPi](https://pypi.org/project/htcondor) | [Website](https://github.com/htcondor/htcondor/tree/latest) | [Source Code](https://github.com/htcondor/htcondor/)
+
+<img src="https://user-images.githubusercontent.com/12855744/160227382-ceb6a136-ffd0-41c2-a59f-3a212634e330.png" width="50%">
+
+HTCondor is a Distributed High Throughput Computing system developed at the Center for High Throughput Computing at the University of Wisconsin - Madison. With it, users can divide large computing workloads into jobs and submit them to an HTCondor scheduler, which will run them on worker nodes managed by HTCondor.
+
+Package #2: **Silly** - *A test data generator that generates stupid names.* [PyPi](https://pypi.org/project/silly) | [Website](https://github.com/htcondor/htcondor/tree/latest) | [Source Code](github.com/cube-drone/silly)
+
+A python library for producing fanciful test data. Like faker, but... silly
+
+
 ## [Episode 356](https://talkpython.fm/episodes/show/356/tips-for-ml-ai-startups)
 
 - Title: Tips for ML / AI startups
 - Published Mon, Mar 14, 2022, recorded Thu, Feb 17, 2022.
-- Guest:  Dylan Fox [@YouveGotFox](https://twitter.com/YouveGotFox)
+- Guest:  Dylan Fox on Twitter [@YouveGotFox](https://twitter.com/YouveGotFox)
 
 Package: **Hugging Face Hub** - *All the open source things related to huggingface.co.* [PyPi](https://pypi.org/project/huggingface-hub/) | [Website](https://huggingface.co) | [Source Code](https://github.com/huggingface/huggingface_hub)
 
