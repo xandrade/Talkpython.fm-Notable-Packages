@@ -44,7 +44,7 @@ Package 1: **HTCondor** - *Distributed High Throughput Computing system API.* [P
 
 HTCondor is a Distributed High Throughput Computing system developed at the Center for High Throughput Computing at the University of Wisconsin - Madison. With it, users can divide large computing workloads into jobs and submit them to an HTCondor scheduler, which will run them on worker nodes managed by HTCondor.
 
-Package 2: **Silly** - *A test data generator that generates stupid names.* [PyPi](https://pypi.org/project/silly) | [Website](https://github.com/cube-drone/silly) | [Source Code](github.com/cube-drone/silly)
+Package 2: **Silly** - *A test data generator that generates stupid names.* [PyPi](https://pypi.org/project/silly) | [Website](https://github.com/cube-drone/silly) | [Source Code](https://github.com/cube-drone/silly)
 
 A python library for producing fanciful test data. Like faker, but... silly
 
