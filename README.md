@@ -27,7 +27,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 <img src="https://user-images.githubusercontent.com/12855744/161989092-8b135695-9446-412d-bf8f-e0b698c2ec44.png" width="50%">
 
-Great episode, but no time to share notable package. However, Kate shared a trick to run Jupyter Notebook like cells into any ```.py``` file in VSCode. For this, after instaling the Jupyter extension, you need to write ```# %%`` above the lines you would like to excecute. Right after, you can run the code as a cell. More infor [here](https://code.visualstudio.com/docs/python/jupyter-support-py).
+Great episode, but no time to share notable package. However, Kate shared a trick to run Jupyter Notebook like cells into any ```.py``` file in VSCode. For this, after instaling the Jupyter extension, you need to write ```# %%``` above the lines you would like to excecute. Right after, you can run the code as a cell. More infor [here](https://code.visualstudio.com/docs/python/jupyter-support-py).
 
 ## [Episode 358](https://talkpython.fm/episodes/show/358/understanding-pandas-visually-with-pandastutor)
 
