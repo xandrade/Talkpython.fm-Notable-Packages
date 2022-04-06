@@ -17,6 +17,17 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+@DPBrinkm
+
+## [Episode 359](https://talkpython.fm/episodes/show/359/lifecycle-of-a-machine-learning-project)
+
+- Title: Lifecycle of a machine learning project
+- Published Sun, Apr 3, 2022, recorded Tue, Mar 22, 2022.
+- Guests: Demetrios on Twitter [@DPBrinkm](https://twitter.com/DPBrinkm) | Kate Kuznecova | Vishnu Rachakonda
+
+<img src="https://user-images.githubusercontent.com/12855744/161989092-8b135695-9446-412d-bf8f-e0b698c2ec44.png" width="50%">
+
+Great episode, but we are sad no notable packgage was shared. However, Kate shared a tip to run Jupyter Notebook like cells into any .py file in VSCode. For this, after instaling the Jupyter extension, you need to write ```# %%`` above the lines you would like to excecute. Right after, you can run the code as a cell. More infor [here](https://code.visualstudio.com/docs/python/jupyter-support-py).
 
 ## [Episode 358](https://talkpython.fm/episodes/show/358/understanding-pandas-visually-with-pandastutor)
 
