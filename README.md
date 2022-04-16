@@ -17,7 +17,26 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
-@DPBrinkm
+
+## [Episode 360](https://talkpython.fm/episodes/show/360/removing-pythons-dead-batteries-in-just-5-years)
+
+- Title: Removing Python's Dead Batteries (in just 5 years)
+- Published Fri, Apr 8, 2022, recorded Tue, Mar 29, 2022.
+- Guests: Brett Cannon [@brettsky](https://twitter.com/brettsky) | Christian Heimes [@ChristianHeimes](https://twitter.com/ChristianHeimes)
+
+
+Package #1: **wasmtime** - *A WebAssembly runtime powered by Wasmtime.* [PyPi](https://pypi.org/project/wasmtime/) | [Website](https://github.com/bytecodealliance/wasmtime-py) | [Source Code](https://github.com/bytecodealliance/wasmtime-py)
+
+<img src="https://user-images.githubusercontent.com/12855744/163664940-d67cc08b-3f9f-4448-a270-17b49456d27f.png" width="50%">
+
+Wasmtime is a standalone JIT-style runtime for WebAssembly, using Cranelift. This package is the WebAssembly runtime powered by Wasmtime.
+
+Package #2: **antigravity** - *A really simple module that allow everyone to do "import antigravity".* 
+
+<img src="https://user-images.githubusercontent.com/12855744/163664890-3e9cf060-1767-40b6-a02a-301244e2d9b6.png" width="50%">
+
+Some good reading here http://python-history.blogspot.com/2010/06/import-antigravity.html
+
 
 ## [Episode 359](https://talkpython.fm/episodes/show/359/lifecycle-of-a-machine-learning-project)
 
