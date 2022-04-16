@@ -28,7 +28,7 @@ notable Pipe package you want to give a shout out to before we dip? 01:16:23 Oh,
 
 Package #1: **wasmtime** - *A WebAssembly runtime powered by Wasmtime.* [PyPi](https://pypi.org/project/wasmtime/) | [Website](https://github.com/bytecodealliance/wasmtime-py) | [Source Code](https://github.com/bytecodealliance/wasmtime-py)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/163664940-d67cc08b-3f9f-4448-a270-17b49456d27f.pngg" width="50%">
 
 Wasmtime is a standalone JIT-style runtime for WebAssembly, using Cranelift. This package is the WebAssembly runtime powered by Wasmtime.
 
