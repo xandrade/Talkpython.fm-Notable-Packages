@@ -24,11 +24,10 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Fri, Apr 8, 2022, recorded Tue, Mar 29, 2022.
 - Guests: Brett Cannon [@brettsky](https://twitter.com/brettsky) | Christian Heimes [@ChristianHeimes](https://twitter.com/ChristianHeimes)
 
-notable Pipe package you want to give a shout out to before we dip? 01:16:23 Oh, man. 01:16:25 There is one that runs web assembly, like something you can have, like Python, that will basically interoperate with any web assembly one. I can't remember quite what that was called. 01:16:34 Though, I think was in Time. Time provide has one. 01:16:37 There's a couple of people who've posted stuff to Pipe that let you load WebAssembly code and actually run them. And I think WASM time. Izantine is a WebAssembly runtime run by the Bycode Alliance and usually the most cutting ed
 
 Package #1: **wasmtime** - *A WebAssembly runtime powered by Wasmtime.* [PyPi](https://pypi.org/project/wasmtime/) | [Website](https://github.com/bytecodealliance/wasmtime-py) | [Source Code](https://github.com/bytecodealliance/wasmtime-py)
 
-<img src="https://user-images.githubusercontent.com/12855744/163664940-d67cc08b-3f9f-4448-a270-17b49456d27f.pngg" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/163664940-d67cc08b-3f9f-4448-a270-17b49456d27f.png" width="50%">
 
 Wasmtime is a standalone JIT-style runtime for WebAssembly, using Cranelift. This package is the WebAssembly runtime powered by Wasmtime.
 
