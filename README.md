@@ -18,6 +18,23 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2022
 
 
+## [Episode 361](https://talkpython.fm/episodes/show/361/pangeo-data-ecosystem)
+
+- Title: Pangeo Data Ecosystem
+- Published Sat, Apr 16, 2022, recorded Fri, Apr 1, 2022.
+- Guests: Ryan Abernathey on Twitter [@rabernat](https://twitter.com/rabernat) | Joe Hamman on Twitter [@HammanHydro](https://twitter.com/HammanHydro)
+
+Package #1: **fsspec** - *Filesystem interfaces for Python.* [PyPi](https://pypi.org/project/fsspec/) | [Homepage](https://filesystem-spec.readthedocs.io/en/latest/) | [Source Code](https://github.com/intake/filesystem_spec)
+
+Filesystem Spec (fsspec) is a project to provide a unified pythonic interface to local, remote and embedded file systems and bytes storage. As described, treat a remote database as a local file!
+
+Package #2: **pangeo-forge** - *Pipeline tools for building and publishing analysis ready datasets.* [PyPi](https://pypi.org/project/pangeo-forge/) | [Homepage](https://pangeo-forge.org/) | [Source Code](https://github.com/pangeo-forge/pangeo-forge-recipes)
+
+<img src="https://user-images.githubusercontent.com/12855744/164237635-4209f14b-e1bd-4923-b16d-cae2d5b579a1.png" width="50%">
+
+Pangeo Forge is an open source platform for data Extraction, Transformation, and Loading (ETL). The goal of Pangeo Forge is to make it easy to extract data from traditional data repositories and deposit in cloud object storage in analysis-ready, cloud-optimized (ARCO) format. Pangeo Forge is inspired directly by Conda Forge, a community-led collection of recipes for building conda packages. We hope that Pangeo Forge can play the same role for datasets.
+
+
 ## [Episode 360](https://talkpython.fm/episodes/show/360/removing-pythons-dead-batteries-in-just-5-years)
 
 - Title: Removing Python's Dead Batteries (in just 5 years)
