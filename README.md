@@ -17,6 +17,18 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 362](https://talkpython.fm/episodes/show/362/hypermodern-python-projects)
+
+- Title: Hypermodern Python Projects
+- Published Wed, Apr 20, 2022, recorded Wed, Apr 6, 2022.
+- Guest: Claudio Jolowicz on Twitter [@cjolowicz](https://twitter.com/cjolowicz)
+
+Package: **Typeguard** - *Run-time type checker for Python.* [PyPi](https://pypi.org/project/typeguard/) | [Website](https://typeguard.readthedocs.io/en/latest/) | [Source Code](https://github.com/agronholm/typeguard)
+
+<img src="https://user-images.githubusercontent.com/12855744/164708254-27f68b4e-b769-4072-93e2-efb87e99868d.png" width="50%">
+
+`Typeguard` library provides run-time type checking for functions defined with PEP 484 argument (and return) type annotations.
+
 
 ## [Episode 361](https://talkpython.fm/episodes/show/361/pangeo-data-ecosystem)
 
