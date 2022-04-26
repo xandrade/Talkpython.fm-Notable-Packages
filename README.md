@@ -862,6 +862,16 @@ Package: **async-rediscache** - *An easy to use asynchronous Redis cache.* [PyPi
 This package offers several data types to ease working with a Redis cache in an asynchronous workflow. The package is currently in development and it's not recommended to start using it in production at this point.
 
 
+
+## Your support is always welcome
+
+The $100, 60-day free trial provides free credit up to $100 that must be used within 60 days  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=440844193481&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
+<a href="https://www.buymeacoffee.com/AntonioAndrade ">
+<img src="https://user-images.githubusercontent.com/12855744/165140444-8f024292-f752-477f-b62d-fa1a671c4cda.png" width="50%">
+</a>
+
+
 ## [Episode 304](https://talkpython.fm/episodes/show/304/asyncio-all-the-things-with-omnilib)
 
 - Title: asyncio all the things with Omnilib
