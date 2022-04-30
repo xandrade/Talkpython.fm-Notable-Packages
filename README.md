@@ -17,6 +17,20 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+
+## [Episode 363](https://talkpython.fm/episodes/show/363/python-for-.net-and-c-developers)
+
+- Title: Python for .NET and C# developers
+- Published Thu, Apr 28, 2022, recorded Wed, Apr 13, 2022.
+- Guest: Cecil Phillip on Twitter [@cecilphillip](https://twitter.com/cecilphillip)
+
+Package: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/scikit-learn/) | [Website](https://scikit-learn.org/stable/) | [Source Code](https://github.com/scikit-learn/scikit-learn)
+
+<img src=https://user-images.githubusercontent.com/12855744/166110555-1931fa50-8efd-440b-8fd6-beb0dda54e2f.png"" width="50%">
+
+`scikit-learn` is a Python module for machine learning built on top of NumPy, SciPy, and matplotlib and is distributed under the 3-Clause BSD license (Open source & commercially usable). The project was started in 2007 by David Cournapeau as a Google Summer of Code project, and since then many volunteers have contributed. Simple and efficient tools for predictive data analysis
+
+
 ## [Episode 362](https://talkpython.fm/episodes/show/362/hypermodern-python-projects)
 
 - Title: Hypermodern Python Projects
