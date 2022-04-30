@@ -24,7 +24,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Thu, Apr 28, 2022, recorded Wed, Apr 13, 2022.
 - Guest: Cecil Phillip on Twitter [@cecilphillip](https://twitter.com/cecilphillip)
 
-Package: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/scikit-learn/) | [Website](https://scikit-learn.org/stable/) | [Source Code](https://github.com/scikit-learn/scikit-learn)
+Package: **scikit-learn** - *Simple and efficient tools for predictive data analysis.* [PyPi](https://pypi.org/project/scikit-learn/) | [Website](https://scikit-learn.org/stable/) | [Source Code](https://github.com/scikit-learn/scikit-learn)
 
 <img src="https://user-images.githubusercontent.com/12855744/166110555-1931fa50-8efd-440b-8fd6-beb0dda54e2f.png" width="50%">
 
