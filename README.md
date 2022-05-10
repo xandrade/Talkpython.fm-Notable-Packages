@@ -17,6 +17,18 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 364](https://talkpython.fm/episodes/show/364/symbolic-math-with-python-using-sympy)
+
+- Title: Symbolic Math with Python using SymPy
+- Published Sat, May 7, 2022, recorded Fri, May 6, 2022.
+- Guests: Aaron Meurer on Twitter [@asmeurer](https://twitter.com/asmeurer) | Ondrej Certik on Twitter [@OndrejCertik](https://twitter.com/OndrejCertik)
+
+Package: **Hypothesis** - *Library for property-based testing.* [PyPi](https://pypi.org/project/hypothesis/) | [Website](https://hypothesis.works/) | [Source Code](https://github.com/HypothesisWorks/hypothesis)
+
+<img src="https://user-images.githubusercontent.com/12855744/167633393-2777006d-bf87-4ba8-b4df-c1671b141383.png" width="50%">
+
+`Hypothesis` is an advanced testing library for Python. It lets you write tests which are parametrized by a source of examples, and then generates simple and comprehensible examples that make your tests fail. This lets you find more bugs in your code with less work. Hypothesis is a powerful, flexible, and easy to use library for property-based testing.
+
 
 ## [Episode 363](https://talkpython.fm/episodes/show/363/python-for-.net-and-c-developers)
 
