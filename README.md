@@ -9,6 +9,10 @@ This is a community & unofficial compilation of those amazing Notable PyPI (or C
 
 Don't forget to hit the star ⭐ button if you like this project and would love to see updates.
 
+## Thanks for sharing
+
+Share this project on Twitter: <a href="https://twitter.com/intent/tweet?text=Check%20out%20this%20repo%20with%20great%20Python%20packages%20shared%20at%20@TalkPython%20with%20@mkennedy&url=https://github.com/xandrade/Talkpython.fm-Notable-Packages/&hashtags=Python,PyPi,TalkPython">![image](https://user-images.githubusercontent.com/12855744/167770565-0c8acce1-fe9d-440b-a93c-e57630a824c2.png)</a>
+
 ## Contribute
 Pull requests welcome! Feature requests / bugs will be addressed through issues on this repository. While not every feature request will necessarily be handled by me, maintaining a record for interested contributors is useful.
 
