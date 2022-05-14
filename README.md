@@ -27,8 +27,6 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Thu, May 12, 2022, recorded Mon, May 9, 2022.
 - Guest: Chris White on Twitter [@markov_gainz](https://twitter.com/markov_gainz)
 
-notable pipes. Pipette prefect is one of them. But like some library that you've seen that you're like obvious. It's amazing. I really should tell the world about it. 01:01:20 Rich and textual for sure. 01:01:21 Oh yeah. 01:01:22 Fast API, I think is amazing. I really think that you can scale out some pretty powerful web servers with that. 01:01:28 It's really pretty basic. I was just doing that before we jumped on the call. 01:01:32 Oh, nice. 01:01:33 And then we did mentioned earlier. Task is a really power
-
 1. **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal.* [PyPi](https://pypi.org/project/rich) | [Homepage](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
 
 <img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
@@ -38,7 +36,7 @@ Rich is a Python library for rich text and beautiful formatting in the terminal.
 <img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="50%">
 
 
-1. **textual** - *Text User Interface using Rich.* [PyPi](https://pypi.org/project/textual/) | [Homepage](https://github.com/Textualize/textual) | [Source Code](https://github.com/Textualize/textual)
+2. **textual** - *Text User Interface using Rich.* [PyPi](https://pypi.org/project/textual/) | [Homepage](https://github.com/Textualize/textual) | [Source Code](https://github.com/Textualize/textual)
 
 <img src="https://user-images.githubusercontent.com/12855744/168439274-fcde608f-9967-41eb-b37a-64916885e0f3.png" width="50%">
 
