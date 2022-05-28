@@ -21,6 +21,35 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+
+## [Episode 367](https://talkpython.fm/episodes/show/367/say-hello-to-pyscript-webassembly-python)
+
+- Title: Say Hello to PyScript (WebAssembly Python)
+- Published Wed, May 25, 2022, recorded Thu, May 12, 2022.
+- Guest: Fabio Pliger on Twitter [@b_smoke](https://twitter.com/b_smoke)
+
+Package: **Pyodide** - *A Python distribution for the browser and Node.js based on WebAssembly.* [PyPi](https://pypi.org/project/pyodide) | [Website](https://pyodide.org/en/stable/) | [Source Code](https://github.com/pyodide/pyodide)
+
+<img src="https://user-images.githubusercontent.com/12855744/170831822-0978c2a6-a647-4c15-b48f-ff942a2d1e8f.png" width="50%">
+
+Pyodide is a port of CPython to WebAssembly/Emscripten. It makes it possible to install and run Python packages in the browser with micropip. Any pure Python package with a wheel available on PyPI is supported. Many packages with C extensions have also been ported for use with Pyodide. These include many general-purpose packages such as regex, pyyaml, lxml and scientific Python packages including numpy, pandas, scipy, matplotlib, and scikit-learn.
+
+Pyodide comes with a robust Javascript ⟺ Python foreign function interface so that you can freely mix these two languages in your code with minimal friction. This includes full support for error handling (throw an error in one language, catch it in the other), async/await, and much more.
+
+
+## [Episode 366](https://talkpython.fm/episodes/show/366/optimizing-postgresql-db-queries-with-pgmustard)
+
+- Title: Optimizing PostgreSQL DB Queries with pgMustard
+- Published Fri, May 20, 2022, recorded Wed, May 11, 2022.
+- Guest: Michael Christofides on Twitter [@michristofides](https://twitter.com/michristofides)
+
+Package: **arctype** - *SQL client and database management tool.* [Website](https://docs.arctype.com/)
+
+<img src="https://user-images.githubusercontent.com/12855744/170832100-f5799033-6132-4861-a881-488244467895.png" width="50%">
+
+Not a Python package, but a fast and easy-to-use SQL client for developers and teams.
+
+
 ## [Episode 365](https://talkpython.fm/episodes/show/365/solving-negative-engineering-problems-with-prefect)
 
 - Title: Solving Negative Engineering Problems with Prefect
