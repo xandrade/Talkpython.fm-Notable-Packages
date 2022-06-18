@@ -22,6 +22,36 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2022
 
 
+## [Episode 369](https://talkpython.fm/episodes/show/369/getting-lazy-with-python-imports-and-pep-690)
+
+- Title: Getting Lazy with Python Imports and PEP 690
+- Published Thu, Jun 16, 2022, recorded Fri, Jun 3, 2022.
+- Guest: Panelists on Twitter [@carljm](https://twitter.com/carljm) | Panelists on Twitter [@pumpichank](https://twitter.com/pumpichank) | Panelists on Twitter [@germbravo](https://twitter.com/germbravo)
+
+notable thing that I did was write the first version of Pip Uninstall back in 2009, and that led to being a maintainer of Pip in virtualand for a while. And I worked on the Django core team for a while. And so, yeah, I've been doing Python things for a long time, and I've been working at Meta. 03:15 Those are a lot of big projects there. 03:16 Yeah, they're projects that I was using, and so I was interested in working on them. And same goes for Python itself. 03:22 Yeah, absolutely. I'm sorry, I kind of cut you off there. You said working at Meta since 2016. Is that what you said?
+
+Package: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+## [Episode 368](https://talkpython.fm/episodes/show/368/end-to-end-web-testing-with-playwright)
+
+- Title: End-to-End Web Testing with Playwright
+- Published Fri, Jun 3, 2022, recorded Thu, May 12, 2022.
+- Guest: Andrew Knight on Twitter [@AutomationPanda](https://twitter.com/AutomationPanda)
+
+notable PyPI package Pivots. Playwright is one of them. But something else you want to recommend, like. Oh, this is cool. People should know about. 01:10:19 I mean, X, typically I would say Py test. Right. But in fact, I just released a package on PyPy during PyCon. I got it dubbed before the final closing keynote. 01:10:29 Oh, nice. Okay. 01:10:30 It's called Screenplay. It is a Pythonic implementation of the Screenplay pattern. It's very minimal right now. It doesn't even have documentation. But if anybody knows about Screenplay pattern and wants to help contribute to that, check out Screenplay.
+
+Package: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
 ## [Episode 367](https://talkpython.fm/episodes/show/367/say-hello-to-pyscript-webassembly-python)
 
 - Title: Say Hello to PyScript (WebAssembly Python)
