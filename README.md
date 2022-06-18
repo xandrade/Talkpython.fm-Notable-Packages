@@ -26,9 +26,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 - Title: Getting Lazy with Python Imports and PEP 690
 - Published Thu, Jun 16, 2022, recorded Fri, Jun 3, 2022.
-- Guest: Panelists on Twitter [@carljm](https://twitter.com/carljm) | Panelists on Twitter [@pumpichank](https://twitter.com/pumpichank) | Panelists on Twitter [@germbravo](https://twitter.com/germbravo)
-
-notable thing that I did was write the first version of Pip Uninstall back in 2009, and that led to being a maintainer of Pip in virtualand for a while. And I worked on the Django core team for a while. And so, yeah, I've been doing Python things for a long time, and I've been working at Meta. 03:15 Those are a lot of big projects there. 03:16 Yeah, they're projects that I was using, and so I was interested in working on them. And same goes for Python itself. 03:22 Yeah, absolutely. I'm sorry, I kind of cut you off there. You said working at Meta since 2016. Is that what you said?
+- Guests: Carl Meyer on Twitter [@carljm](https://twitter.com/carljm) | Barry Warsaw on Twitter [@pumpichank](https://twitter.com/pumpichank) | Germán Méndez Bravo on Twitter [@germbravo](https://twitter.com/germbravo)
 
 Package: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
 
@@ -45,11 +43,11 @@ Content
 
 notable PyPI package Pivots. Playwright is one of them. But something else you want to recommend, like. Oh, this is cool. People should know about. 01:10:19 I mean, X, typically I would say Py test. Right. But in fact, I just released a package on PyPy during PyCon. I got it dubbed before the final closing keynote. 01:10:29 Oh, nice. Okay. 01:10:30 It's called Screenplay. It is a Pythonic implementation of the Screenplay pattern. It's very minimal right now. It doesn't even have documentation. But if anybody knows about Screenplay pattern and wants to help contribute to that, check out Screenplay.
 
-Package: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+Package: **Playwright** - *A high-level API to automate web browsers.* [PyPi](https://pypi.org/project/playwright/) | [Website](https://playwright.dev/) | [Source Code](https://github.com/microsoft/playwright)
 
-<img src="" width="50%">
+🎭 Playwright
 
-Content
+Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API. Playwright delivers automation that is ever-green, capable, reliable and fast. See how Playwright is better.
 
 
 ## [Episode 367](https://talkpython.fm/episodes/show/367/say-hello-to-pyscript-webassembly-python)
