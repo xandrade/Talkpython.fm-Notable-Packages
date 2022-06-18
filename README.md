@@ -41,8 +41,6 @@ Content
 - Published Fri, Jun 3, 2022, recorded Thu, May 12, 2022.
 - Guest: Andrew Knight on Twitter [@AutomationPanda](https://twitter.com/AutomationPanda)
 
-notable PyPI package Pivots. Playwright is one of them. But something else you want to recommend, like. Oh, this is cool. People should know about. 01:10:19 I mean, X, typically I would say Py test. Right. But in fact, I just released a package on PyPy during PyCon. I got it dubbed before the final closing keynote. 01:10:29 Oh, nice. Okay. 01:10:30 It's called Screenplay. It is a Pythonic implementation of the Screenplay pattern. It's very minimal right now. It doesn't even have documentation. But if anybody knows about Screenplay pattern and wants to help contribute to that, check out Screenplay.
-
 Package: **Playwright** - *A high-level API to automate web browsers.* [PyPi](https://pypi.org/project/playwright/) | [Website](https://playwright.dev/) | [Source Code](https://github.com/microsoft/playwright)
 
 🎭 Playwright
