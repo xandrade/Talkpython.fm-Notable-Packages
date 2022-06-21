@@ -46,7 +46,7 @@ Content
 
 Package #3: **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
 
-<img src="https://user-images.githubusercontent.com/12855744/174734382-2d01eccf-a0dc-45c2-8d88-0ffbdb85d2b1.png" width="30%">
+<img src="https://user-images.githubusercontent.com/12855744/174734382-2d01eccf-a0dc-45c2-8d88-0ffbdb85d2b1.png" width="40%">
 
 PDM is meant to be a next generation Python package management tool. It was originally built for personal use. If you feel you are going well with Pipenv or Poetry and don't want to introduce another package manager, just stick to it. But if you are missing something that is not present in those tools, you can probably find some goodness in pdm.
 
