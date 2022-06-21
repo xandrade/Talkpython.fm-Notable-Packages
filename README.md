@@ -37,18 +37,9 @@ Pyre is a performant type checker for Python compliant with [PEP 484](https://pe
 Pyre ships with Pysa, a security focused static analysis tool we've built on top of Pyre that reasons about data flows in Python applications. Please refer to our documentation to get started with our security analysis.
 
 
-Package #2: **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
-
-
-Package #3: **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
+Package #2: **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
 
 <img src="https://user-images.githubusercontent.com/12855744/174734382-2d01eccf-a0dc-45c2-8d88-0ffbdb85d2b1.png" width="40%">
-
-https://asciinema.org/a/jnifN30pjfXbO9We2KqOdXEhB
 
 PDM is meant to be a next generation Python package management tool. It was originally built for personal use. If you feel you are going well with Pipenv or Poetry and don't want to introduce another package manager, just stick to it. But if you are missing something that is not present in those tools, you can probably find some goodness in pdm.
 
