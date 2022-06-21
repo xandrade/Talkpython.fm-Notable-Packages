@@ -22,13 +22,48 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2022
 
 
+## [Episode 369](https://talkpython.fm/episodes/show/369/getting-lazy-with-python-imports-and-pep-690)
+
+- Title: Getting Lazy with Python Imports and PEP 690
+- Published Thu, Jun 16, 2022, recorded Fri, Jun 3, 2022.
+- Guests: Carl Meyer on Twitter [@carljm](https://twitter.com/carljm) | Barry Warsaw on Twitter [@pumpichank](https://twitter.com/pumpichank) | Germán Méndez Bravo on Twitter [@germbravo](https://twitter.com/germbravo)
+
+1. **Pyre** - *A performant type checker for Python.* [PyPi](https://pypi.org/project/pyre-check/) | [Website](https://pyre-check.org/) | [Source Code](https://github.com/facebook/pyre-check)
+
+<img src="https://user-images.githubusercontent.com/12855744/174732165-f0646744-8639-42ff-b722-7282e542e68c.png" width="30%">
+
+Pyre is a performant type checker for Python compliant with [PEP 484](https://peps.python.org/pep-0484/). Pyre can analyze codebases with millions of lines of code incrementally – providing instantaneous feedback to developers as they write code. You can try it out on examples in the Pyre Playground.
+
+Pyre ships with Pysa, a security focused static analysis tool we've built on top of Pyre that reasons about data flows in Python applications. Please refer to our documentation to get started with our security analysis.
+
+
+2. **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
+
+<img src="https://user-images.githubusercontent.com/12855744/174734382-2d01eccf-a0dc-45c2-8d88-0ffbdb85d2b1.png" width="40%">
+
+PDM is meant to be a next generation Python package management tool. It was originally built for personal use. If you feel you are going well with Pipenv or Poetry and don't want to introduce another package manager, just stick to it. But if you are missing something that is not present in those tools, you can probably find some goodness in pdm.
+
+
+## [Episode 368](https://talkpython.fm/episodes/show/368/end-to-end-web-testing-with-playwright)
+
+- Title: End-to-End Web Testing with Playwright
+- Published Fri, Jun 3, 2022, recorded Thu, May 12, 2022.
+- Guest: Andrew Knight on Twitter [@AutomationPanda](https://twitter.com/AutomationPanda)
+
+1. **Playwright** - *A high-level API to automate web browsers.* [PyPi](https://pypi.org/project/playwright/) | [Website](https://playwright.dev/) | [Source Code](https://github.com/microsoft/playwright)
+
+<img src="https://user-images.githubusercontent.com/12855744/174730992-9c0917ed-10c4-430f-95f7-44b9ed2eb25e.png" width="15%">
+
+Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API. Playwright delivers automation that is ever-green, capable, reliable and fast. See how Playwright is better.
+
+
 ## [Episode 367](https://talkpython.fm/episodes/show/367/say-hello-to-pyscript-webassembly-python)
 
 - Title: Say Hello to PyScript (WebAssembly Python)
 - Published Wed, May 25, 2022, recorded Thu, May 12, 2022.
 - Guest: Fabio Pliger on Twitter [@b_smoke](https://twitter.com/b_smoke)
 
-Package: **Pyodide** - *A Python distribution for the browser and Node.js based on WebAssembly.* [PyPi](https://pypi.org/project/pyodide) | [Website](https://pyodide.org/en/stable/) | [Source Code](https://github.com/pyodide/pyodide)
+1. **Pyodide** - *A Python distribution for the browser and Node.js based on WebAssembly.* [PyPi](https://pypi.org/project/pyodide) | [Website](https://pyodide.org/en/stable/) | [Source Code](https://github.com/pyodide/pyodide)
 
 <img src="https://user-images.githubusercontent.com/12855744/170831822-0978c2a6-a647-4c15-b48f-ff942a2d1e8f.png" width="50%">
 
@@ -43,7 +78,7 @@ Pyodide comes with a robust Javascript ⟺ Python foreign function interface so 
 - Published Fri, May 20, 2022, recorded Wed, May 11, 2022.
 - Guest: Michael Christofides on Twitter [@michristofides](https://twitter.com/michristofides)
 
-Package: **arctype** - *SQL client and database management tool.* [Website](https://docs.arctype.com/)
+1. **arctype** - *SQL client and database management tool.* [Website](https://docs.arctype.com/)
 
 <img src="https://user-images.githubusercontent.com/12855744/170832100-f5799033-6132-4861-a881-488244467895.png" width="50%">
 
