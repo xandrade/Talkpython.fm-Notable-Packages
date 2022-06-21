@@ -30,7 +30,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 Package #1: **Pyre** - *A performant type checker for Python.* [PyPi](https://pypi.org/project/pyre-check/) | [Website](https://pyre-check.org/) | [Source Code](https://github.com/facebook/pyre-check)
 
-<img src="https://user-images.githubusercontent.com/12855744/174732165-f0646744-8639-42ff-b722-7282e542e68c.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/174732165-f0646744-8639-42ff-b722-7282e542e68c.png" width="25%">
 
 Pyre is a performant type checker for Python compliant with [PEP 484](https://peps.python.org/pep-0484/). Pyre can analyze codebases with millions of lines of code incrementally – providing instantaneous feedback to developers as they write code. You can try it out on examples in the Pyre Playground.
 
