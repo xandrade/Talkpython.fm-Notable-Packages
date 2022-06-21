@@ -43,7 +43,7 @@ Content
 
 Package: **Playwright** - *A high-level API to automate web browsers.* [PyPi](https://pypi.org/project/playwright/) | [Website](https://playwright.dev/) | [Source Code](https://github.com/microsoft/playwright)
 
-<img src="https://user-images.githubusercontent.com/12855744/174730992-9c0917ed-10c4-430f-95f7-44b9ed2eb25e.png" width="25%">
+<img src="https://user-images.githubusercontent.com/12855744/174730992-9c0917ed-10c4-430f-95f7-44b9ed2eb25e.png" width="15%">
 
 Playwright is a Python library to automate Chromium, Firefox and WebKit browsers with a single API. Playwright delivers automation that is ever-green, capable, reliable and fast. See how Playwright is better.
 
