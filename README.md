@@ -28,7 +28,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Thu, Jun 16, 2022, recorded Fri, Jun 3, 2022.
 - Guests: Carl Meyer on Twitter [@carljm](https://twitter.com/carljm) | Barry Warsaw on Twitter [@pumpichank](https://twitter.com/pumpichank) | Germán Méndez Bravo on Twitter [@germbravo](https://twitter.com/germbravo)
 
-Package #1: **Pyre** - *A performant type checker for Python.* [PyPi](https://pypi.org/project/pyre-check/) | [Website](https://pyre-check.org/) | [Source Code](https://github.com/facebook/pyre-check)
+1. **Pyre** - *A performant type checker for Python.* [PyPi](https://pypi.org/project/pyre-check/) | [Website](https://pyre-check.org/) | [Source Code](https://github.com/facebook/pyre-check)
 
 <img src="https://user-images.githubusercontent.com/12855744/174732165-f0646744-8639-42ff-b722-7282e542e68c.png" width="30%">
 
@@ -37,7 +37,7 @@ Pyre is a performant type checker for Python compliant with [PEP 484](https://pe
 Pyre ships with Pysa, a security focused static analysis tool we've built on top of Pyre that reasons about data flows in Python applications. Please refer to our documentation to get started with our security analysis.
 
 
-Package #2: **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
+2. **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
 
 <img src="https://user-images.githubusercontent.com/12855744/174734382-2d01eccf-a0dc-45c2-8d88-0ffbdb85d2b1.png" width="40%">
 
@@ -50,7 +50,7 @@ PDM is meant to be a next generation Python package management tool. It was orig
 - Published Fri, Jun 3, 2022, recorded Thu, May 12, 2022.
 - Guest: Andrew Knight on Twitter [@AutomationPanda](https://twitter.com/AutomationPanda)
 
-Package: **Playwright** - *A high-level API to automate web browsers.* [PyPi](https://pypi.org/project/playwright/) | [Website](https://playwright.dev/) | [Source Code](https://github.com/microsoft/playwright)
+1. **Playwright** - *A high-level API to automate web browsers.* [PyPi](https://pypi.org/project/playwright/) | [Website](https://playwright.dev/) | [Source Code](https://github.com/microsoft/playwright)
 
 <img src="https://user-images.githubusercontent.com/12855744/174730992-9c0917ed-10c4-430f-95f7-44b9ed2eb25e.png" width="15%">
 
@@ -63,7 +63,7 @@ Playwright is a Python library to automate Chromium, Firefox and WebKit browsers
 - Published Wed, May 25, 2022, recorded Thu, May 12, 2022.
 - Guest: Fabio Pliger on Twitter [@b_smoke](https://twitter.com/b_smoke)
 
-Package: **Pyodide** - *A Python distribution for the browser and Node.js based on WebAssembly.* [PyPi](https://pypi.org/project/pyodide) | [Website](https://pyodide.org/en/stable/) | [Source Code](https://github.com/pyodide/pyodide)
+1. **Pyodide** - *A Python distribution for the browser and Node.js based on WebAssembly.* [PyPi](https://pypi.org/project/pyodide) | [Website](https://pyodide.org/en/stable/) | [Source Code](https://github.com/pyodide/pyodide)
 
 <img src="https://user-images.githubusercontent.com/12855744/170831822-0978c2a6-a647-4c15-b48f-ff942a2d1e8f.png" width="50%">
 
@@ -78,7 +78,7 @@ Pyodide comes with a robust Javascript ⟺ Python foreign function interface so 
 - Published Fri, May 20, 2022, recorded Wed, May 11, 2022.
 - Guest: Michael Christofides on Twitter [@michristofides](https://twitter.com/michristofides)
 
-Package: **arctype** - *SQL client and database management tool.* [Website](https://docs.arctype.com/)
+1. **arctype** - *SQL client and database management tool.* [Website](https://docs.arctype.com/)
 
 <img src="https://user-images.githubusercontent.com/12855744/170832100-f5799033-6132-4861-a881-488244467895.png" width="50%">
 
