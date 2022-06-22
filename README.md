@@ -36,8 +36,14 @@ Pyre is a performant type checker for Python compliant with [PEP 484](https://pe
 
 Pyre ships with Pysa, a security focused static analysis tool we've built on top of Pyre that reasons about data flows in Python applications. Please refer to our documentation to get started with our security analysis.
 
+2. **μsort** - *A small, safe import sorter.* [PyPi](https://pypi.org/project/usort/) | [Website](https://usort.readthedocs.io/en/stable/) | [Source Code](https://github.com/facebookexperimental/usort)
 
-2. **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
+μsort is a safe, minimal import sorter. Its primary goal is to make no "dangerous" changes to code. This is achieved by detecting distinct "blocks" of imports that are the most likely to be safely interchangeable, and only reordering imports within these blocks without altering formatting. Code style is left as an exercise for linters and formatters.
+
+Within a block, µsort will follow common Python conventions for grouping imports based on source (standard library, third-party, first-party, or relative), and then sorting lexicographically within each group. 
+
+
+3. **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
 
 <img src="https://user-images.githubusercontent.com/12855744/174734382-2d01eccf-a0dc-45c2-8d88-0ffbdb85d2b1.png" width="40%">
 
