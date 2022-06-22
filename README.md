@@ -38,6 +38,28 @@ Pyre ships with Pysa, a security focused static analysis tool we've built on top
 
 2. **μsort** - *A small, safe import sorter.* [PyPi](https://pypi.org/project/usort/) | [Website](https://usort.readthedocs.io/en/stable/) | [Source Code](https://github.com/facebookexperimental/usort)
 
+```
+# future imports
+from __future__ import annotations
+
+# standard library
+import re
+import sys
+from datetime import date, datetime, timedelta
+from pathlib import Path
+from unittest import expectedFailure, TestCase, skip
+
+# third-party
+import requests
+from attr import dataclasses
+from honesty.api import download_many
+
+# first-party
+from something import other_function, some_function
+from . import some_module
+from .other_module import SomeClass, some_thing, TestFixture
+```
+
 μsort is a safe, minimal import sorter. Its primary goal is to make no "dangerous" changes to code. This is achieved by detecting distinct "blocks" of imports that are the most likely to be safely interchangeable, and only reordering imports within these blocks without altering formatting. Code style is left as an exercise for linters and formatters.
 
 Within a block, µsort will follow common Python conventions for grouping imports based on source (standard library, third-party, first-party, or relative), and then sorting lexicographically within each group. 
