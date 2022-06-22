@@ -32,9 +32,7 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 <img src="https://user-images.githubusercontent.com/12855744/174732165-f0646744-8639-42ff-b722-7282e542e68c.png" width="30%">
 
-Pyre is a performant type checker for Python compliant with [PEP 484](https://peps.python.org/pep-0484/). Pyre can analyze codebases with millions of lines of code incrementally – providing instantaneous feedback to developers as they write code. You can try it out on examples in the Pyre Playground.
-
-Pyre ships with Pysa, a security focused static analysis tool we've built on top of Pyre that reasons about data flows in Python applications. Please refer to our documentation to get started with our security analysis.
+Pyre is a performant type checker for Python compliant with [PEP 484](https://peps.python.org/pep-0484/). Pyre can analyze codebases with millions of lines of code incrementally providing instantaneous feedback to developers as they write code. You can try it out on examples in the Pyre Playground. Pyre ships with Pysa, a security focused static analysis tool we've built on top of Pyre that reasons about data flows in Python applications.
 
 2. **μsort** - *A small, safe import sorter.* [PyPi](https://pypi.org/project/usort/) | [Website](https://usort.readthedocs.io/en/stable/) | [Source Code](https://github.com/facebookexperimental/usort)
 
@@ -60,9 +58,7 @@ from . import some_module
 from .other_module import SomeClass, some_thing, TestFixture
 ```
 
-μsort is a safe, minimal import sorter. Its primary goal is to make no "dangerous" changes to code. This is achieved by detecting distinct "blocks" of imports that are the most likely to be safely interchangeable, and only reordering imports within these blocks without altering formatting. Code style is left as an exercise for linters and formatters.
-
-Within a block, µsort will follow common Python conventions for grouping imports based on source (standard library, third-party, first-party, or relative), and then sorting lexicographically within each group. 
+μsort is a safe, minimal import sorter. Its primary goal is to make no "dangerous" changes to code. This is achieved by detecting distinct "blocks" of imports that are the most likely to be safely interchangeable, and only reordering imports within these blocks without altering formatting. Code style is left as an exercise for linters and formatters. Within a block, µsort will follow common Python conventions for grouping imports based on source (standard library, third-party, first-party, or relative), and then sorting lexicographically within each group. 
 
 
 3. **PDM** - *Python Development Master.* [PyPi](https://pypi.org/project/pdm/) | [Website](https://github.com/pdm-project/pdm) | [Source Code](https://github.com/pdm-project/pdm)
