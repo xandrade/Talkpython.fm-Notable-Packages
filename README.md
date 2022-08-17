@@ -22,6 +22,140 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2022
 
 
+
+## [Episode 377](https://talkpython.fm/episodes/show/377/python-packaging-and-pypi-in-2022)
+
+- Title: Python Packaging and PyPI in 2022
+- Published Sat, Aug 13, 2022, recorded Thu, Aug 11, 2022.
+- Guest: Dustin Ingram on Twitter [@di_codes](https://twitter.com/di_codes)
+
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+@samuel_colvin
+
+## [Episode 376](https://talkpython.fm/episodes/show/376/pydantic-v2-the-plan)
+
+- Title: Pydantic v2 - The Plan
+- Published Thu, Aug 4, 2022, recorded Thu, Aug 4, 2022.
+- Guest: Samuel Colvin on Twitter [@samuel_colvin](https://twitter.com/samuel_colvin)
+
+notable PyPI or even cargo package, I suppose. Whatever you want to shout out to some external library out there that you think is pretty cool. 01:15:35 It's not going to be particularly interesting because we talked about it already, but PyO3, I'm like, forever impressed by what these guys have done, and obviously they've made what I'm working on here possible, and they've been really helpful for me when I've asked dumb Rust questions. So, yeah, thank you to them. And if you're ever thinking about getting into Rust, doing it from Python is a really neat way where, when you can't work out what the hell is going on, you can kind of fall back to Python. Sometimes
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+@alexwaygood
+
+## [Episode 375](https://talkpython.fm/episodes/show/375/python-language-summit-2022)
+
+- Title: Python Language Summit 2022
+- Published Sat, Jul 30, 2022, recorded Wed, Jun 29, 2022.
+- Guest: Alex Waygood on Twitter [@alexwaygood](https://twitter.com/alexwaygood)
+
+notable PyPI package or library to give a shout out to. We kind of do that in a medicine with TypeScript or type shed, rather. 55:48 Yeah, I'm allowed to shout out my own. 55:51 You can shout on everyone you want. 55:53 Absolutely. 55:54 I'll just give another shout out to Specialist, I think. I think that's really cool. 55:59 Yeah, Specialist is neat. I'm glad I learned about that today. That's cool. All right, well done. 56:03 I can see Magnanimous by shouting at somebody else's project.
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+@foosel|@emilyemorehouse|@TonyaSims|@brettsky|@kjaymiller|@paulweveritt
+
+## [Episode 374](https://talkpython.fm/episodes/show/374/psf-survey-in-review)
+
+- Title: PSF Survey in Review
+- Published Wed, Jul 20, 2022, recorded Thu, Jun 30, 2022.
+- Guest: Panelists on Twitter [@emilyemorehouse](https://twitter.com/emilyemorehouse) | Panelists on Twitter [@paulweveritt](https://twitter.com/paulweveritt) | Panelists on Twitter [@TonyaSims](https://twitter.com/TonyaSims) | Panelists on Twitter [@brettsky](https://twitter.com/brettsky) | Panelists on Twitter [@kjaymiller](https://twitter.com/kjaymiller) | Panelists on Twitter [@foosel](https://twitter.com/foosel)
+
+
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+@anthonypjshaw|@spboyer
+
+## [Episode 373](https://talkpython.fm/episodes/show/373/reinventing-azures-python-cli)
+
+- Title: Reinventing Azure's Python CLI
+- Published Tue, Jul 12, 2022, recorded Thu, May 12, 2022.
+- Guest: Panelists on Twitter [@anthonypjshaw](https://twitter.com/anthonypjshaw) | Panelists on Twitter [@spboyer](https://twitter.com/spboyer)
+
+notable things about the Azure CLI that is the CLI that everyone uses when they're not working in the crazy, bladed, very full management portal is built in Python, right? 30:02 Yes, It Is. 30:03 Yes. But it's not that that actually makes any difference for Python people. It's just interesting detail, but that one is not focused as much on helping developers get their code out as maybe helping IT DevOps side of the world. DevOps On Azure, right. 30:18 I would say it's primary goal is referred to as kind of a management ops plane functionality. There is some capabilities in there for pushing up Simpli
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+@drvinceknight|@geraintpalmer
+
+## [Episode 372](https://talkpython.fm/episodes/show/372/applied-mathematics-with-python)
+
+- Title: Applied mathematics with Python
+- Published Fri, Jul 8, 2022, recorded Wed, Jun 29, 2022.
+- Guest: Panelists on Twitter [@geraintpalmer](https://twitter.com/geraintpalmer) | Panelists on Twitter [@drvinceknight](https://twitter.com/drvinceknight)
+
+notable pipes that you come across that you're thinking is worth giving a shout out to. 01:10:53 I was thinking about this before, and the one I'm going to suggest is one called Python Turner. You got it on the screen there yeah. Python terry is a library for plotting on simplexes so for plotting on triangles, want the better word? Type of plots. You draw a lot in evolutionary gate theory as well as other things actually collaborator on that maintains this is a a very nice library for plotting different looking plots. 01:11:18 I'm sure people think about, well, you could have these different plots on triangle surfaces, or how much
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+@cs01_software
+
+## [Episode 371](https://talkpython.fm/episodes/show/371/pipx-installable-isolated-python-applications)
+
+- Title: pipx - Installable, Isolated Python Applications
+- Published Thu, Jun 30, 2022, recorded Wed, Jun 22, 2022.
+- Guest: Chad Smith on Twitter [@cs01_software](https://twitter.com/cs01_software)
+
+notable packaging solutions or options as we go through here, pipx being one of them. We'll get to that a bunch more, but want to maybe give us a bit of a rundown. 10:06 Probably the first really notable one is Conda. People are super familiar with that. Right on the data side. 10:11 Side. Yeah. 10:12 So Conda is kind of like a more ambitious way to create environments and it kind of makes its own ecosystem. I personally haven't used it, but I know it's pretty popular, like you said, with the scientific community. So it also can be used to make C libraries too interesting.
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+
+## [Episode 370](https://talkpython.fm/episodes/show/370/openbb-pythons-open-source-investment-platform)
+
+- Title: OpenBB: Python's Open-source Investment Platform
+- Published Wed, Jun 22, 2022, recorded Thu, Jun 9, 2022.
+- Guest: James Maslek on [LinkedIn](https://www.linkedin.com/in/james-maslek/)
+
+
+1. **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal.* [PyPi](https://pypi.org/project/rich) | [Homepage](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
+
+<img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
+
+Rich is a Python library for rich text and beautiful formatting in the terminal. The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more** - * out of the box. Hey, don't forget to try: ```from rich import print```, most welcome 😎
+
+<img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
+
+
 ## [Episode 369](https://talkpython.fm/episodes/show/369/getting-lazy-with-python-imports-and-pep-690)
 
 - Title: Getting Lazy with Python Imports and PEP 690
