@@ -123,7 +123,7 @@ The library provides functions for plotting projected lines, curves (trajectorie
 
 2. **traces** - *A Python library for unevenly-spaced time series analysis.* [PyPi](https://pypi.org/project/python-ternary/) | [Website](https://traces.readthedocs.io/en/latest/) | [Source Code](https://github.com/datascopeanalytics/traces)
 
-<img src="https://user-images.githubusercontent.com/12855744/185308756-baa7b699-ab23-473e-85b8-7925fdb363a4.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/185310038-ee27ea0d-b3f8-4786-b2c5-6a098543e962.png" width="50%">
 
 A Python library for unevenly-spaced time series analysis.Taking measurements at irregular intervals is common, but most tools are primarily designed for evenly-spaced measurements. Also, in the real world, time series have missing observations or you may have multiple series with different frequencies: it's can be useful to model these as unevenly-spaced.
 
