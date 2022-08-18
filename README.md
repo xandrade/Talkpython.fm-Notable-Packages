@@ -122,7 +122,6 @@ notable pipes that you come across that you're thinking is worth giving a shout 
 Content
 
 
-@cs01_software
 
 ## [Episode 371](https://talkpython.fm/episodes/show/371/pipx-installable-isolated-python-applications)
 
@@ -130,14 +129,11 @@ Content
 - Published Thu, Jun 30, 2022, recorded Wed, Jun 22, 2022.
 - Guest: Chad Smith on Twitter [@cs01_software](https://twitter.com/cs01_software)
 
-notable packaging solutions or options as we go through here, pipx being one of them. We'll get to that a bunch more, but want to maybe give us a bit of a rundown. 10:06 Probably the first really notable one is Conda. People are super familiar with that. Right on the data side. 10:11 Side. Yeah. 10:12 So Conda is kind of like a more ambitious way to create environments and it kind of makes its own ecosystem. I personally haven't used it, but I know it's pretty popular, like you said, with the scientific community. So it also can be used to make C libraries too interesting.
+1. **mkdocstrings** - *Automatic documentation from sources, for MkDocs.* [PyPi](https://pypi.org/project/mkdocstrings) | [Website](https://mkdocstrings.github.io/) | [Source Code](https://github.com/mkdocstrings/mkdocstrings)
 
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/185299560-6f0fa947-3e3c-487a-ac7b-58e867b2c7c0.gif" width="50%">
 
-<img src="" width="50%">
-
-Content
-
+**mkdocstrings** allows auto-generated docs from your Python source code. The library is written in Python but is language-agnostic. It means you can use it with any programming language, as long as there is a handler for it. mkdocstrings makes it possible to reference headings in other Markdown files with the classic Markdown linking syntax.
 
 
 ## [Episode 370](https://talkpython.fm/episodes/show/370/openbb-pythons-open-source-investment-platform)
