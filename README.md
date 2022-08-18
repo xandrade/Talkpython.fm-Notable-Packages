@@ -131,7 +131,7 @@ Content
 
 1. **mkdocstrings** - *Automatic documentation from sources, for MkDocs.* [PyPi](https://pypi.org/project/mkdocstrings) | [Website](https://mkdocstrings.github.io/) | [Source Code](https://github.com/mkdocstrings/mkdocstrings)
 
-<img src="https://user-images.githubusercontent.com/12855744/185299560-6f0fa947-3e3c-487a-ac7b-58e867b2c7c0.gif" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/185299560-6f0fa947-3e3c-487a-ac7b-58e867b2c7c0.gif" width="60%">
 
 **mkdocstrings** allows auto-generated docs from your Python source code. The library is written in Python but is language-agnostic. It means you can use it with any programming language, as long as there is a handler for it. mkdocstrings makes it possible to reference headings in other Markdown files with the classic Markdown linking syntax.
 
