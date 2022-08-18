@@ -105,22 +105,29 @@ notable things about the Azure CLI that is the CLI that everyone uses when they'
 Content
 
 
-@drvinceknight|@geraintpalmer
+
 
 ## [Episode 372](https://talkpython.fm/episodes/show/372/applied-mathematics-with-python)
 
 - Title: Applied mathematics with Python
 - Published Fri, Jul 8, 2022, recorded Wed, Jun 29, 2022.
-- Guest: Panelists on Twitter [@geraintpalmer](https://twitter.com/geraintpalmer) | Panelists on Twitter [@drvinceknight](https://twitter.com/drvinceknight)
+- Guests: Geraint on Twitter [@geraintpalmer](https://twitter.com/geraintpalmer) | Vince on Twitter [@drvinceknight](https://twitter.com/drvinceknight)
 
-notable pipes that you come across that you're thinking is worth giving a shout out to. 01:10:53 I was thinking about this before, and the one I'm going to suggest is one called Python Turner. You got it on the screen there yeah. Python terry is a library for plotting on simplexes so for plotting on triangles, want the better word? Type of plots. You draw a lot in evolutionary gate theory as well as other things actually collaborator on that maintains this is a a very nice library for plotting different looking plots. 01:11:18 I'm sure people think about, well, you could have these different plots on triangle surfaces, or how much
+1. **python-ternary** - *Make ternary plots in python with matplotlib.* [PyPi](https://pypi.org/project/python-ternary/) | [Website](https://github.com/marcharper/python-ternary) | [Source Code](https://github.com/marcharper/python-ternary)
 
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/185308756-baa7b699-ab23-473e-85b8-7925fdb363a4.png" width="50%">
 
-<img src="" width="50%">
+This is a plotting library for use with matplotlib to make ternary plots plots in the two dimensional simplex projected onto a two dimensional plane.
 
-Content
+The library provides functions for plotting projected lines, curves (trajectories), scatter plots, and heatmaps.
 
+2. **traces** - *A Python library for unevenly-spaced time series analysis.* [PyPi](https://pypi.org/project/python-ternary/) | [Website](https://traces.readthedocs.io/en/latest/) | [Source Code](https://github.com/datascopeanalytics/traces)
+
+<img src="https://user-images.githubusercontent.com/12855744/185308756-baa7b699-ab23-473e-85b8-7925fdb363a4.png" width="50%">
+
+A Python library for unevenly-spaced time series analysis.Taking measurements at irregular intervals is common, but most tools are primarily designed for evenly-spaced measurements. Also, in the real world, time series have missing observations or you may have multiple series with different frequencies: it's can be useful to model these as unevenly-spaced.
+
+Traces was designed by the team at Datascope based on several practical applications in different domains, because it turns out unevenly-spaced data is actually pretty great, particularly for sensor data analysis.
 
 
 ## [Episode 371](https://talkpython.fm/episodes/show/371/pipx-installable-isolated-python-applications)
