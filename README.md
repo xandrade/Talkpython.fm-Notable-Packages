@@ -39,7 +39,7 @@ Asciimatics is a package to help people create full-screen text UIs (from intera
 
 - Title: Flet: Flutter apps in Python
 - Published Sun, Aug 21, 2022, recorded Thu, Aug 18, 2022.
-- Guest: Feodor Fitsner on GitHub [@](https://github.com/FeodorFitsner)
+- Guest: Feodor Fitsner on [GitHub](https://github.com/FeodorFitsner)
 
 1. **Flet** - *Flet for Python - easily build interactive multi-platform apps in Python.* [PyPi](https://pypi.org/project/flet/) | [Website](https://flet.dev/docs/) | [Source Code](https://github.com/flet-dev/flet)
 
