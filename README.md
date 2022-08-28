@@ -22,22 +22,17 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2022
 
 
-
 ## [Episode 377](https://talkpython.fm/episodes/show/377/python-packaging-and-pypi-in-2022)
 
 - Title: Python Packaging and PyPI in 2022
 - Published Sat, Aug 13, 2022, recorded Thu, Aug 11, 2022.
 - Guest: Dustin Ingram on Twitter [@di_codes](https://twitter.com/di_codes)
 
-
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
+1. **pip-audit** - *A tool for scanning Python environments for known vulnerabilities.* [PyPi](https://pypi.org/project/pip-audit/) | [Website](https://github.com/trailofbits/pip-audit) | [Source Code](https://github.com/trailofbits/pip-audit)
 
 
-@samuel_colvin
+`pip-audit` is a tool for scanning Python environments for packages with known vulnerabilities. It uses the Python Packaging Advisory Database (https://github.com/pypa/advisory-database) via the PyPI JSON API as a source of vulnerability reports.
+
 
 ## [Episode 376](https://talkpython.fm/episodes/show/376/pydantic-v2-the-plan)
 
