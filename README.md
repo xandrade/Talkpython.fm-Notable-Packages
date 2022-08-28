@@ -55,7 +55,6 @@ PyO3 can be used to write a native Python module in Rust, or to embed Python in 
 - Published Sat, Jul 30, 2022, recorded Wed, Jun 29, 2022.
 - Guest: Alex Waygood on Twitter [@alexwaygood](https://twitter.com/alexwaygood)
 
-
 1. **Specialist** - *Visualize CPython 3.11's specializing, adaptive interpreter.* [PyPi](https://pypi.org/project/specialist/) | [Website](https://github.com/brandtbucher/specialist) | [Source Code](https://github.com/brandtbucher/specialist)
 
 <img src="https://user-images.githubusercontent.com/12855744/187072735-cb3abb45-c0f0-4e09-9a6a-d4488821e598.png" width="50%">
@@ -63,29 +62,26 @@ PyO3 can be used to write a native Python module in Rust, or to embed Python in 
 Specialist uses fine-grained location information to create visual representations of exactly where and how CPython 3.11's new specializing, adaptive interpreter optimizes your code. While CPython 3.11 is running your code, it identifies "hot" regions that are being run often enough to spend time optimizing. It occasionally "quickens" these regions, which specialist represents using color. Dark, rich colors indicate code with many quickened instructions (and, therefore, high specialization potential), while light, pale colors indicate code with relatively few specialization opportunities.
 
 
-@foosel|@emilyemorehouse|@TonyaSims|@brettsky|@kjaymiller|@paulweveritt
-
 ## [Episode 374](https://talkpython.fm/episodes/show/374/psf-survey-in-review)
 
 - Title: PSF Survey in Review
 - Published Wed, Jul 20, 2022, recorded Thu, Jun 30, 2022.
-- Guest: Emily Morehouse-Valcarcel on Twitter [@emilyemorehouse](https://twitter.com/emilyemorehouse) | Paul Everitt on Twitter [@paulweveritt](https://twitter.com/paulweveritt) | Tonya Sims on Twitter [@TonyaSims](https://twitter.com/TonyaSims) | Brett Cannon on Twitter [@brettsky](https://twitter.com/brettsky) | Gina Häußge on Twitter [@foosel](https://twitter.com/foosel) | Jay Miller on Twitter [@kjaymiller](https://twitter.com/kjaymiller)
+- Guests: Emily Morehouse-Valcarcel on Twitter [@emilyemorehouse](https://twitter.com/emilyemorehouse) | Paul Everitt on Twitter [@paulweveritt](https://twitter.com/paulweveritt) | Tonya Sims on Twitter [@TonyaSims](https://twitter.com/TonyaSims) | Brett Cannon on Twitter [@brettsky](https://twitter.com/brettsky) | Gina Häußge on Twitter [@foosel](https://twitter.com/foosel) | Jay Miller on Twitter [@kjaymiller](https://twitter.com/kjaymiller)
 
-No time for the two question, but it was a quite interesting episode.
+No time for the two questions, but it was a quite interesting episode.
 
 
 ## [Episode 373](https://talkpython.fm/episodes/show/373/reinventing-azures-python-cli)
 
 - Title: Reinventing Azure's Python CLI
 - Published Tue, Jul 12, 2022, recorded Thu, May 12, 2022.
-- Guest: AnthonyS haw on Twitter [@anthonypjshaw](https://twitter.com/anthonypjshaw) | Shayne Boyer on Twitter [@spboyer](https://twitter.com/spboyer)
+- Guests: AnthonyS haw on Twitter [@anthonypjshaw](https://twitter.com/anthonypjshaw) | Shayne Boyer on Twitter [@spboyer](https://twitter.com/spboyer)
 
 **Beanie** - *Asynchronous Python object-document mapper (ODM) for MongoDB.* [PyPi](https://pypi.org/project/beanie) | [Website](https://github.com/roman-right/beanie) | [Source Code](https://github.com/roman-right/beanie)
 
 <img src="https://user-images.githubusercontent.com/12855744/155114604-6a652c73-deb3-4e80-ab67-2524665fc2d4.png" width="50%">
 
 Asynchronous Python object-document mapper (ODM) for MongoDB, based on Motor and Pydantic.
-
 
 
 ## [Episode 372](https://talkpython.fm/episodes/show/372/applied-mathematics-with-python)
@@ -98,9 +94,7 @@ Asynchronous Python object-document mapper (ODM) for MongoDB, based on Motor and
 
 <img src="https://user-images.githubusercontent.com/12855744/185308756-baa7b699-ab23-473e-85b8-7925fdb363a4.png" width="50%">
 
-This is a plotting library for use with matplotlib to make ternary plots plots in the two dimensional simplex projected onto a two dimensional plane.
-
-The library provides functions for plotting projected lines, curves (trajectories), scatter plots, and heatmaps.
+This is a plotting library for use with matplotlib to make ternary plots plots in the two dimensional simplex projected onto a two dimensional plane. The library provides functions for plotting projected lines, curves (trajectories), scatter plots, and heatmaps.
 
 2. **traces** - *A Python library for unevenly-spaced time series analysis.* [PyPi](https://pypi.org/project/python-ternary/) | [Website](https://traces.readthedocs.io/en/latest/) | [Source Code](https://github.com/datascopeanalytics/traces)
 
