@@ -42,14 +42,12 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 notable PyPI or even cargo package, I suppose. Whatever you want to shout out to some external library out there that you think is pretty cool. 01:15:35 It's not going to be particularly interesting because we talked about it already, but PyO3, I'm like, forever impressed by what these guys have done, and obviously they've made what I'm working on here possible, and they've been really helpful for me when I've asked dumb Rust questions. So, yeah, thank you to them. And if you're ever thinking about getting into Rust, doing it from Python is a really neat way where, when you can't work out what the hell is going on, you can kind of fall back to Python. Sometimes
 
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+1. **PyO3** - *Rust bindings for Python.* PyPi | [Website](https://pyo3.rs/v0.17.1/#the-pyo3-user-guide) | [Source Code](https://github.com/PyO3/PyO3)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/187072369-29feb90e-46bd-4ccf-8475-662decb8de63.png" width="20%">
 
-Content
+PyO3 can be used to write a native Python module in Rust, or to embed Python in a Rust binary. The following sections explain each of these in turn. PyO3 can be used to generate a native Python module. The easiest way to try this out for the first time is to use maturin. maturin is a tool for building and publishing Rust-based Python packages with minimal configuration. 
 
-
-@alexwaygood
 
 ## [Episode 375](https://talkpython.fm/episodes/show/375/python-language-summit-2022)
 
