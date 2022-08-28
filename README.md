@@ -69,18 +69,10 @@ Specialist uses fine-grained location information to create visual representatio
 
 - Title: PSF Survey in Review
 - Published Wed, Jul 20, 2022, recorded Thu, Jun 30, 2022.
-- Guest: Panelists on Twitter [@emilyemorehouse](https://twitter.com/emilyemorehouse) | Panelists on Twitter [@paulweveritt](https://twitter.com/paulweveritt) | Panelists on Twitter [@TonyaSims](https://twitter.com/TonyaSims) | Panelists on Twitter [@brettsky](https://twitter.com/brettsky) | Panelists on Twitter [@kjaymiller](https://twitter.com/kjaymiller) | Panelists on Twitter [@foosel](https://twitter.com/foosel)
+- Guest: Emily Morehouse-Valcarcel on Twitter [@emilyemorehouse](https://twitter.com/emilyemorehouse) | Paul Everitt on Twitter [@paulweveritt](https://twitter.com/paulweveritt) | Tonya Sims on Twitter [@TonyaSims](https://twitter.com/TonyaSims) | Brett Cannon on Twitter [@brettsky](https://twitter.com/brettsky) | Gina Häußge on Twitter [@foosel](https://twitter.com/foosel) | Jay Miller on Twitter [@kjaymiller](https://twitter.com/kjaymiller)
 
+No time for the two question, but it was a quite interesting episode.
 
-
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
-
-<img src="" width="50%">
-
-Content
-
-
-@anthonypjshaw|@spboyer
 
 ## [Episode 373](https://talkpython.fm/episodes/show/373/reinventing-azures-python-cli)
 
