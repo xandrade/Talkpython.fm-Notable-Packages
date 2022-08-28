@@ -22,6 +22,36 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2022
 
 
+## [Episode 379](https://talkpython.fm/episodes/show/379/17-libraries-you-should-be-using-in-django)
+
+- Title: 17 Libraries You Should Be Using in Django
+- Published Fri, Aug 26, 2022, recorded Mon, Aug 22, 2022.
+- Guest: Christopher Trudeau on Twitter [@cltrudeau](https://twitter.com/cltrudeau)
+
+**Asciimatics** - *A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations.* [PyPi](https://pypi.org/project/Asciimatics) | [Website](http://asciimatics.readthedocs.org/) | [Source Code](https://github.com/peterbrittain/asciimatics)
+
+<img src="https://user-images.githubusercontent.com/12855744/187074089-bea86c6e-638f-4b46-9b2e-95a32d2756fe.png" width="50%">
+
+Asciimatics is a package to help people create full-screen text UIs (from interactive forms to ASCII animations) on any platform. It is licensed under the Apache Software Foundation License 2.0.
+
+
+## [Episode 378](https://talkpython.fm/episodes/show/378/flet-flutter-apps-in-python)
+
+- Title: Flet: Flutter apps in Python
+- Published Sun, Aug 21, 2022, recorded Thu, Aug 18, 2022.
+- Guest: Feodor Fitsner on Twitter [@](https://twitter.com/)
+
+notable pipe package. 56:19 Obviously Flat is a good one, but other libraries you may have run across like, oh, this is cool, people should know about. 56:24 Well, for me it's a really challenging question because I'm a new guy to biden and I don't know, I don't have any really any favorite packages. 56:36 Yeah, well, we can throw a Flat out there. How's that? 56:41 It's not allowed. You pip install it. You can say that if you like. 56:45 Yeah, and you know, actually it's non trivial and I spend a lot of nights trying to put this wheels ri
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+@di_codes|@google|@thepsf|@pypi
+
 ## [Episode 377](https://talkpython.fm/episodes/show/377/python-packaging-and-pypi-in-2022)
 
 - Title: Python Packaging and PyPI in 2022
