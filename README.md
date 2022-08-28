@@ -55,13 +55,12 @@ PyO3 can be used to write a native Python module in Rust, or to embed Python in 
 - Published Sat, Jul 30, 2022, recorded Wed, Jun 29, 2022.
 - Guest: Alex Waygood on Twitter [@alexwaygood](https://twitter.com/alexwaygood)
 
-notable PyPI package or library to give a shout out to. We kind of do that in a medicine with TypeScript or type shed, rather. 55:48 Yeah, I'm allowed to shout out my own. 55:51 You can shout on everyone you want. 55:53 Absolutely. 55:54 I'll just give another shout out to Specialist, I think. I think that's really cool. 55:59 Yeah, Specialist is neat. I'm glad I learned about that today. That's cool. All right, well done. 56:03 I can see Magnanimous by shouting at somebody else's project.
 
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+1. **Specialist** - *Visualize CPython 3.11's specializing, adaptive interpreter.* [PyPi](https://pypi.org/project/specialist/) | [Website](https://github.com/brandtbucher/specialist) | [Source Code](https://github.com/brandtbucher/specialist)
 
-<img src="" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/187072735-cb3abb45-c0f0-4e09-9a6a-d4488821e598.png" width="50%">
 
-Content
+Specialist uses fine-grained location information to create visual representations of exactly where and how CPython 3.11's new specializing, adaptive interpreter optimizes your code.
 
 
 @foosel|@emilyemorehouse|@TonyaSims|@brettsky|@kjaymiller|@paulweveritt
