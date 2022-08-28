@@ -78,16 +78,13 @@ No time for the two question, but it was a quite interesting episode.
 
 - Title: Reinventing Azure's Python CLI
 - Published Tue, Jul 12, 2022, recorded Thu, May 12, 2022.
-- Guest: Panelists on Twitter [@anthonypjshaw](https://twitter.com/anthonypjshaw) | Panelists on Twitter [@spboyer](https://twitter.com/spboyer)
+- Guest: AnthonyS haw on Twitter [@anthonypjshaw](https://twitter.com/anthonypjshaw) | Shayne Boyer on Twitter [@spboyer](https://twitter.com/spboyer)
 
-notable things about the Azure CLI that is the CLI that everyone uses when they're not working in the crazy, bladed, very full management portal is built in Python, right? 30:02 Yes, It Is. 30:03 Yes. But it's not that that actually makes any difference for Python people. It's just interesting detail, but that one is not focused as much on helping developers get their code out as maybe helping IT DevOps side of the world. DevOps On Azure, right. 30:18 I would say it's primary goal is referred to as kind of a management ops plane functionality. There is some capabilities in there for pushing up Simpli
+**Beanie** - *Asynchronous Python object-document mapper (ODM) for MongoDB.* [PyPi](https://pypi.org/project/beanie) | [Website](https://github.com/roman-right/beanie) | [Source Code](https://github.com/roman-right/beanie)
 
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/155114604-6a652c73-deb3-4e80-ab67-2524665fc2d4.png" width="50%">
 
-<img src="" width="50%">
-
-Content
-
+Asynchronous Python object-document mapper (ODM) for MongoDB, based on Motor and Pydantic.
 
 
 
