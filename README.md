@@ -60,7 +60,7 @@ PyO3 can be used to write a native Python module in Rust, or to embed Python in 
 
 <img src="https://user-images.githubusercontent.com/12855744/187072735-cb3abb45-c0f0-4e09-9a6a-d4488821e598.png" width="50%">
 
-Specialist uses fine-grained location information to create visual representations of exactly where and how CPython 3.11's new specializing, adaptive interpreter optimizes your code.
+Specialist uses fine-grained location information to create visual representations of exactly where and how CPython 3.11's new specializing, adaptive interpreter optimizes your code. While CPython 3.11 is running your code, it identifies "hot" regions that are being run often enough to spend time optimizing. It occasionally "quickens" these regions, which specialist represents using color. Dark, rich colors indicate code with many quickened instructions (and, therefore, high specialization potential), while light, pale colors indicate code with relatively few specialization opportunities.
 
 
 @foosel|@emilyemorehouse|@TonyaSims|@brettsky|@kjaymiller|@paulweveritt
