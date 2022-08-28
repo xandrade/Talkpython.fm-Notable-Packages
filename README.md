@@ -22,6 +22,31 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2022
 
 
+## [Episode 379](https://talkpython.fm/episodes/show/379/17-libraries-you-should-be-using-in-django)
+
+- Title: 17 Libraries You Should Be Using in Django
+- Published Fri, Aug 26, 2022, recorded Mon, Aug 22, 2022.
+- Guest: Christopher Trudeau on Twitter [@cltrudeau](https://twitter.com/cltrudeau)
+
+**Asciimatics** - *A cross platform package to do curses-like operations, plus higher level APIs and widgets to create text UIs and ASCII art animations.* [PyPi](https://pypi.org/project/Asciimatics) | [Website](http://asciimatics.readthedocs.org/) | [Source Code](https://github.com/peterbrittain/asciimatics)
+
+<img src="https://user-images.githubusercontent.com/12855744/187074089-bea86c6e-638f-4b46-9b2e-95a32d2756fe.png" width="65%">
+
+Asciimatics is a package to help people create full-screen text UIs (from interactive forms to ASCII animations) on any platform. It is licensed under the Apache Software Foundation License 2.0.
+
+
+## [Episode 378](https://talkpython.fm/episodes/show/378/flet-flutter-apps-in-python)
+
+- Title: Flet: Flutter apps in Python
+- Published Sun, Aug 21, 2022, recorded Thu, Aug 18, 2022.
+- Guest: Feodor Fitsner on [GitHub](https://github.com/FeodorFitsner)
+
+1. **Flet** - *Flet for Python - easily build interactive multi-platform apps in Python.* [PyPi](https://pypi.org/project/flet/) | [Website](https://flet.dev/docs/) | [Source Code](https://github.com/flet-dev/flet)
+
+<img src="https://user-images.githubusercontent.com/12855744/187074345-e6365631-fc9c-4eaf-a94c-972e20b7190a.png" width="50%">
+
+Flet is a framework that enables you to easily build realtime web, mobile and desktop apps in your favorite language and securely share them with your team. No frontend experience required.
+
 ## [Episode 377](https://talkpython.fm/episodes/show/377/python-packaging-and-pypi-in-2022)
 
 - Title: Python Packaging and PyPI in 2022
