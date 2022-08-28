@@ -22,6 +22,118 @@ Additionally, feel free to submit pull requests which add features or address bu
 # 2022
 
 
+## [Episode 377](https://talkpython.fm/episodes/show/377/python-packaging-and-pypi-in-2022)
+
+- Title: Python Packaging and PyPI in 2022
+- Published Sat, Aug 13, 2022, recorded Thu, Aug 11, 2022.
+- Guest: Dustin Ingram on Twitter [@di_codes](https://twitter.com/di_codes)
+
+1. **pip-audit** - *A tool for scanning Python environments for known vulnerabilities.* [PyPi](https://pypi.org/project/pip-audit/) | [Website](https://github.com/trailofbits/pip-audit) | [Source Code](https://github.com/trailofbits/pip-audit)
+
+
+`pip-audit` is a tool for scanning Python environments for packages with known vulnerabilities. It uses the Python Packaging Advisory Database (https://github.com/pypa/advisory-database) via the PyPI JSON API as a source of vulnerability reports.
+
+
+## [Episode 376](https://talkpython.fm/episodes/show/376/pydantic-v2-the-plan)
+
+- Title: Pydantic v2 - The Plan
+- Published Thu, Aug 4, 2022, recorded Thu, Aug 4, 2022.
+- Guest: Samuel Colvin on Twitter [@samuel_colvin](https://twitter.com/samuel_colvin)
+
+notable PyPI or even cargo package, I suppose. Whatever you want to shout out to some external library out there that you think is pretty cool. 01:15:35 It's not going to be particularly interesting because we talked about it already, but PyO3, I'm like, forever impressed by what these guys have done, and obviously they've made what I'm working on here possible, and they've been really helpful for me when I've asked dumb Rust questions. So, yeah, thank you to them. And if you're ever thinking about getting into Rust, doing it from Python is a really neat way where, when you can't work out what the hell is going on, you can kind of fall back to Python. Sometimes
+
+1. **PyO3** - *Rust bindings for Python.* PyPi | [Website](https://pyo3.rs/v0.17.1/#the-pyo3-user-guide) | [Source Code](https://github.com/PyO3/PyO3)
+
+<img src="https://user-images.githubusercontent.com/12855744/187072369-29feb90e-46bd-4ccf-8475-662decb8de63.png" width="20%">
+
+PyO3 can be used to write a native Python module in Rust, or to embed Python in a Rust binary. The following sections explain each of these in turn. PyO3 can be used to generate a native Python module. The easiest way to try this out for the first time is to use maturin. maturin is a tool for building and publishing Rust-based Python packages with minimal configuration. 
+
+
+## [Episode 375](https://talkpython.fm/episodes/show/375/python-language-summit-2022)
+
+- Title: Python Language Summit 2022
+- Published Sat, Jul 30, 2022, recorded Wed, Jun 29, 2022.
+- Guest: Alex Waygood on Twitter [@alexwaygood](https://twitter.com/alexwaygood)
+
+1. **Specialist** - *Visualize CPython 3.11's specializing, adaptive interpreter.* [PyPi](https://pypi.org/project/specialist/) | [Website](https://github.com/brandtbucher/specialist) | [Source Code](https://github.com/brandtbucher/specialist)
+
+<img src="https://user-images.githubusercontent.com/12855744/187072735-cb3abb45-c0f0-4e09-9a6a-d4488821e598.png" width="50%">
+
+Specialist uses fine-grained location information to create visual representations of exactly where and how CPython 3.11's new specializing, adaptive interpreter optimizes your code. While CPython 3.11 is running your code, it identifies "hot" regions that are being run often enough to spend time optimizing. It occasionally "quickens" these regions, which specialist represents using color. Dark, rich colors indicate code with many quickened instructions (and, therefore, high specialization potential), while light, pale colors indicate code with relatively few specialization opportunities.
+
+
+## [Episode 374](https://talkpython.fm/episodes/show/374/psf-survey-in-review)
+
+- Title: PSF Survey in Review
+- Published Wed, Jul 20, 2022, recorded Thu, Jun 30, 2022.
+- Guests: Emily Morehouse-Valcarcel on Twitter [@emilyemorehouse](https://twitter.com/emilyemorehouse) | Paul Everitt on Twitter [@paulweveritt](https://twitter.com/paulweveritt) | Tonya Sims on Twitter [@TonyaSims](https://twitter.com/TonyaSims) | Brett Cannon on Twitter [@brettsky](https://twitter.com/brettsky) | Gina Häußge on Twitter [@foosel](https://twitter.com/foosel) | Jay Miller on Twitter [@kjaymiller](https://twitter.com/kjaymiller)
+
+No time for the two questions, but it was a quite interesting episode.
+
+
+## [Episode 373](https://talkpython.fm/episodes/show/373/reinventing-azures-python-cli)
+
+- Title: Reinventing Azure's Python CLI
+- Published Tue, Jul 12, 2022, recorded Thu, May 12, 2022.
+- Guests: AnthonyS haw on Twitter [@anthonypjshaw](https://twitter.com/anthonypjshaw) | Shayne Boyer on Twitter [@spboyer](https://twitter.com/spboyer)
+
+**Beanie** - *Asynchronous Python object-document mapper (ODM) for MongoDB.* [PyPi](https://pypi.org/project/beanie) | [Website](https://github.com/roman-right/beanie) | [Source Code](https://github.com/roman-right/beanie)
+
+<img src="https://user-images.githubusercontent.com/12855744/155114604-6a652c73-deb3-4e80-ab67-2524665fc2d4.png" width="50%">
+
+Asynchronous Python object-document mapper (ODM) for MongoDB, based on Motor and Pydantic.
+
+
+## [Episode 372](https://talkpython.fm/episodes/show/372/applied-mathematics-with-python)
+
+- Title: Applied mathematics with Python
+- Published Fri, Jul 8, 2022, recorded Wed, Jun 29, 2022.
+- Guests: Geraint on Twitter [@geraintpalmer](https://twitter.com/geraintpalmer) | Vince on Twitter [@drvinceknight](https://twitter.com/drvinceknight)
+
+1. **python-ternary** - *Make ternary plots in python with matplotlib.* [PyPi](https://pypi.org/project/python-ternary/) | [Website](https://github.com/marcharper/python-ternary) | [Source Code](https://github.com/marcharper/python-ternary)
+
+<img src="https://user-images.githubusercontent.com/12855744/185308756-baa7b699-ab23-473e-85b8-7925fdb363a4.png" width="50%">
+
+This is a plotting library for use with matplotlib to make ternary plots plots in the two dimensional simplex projected onto a two dimensional plane. The library provides functions for plotting projected lines, curves (trajectories), scatter plots, and heatmaps.
+
+2. **traces** - *A Python library for unevenly-spaced time series analysis.* [PyPi](https://pypi.org/project/python-ternary/) | [Website](https://traces.readthedocs.io/en/latest/) | [Source Code](https://github.com/datascopeanalytics/traces)
+
+<img src="https://user-images.githubusercontent.com/12855744/185310038-ee27ea0d-b3f8-4786-b2c5-6a098543e962.png" width="50%">
+
+A Python library for unevenly-spaced time series analysis.Taking measurements at irregular intervals is common, but most tools are primarily designed for evenly-spaced measurements. Also, in the real world, time series have missing observations or you may have multiple series with different frequencies: it's can be useful to model these as unevenly-spaced.
+
+Traces was designed by the team at Datascope based on several practical applications in different domains, because it turns out unevenly-spaced data is actually pretty great, particularly for sensor data analysis.
+
+
+## [Episode 371](https://talkpython.fm/episodes/show/371/pipx-installable-isolated-python-applications)
+
+- Title: pipx - Installable, Isolated Python Applications
+- Published Thu, Jun 30, 2022, recorded Wed, Jun 22, 2022.
+- Guest: Chad Smith on Twitter [@cs01_software](https://twitter.com/cs01_software)
+
+1. **mkdocstrings** - *Automatic documentation from sources, for MkDocs.* [PyPi](https://pypi.org/project/mkdocstrings) | [Website](https://mkdocstrings.github.io/) | [Source Code](https://github.com/mkdocstrings/mkdocstrings)
+
+<img src="https://user-images.githubusercontent.com/12855744/185299560-6f0fa947-3e3c-487a-ac7b-58e867b2c7c0.gif" width="60%">
+
+**mkdocstrings** enables auto-generated docs from your Python source code. The library is written in Python but is language-agnostic. It means you can use it with any programming language, as long as there is a handler for it. mkdocstrings makes it possible to reference headings in other Markdown files with the classic Markdown linking syntax.
+
+
+## [Episode 370](https://talkpython.fm/episodes/show/370/openbb-pythons-open-source-investment-platform)
+
+- Title: OpenBB: Python's Open-source Investment Platform
+- Published Wed, Jun 22, 2022, recorded Thu, Jun 9, 2022.
+- Guest: James Maslek on [LinkedIn](https://www.linkedin.com/in/james-maslek/)
+
+
+1. **rich** - *Render rich text, tables, progress bars, syntax highlighting, markdown and more to the terminal.* [PyPi](https://pypi.org/project/rich) | [Homepage](https://rich.readthedocs.io/en/latest/) | [Source Code](https://github.com/willmcgugan/rich)
+
+<img src="https://user-images.githubusercontent.com/12855744/139004864-c8119f75-796f-45a1-8341-15db6e86caed.png" width="50%">
+
+Rich is a Python library for rich text and beautiful formatting in the terminal. The Rich API makes it easy to add color and style to terminal output. Rich can also render pretty tables, progress bars, markdown, syntax highlighted source code, tracebacks, and more** - * out of the box. Hey, don't forget to try: ```from rich import print```, most welcome 😎
+
+<img src="https://user-images.githubusercontent.com/12855744/139005130-c2b41766-f685-4aed-a763-6a12d3df05b2.png" width="70%">
+
+
 ## [Episode 369](https://talkpython.fm/episodes/show/369/getting-lazy-with-python-imports-and-pep-690)
 
 - Title: Getting Lazy with Python Imports and PEP 690
