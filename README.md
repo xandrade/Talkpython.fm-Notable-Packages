@@ -101,7 +101,7 @@ SQLFluff is a dialect-flexible and configurable SQL linter. Designed with ELT ap
 - Published Fri, Sep 16, 2022, recorded Thu, Sep 15, 2022.
 - Guest: Brandt Bucher on GitHub [@brandtbucher](https://github.com/brandtbucher/)
 
-1. **PyMTL 3 (Mamba)** - *A Python-based hardware generation, simulation, and verification framework.* [PyPi](https://pypi.org/project/pymtl3/) | [Website](https://github.com/pymtl/pymtl3 | [Source Code](https://github.com/pymtl/pymtl3)
+1. **PyMTL 3 (Mamba)** - *A Python-based hardware generation, simulation, and verification framework.* [PyPi](https://pypi.org/project/pymtl3/) | [Website](https://github.com/pymtl/pymtl3) | [Source Code](https://github.com/pymtl/pymtl3)
 
 PyMTL3 (Mamba) is the latest version of PyMTL, an open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support. The original PyMTL was introduced at MICRO-47 in December, 2014. Please note that PyMTL 3 is currently beta software that is under active development and documentation is currently quite sparse.
 
