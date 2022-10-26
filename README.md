@@ -21,6 +21,103 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 386](https://talkpython.fm/episodes/show/386/realtime-web-apps-and-dashboards-with-h2o-wave)
+
+- Title: Realtime Web Apps and Dashboards with H2O Wave
+- Published Wed, Oct 19, 2022, recorded Mon, Oct 3, 2022.
+- Guest: Martin Turoci on Twitter [@unusual_code](https://twitter.com/unusual_code)
+
+1. **Playwright** - *A high-level API to automate web browsers.* [PyPi](https://pypi.org/project/playwright) | [Website](https://playwright.dev/) | [Source Code](https://github.com/microsoft/playwright)
+
+🎭
+
+Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast.
+
+## [Episode 385](https://talkpython.fm/episodes/show/385/higher-level-python-asyncio-with-anyio)
+
+- Title: Higher level Python asyncio with AnyIO
+- Published Sat, Oct 15, 2022, recorded Thu, Sep 29, 2022.
+- Guest: Alex Grönholm on GitHub [@agronholm](https://github.com/agronholm)
+
+1. **Trio** - *A friendly Python library for async concurrency and I/O.* [PyPi](https://pypi.org/project/trio) | [Website](https://trio.readthedocs.io/en/stable/) | [Source Code](https://github.com/python-trio/trio)
+
+<img src="ttps://user-images.githubusercontent.com/12855744/198075175-ea8a8352-a8c2-4664-bab4-bceab8e062a3.png" width="50%">
+
+The Trio project aims to produce a production-quality, permissively licensed, async/await-native I/O library for Python. Like all async libraries, its main purpose is to help you write programs that do multiple things at the same time with parallelized I/O. A web spider that wants to fetch lots of pages in parallel, a web server that needs to juggle lots of downloads and websocket connections simultaneously, a process supervisor monitoring multiple subprocesses... that sort of thing. Compared to other libraries, Trio attempts to distinguish itself with an obsessive focus on usability and correctness. Concurrency is complicated; we try to make it easy to get things right.
+
+2. **Poetry** - *Python packaging and dependency management made easy.* [PyPi](https://pypi.org/project/poetry/) | [Website](https://github.com/python-poetry/poetry) | [Source Code](https://github.com/python-poetry/poetry)
+
+Poetry helps you declare, manage and install dependencies of Python projects, ensuring you have the right stack everywhere.
+
+
+## [Episode 384](https://talkpython.fm/episodes/show/384/python-data-visualization-where-to-start)
+
+- Title: Python Data Visualization - Where To Start?
+- Published Tue, Oct 4, 2022, recorded Wed, Sep 28, 2022.
+- Guest: Chris Moffitt on Twitter [@chris1610](https://twitter.com/chris1610)
+
+1. **Splink** - *Fast probabilistic data linkage at scale.* [PyPi](https://pypi.org/project/splink/) | [Website](https://moj-analytical-services.github.io/splink/) | [Source Code](https://github.com/moj-analytical-services/splink)
+
+<img src="https://user-images.githubusercontent.com/12855744/198071871-5db2d6ef-217b-4487-968b-393c3507ba40.png" width="50%">
+
+Fast, accurate and scalable probabilistic data linkage using your choice of SQL backend
+
+2. **Redframes** - *General Purpose Data Manipulation Library.* [PyPi](https://pypi.org/project/redframes/) | [Website](https://github.com/maxhumber/redframes) | [Source Code](https://github.com/maxhumber/redframes)
+
+<img src="https://user-images.githubusercontent.com/12855744/198072402-c9fd381d-dd8f-4867-ae2e-61ca7bff6812.png" width="30%">
+
+redframes (rectangular data frames) is a general purpose data manipulation library that prioritizes syntax, simplicity, and speed (to a solution). Importantly, the library is fully interoperable with pandas, compatible with scikit-learn, and works great with matplotlib.
+
+
+## [Episode 383](https://talkpython.fm/episodes/show/383/textinator-and-building-macos-apps-with-python)
+
+- Title: Textinator and Building macOS Apps with Python
+- Published Wed, Sep 28, 2022, recorded Sun, Sep 25, 2022.
+- Guest: Rhet Turnbull on Twitter [@RhetTurnbull](https://twitter.com/RhetTurnbull)
+
+1. **Textinator** - *Simple macOS StatusBar / menu bar app.* PyPi | Website | [Source Code](https://github.com/RhetTbull/textinator)
+
+<img src="https://user-images.githubusercontent.com/12855744/198070052-7cbf6ac6-5d3b-4c69-a281-14a46dafe710.png" width="50%">
+
+Simple macOS StatusBar / menu bar app to perform automatic text detection on screenshots.
+
+
+## [Episode 382](https://talkpython.fm/episodes/show/382/apache-superset-modern-data-exploration-platform)
+
+- Title: Apache Superset: Modern Data Exploration Platform
+- Published Thu, Sep 22, 2022, recorded Mon, Sep 19, 2022.
+- Guest: Maxime Beauchemin on Twitter [@mistercrunch](https://twitter.com/mistercrunch)
+
+1. **sqlfluff ** - *The SQL Linter for Humans.* [PyPi](https://pypi.org/project/sqlfluff/) | [Website](https://www.sqlfluff.com/) | [Source Code](https://github.com/alanmcruickshank/sqlfluff)
+
+<img src="https://user-images.githubusercontent.com/12855744/198068933-29d59234-a819-49a1-8fab-6ca03764f812.png" width="50%">
+
+SQLFluff is a dialect-flexible and configurable SQL linter. Designed with ELT applications in mind, SQLFluff also works with Jinja templating and dbt. SQLFluff will auto-fix most linting errors, allowing you to focus your time on what matters.
+
+
+## [Episode 381](https://talkpython.fm/episodes/show/381/python-perf-specializing-adaptive-interpreter)
+
+- Title: Python Perf: Specializing, Adaptive Interpreter
+- Published Fri, Sep 16, 2022, recorded Thu, Sep 15, 2022.
+- Guest: Brandt Bucher on GitHub [@brandtbucher](https://github.com/brandtbucher/)
+
+1. **PyMTL 3 (Mamba)** - *A Python-based hardware generation, simulation, and verification framework.* [PyPi](https://pypi.org/project/pymtl3/) | [Website](https://github.com/pymtl/pymtl3) | [Source Code](https://github.com/pymtl/pymtl3)
+
+PyMTL3 (Mamba) is the latest version of PyMTL, an open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support. The original PyMTL was introduced at MICRO-47 in December, 2014. Please note that PyMTL 3 is currently beta software that is under active development and documentation is currently quite sparse.
+
+
+## [Episode 380](https://talkpython.fm/episodes/show/380/7-lessons-from-building-a-modern-tui-framework)
+
+- Title: 7 lessons from building a modern TUI framework
+- Published Mon, Sep 5, 2022, recorded Mon, Sep 5, 2022.
+- Guest: Will McGugan on Twitter [@willmcgugan](https://twitter.com/willmcgugan)
+
+1. **prompt-toolkit** - *Library for building powerful interactive command lines in Python.* [PyPi](https://pypi.org/project/prompt-toolkit/) | [Website](https://python-prompt-toolkit.readthedocs.io/en/master/) | [Source Code](https://github.com/prompt-toolkit/python-prompt-toolkit)
+
+<img src="https://user-images.githubusercontent.com/12855744/198074369-e8f86245-8802-4881-a00c-58578806a5d9.png" width="50%">
+
+`prompt_toolkit` is a library for building powerful interactive command line applications in Python.
+
 
 ## [Episode 379](https://talkpython.fm/episodes/show/379/17-libraries-you-should-be-using-in-django)
 
