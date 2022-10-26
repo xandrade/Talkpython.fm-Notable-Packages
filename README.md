@@ -75,7 +75,7 @@ redframes (rectangular data frames) is a general purpose data manipulation libra
 - Published Wed, Sep 28, 2022, recorded Sun, Sep 25, 2022.
 - Guest: Rhet Turnbull on Twitter [@RhetTurnbull](https://twitter.com/RhetTurnbull)
 
-1. **Textinator** - *Simple macOS StatusBar / menu bar app.* [PyPi]() | [Website]() | [Source Code](https://github.com/RhetTbull/textinator)
+1. **Textinator** - *Simple macOS StatusBar / menu bar app.* PyPi | Website | [Source Code](https://github.com/RhetTbull/textinator)
 
 <img src="https://user-images.githubusercontent.com/12855744/198070052-7cbf6ac6-5d3b-4c69-a281-14a46dafe710.png" width="50%">
 
