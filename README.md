@@ -27,8 +27,11 @@ Additionally, feel free to submit pull requests which add features or address bu
 - Published Wed, Oct 19, 2022, recorded Mon, Oct 3, 2022.
 - Guest: Martin Turoci on Twitter [@unusual_code](https://twitter.com/unusual_code)
 
-notable PyPI package, something you find interesting or you want to recommend? 01:01:41 There are many, of course, but maybe one that I would like to give a shout out to is Playwright and basically End To End testing framework, something like Cypress. I found that it can be used for much more than just end to end testing. We use. It for visual regression testing. We use it for generating our imagery into documentation, and I have even done test using that as well. So it's pretty versatile, too. 01:02:15 It's like the new Selenium, sort of. 01:02:17 Exactly. 01:02:18 Yea
+1. **Playwright** - *A high-level API to automate web browsers.* [PyPi](https://pypi.org/project/playwright) | [Website](https://playwright.dev/) | [Source Code](https://github.com/microsoft/playwright)
 
+🎭
+
+Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. Playwright is built to enable cross-browser web automation that is ever-green, capable, reliable and fast.
 
 ## [Episode 385](https://talkpython.fm/episodes/show/385/higher-level-python-asyncio-with-anyio)
 
@@ -36,16 +39,16 @@ notable PyPI package, something you find interesting or you want to recommend? 0
 - Published Sat, Oct 15, 2022, recorded Thu, Sep 29, 2022.
 - Guest: Alex Grönholm on Twitter [@](https://twitter.com/)
 
-notable PyPI package. I mean, we talked about a bunch you could recommend any of these we talked about where you can say something else you found interesting. 56:27 Well, I think I already mentioned Trio, but this is a question, really? Maybe poetry. 56:34 Okay. Yeah. Poetry. Yeah. 56:35 Poetry is something that I use for my application at work. It's the closest thing in Python to say yarn. So I manage the dependencies and lock down the dependencies using poetry. It's quite handy for that. There are some issues with poetry, like when I just need to update one dependency, update them all, and small is
+1. **Trio** - *A friendly Python library for async concurrency and I/O.* [PyPi](https://pypi.org/project/trio) | [Website](https://trio.readthedocs.io/en/stable/) | [Source Code](https://github.com/python-trio/trio)
 
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="ttps://user-images.githubusercontent.com/12855744/198075175-ea8a8352-a8c2-4664-bab4-bceab8e062a3.png" width="50%">
 
-<img src="" width="50%">
+The Trio project aims to produce a production-quality, permissively licensed, async/await-native I/O library for Python. Like all async libraries, its main purpose is to help you write programs that do multiple things at the same time with parallelized I/O. A web spider that wants to fetch lots of pages in parallel, a web server that needs to juggle lots of downloads and websocket connections simultaneously, a process supervisor monitoring multiple subprocesses... that sort of thing. Compared to other libraries, Trio attempts to distinguish itself with an obsessive focus on usability and correctness. Concurrency is complicated; we try to make it easy to get things right.
 
-Content
+2. **Poetry** - *Python packaging and dependency management made easy.* [PyPi](https://pypi.org/project/poetry/) | [Website](https://github.com/python-poetry/poetry) | [Source Code](https://github.com/python-poetry/poetry)
 
+Poetry helps you declare, manage and install dependencies of Python projects, ensuring you have the right stack everywhere.
 
-@chris1610
 
 ## [Episode 384](https://talkpython.fm/episodes/show/384/python-data-visualization-where-to-start)
 
@@ -109,14 +112,11 @@ PyMTL3 (Mamba) is the latest version of PyMTL, an open-source Python-based hardw
 - Published Mon, Sep 5, 2022, recorded Mon, Sep 5, 2022.
 - Guest: Will McGugan on Twitter [@willmcgugan](https://twitter.com/willmcgugan)
 
-notable PyPI package. I mean, we've touched on some good ones that start or end with Rich, but anything else you run across that you're like, oh, this is fantastic, people should check this out. 01:04:38 Oh, gosh, there's so many advice. I'm drawing a blank. 01:04:43 I should have heard one in advance. 01:04:45 How about one that you use that makes Rich work well or something? 01:04:48 Well, there's Prompt Toolkit, so I owe Prompt Toolkit I'm a big debt of gratitude because when I was figuring out the textual stuff, I looked at the Prompt Toolkit source code, which is a
+1. **prompt-toolkit** - *Library for building powerful interactive command lines in Python.* [PyPi](https://pypi.org/project/prompt-toolkit/) | [Website](https://python-prompt-toolkit.readthedocs.io/en/master/) | [Source Code](https://github.com/prompt-toolkit/python-prompt-toolkit)
 
-1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+<img src="https://user-images.githubusercontent.com/12855744/198074369-e8f86245-8802-4881-a00c-58578806a5d9.png" width="50%">
 
-<img src="" width="50%">
-
-Content
-
+`prompt_toolkit` is a library for building powerful interactive command line applications in Python.
 
 
 ## [Episode 379](https://talkpython.fm/episodes/show/379/17-libraries-you-should-be-using-in-django)
