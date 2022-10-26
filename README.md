@@ -21,6 +21,103 @@ Additionally, feel free to submit pull requests which add features or address bu
 
 # 2022
 
+## [Episode 386](https://talkpython.fm/episodes/show/386/realtime-web-apps-and-dashboards-with-h2o-wave)
+
+- Title: Realtime Web Apps and Dashboards with H2O Wave
+- Published Wed, Oct 19, 2022, recorded Mon, Oct 3, 2022.
+- Guest: Martin Turoci on Twitter [@unusual_code](https://twitter.com/unusual_code)
+
+notable PyPI package, something you find interesting or you want to recommend? 01:01:41 There are many, of course, but maybe one that I would like to give a shout out to is Playwright and basically End To End testing framework, something like Cypress. I found that it can be used for much more than just end to end testing. We use. It for visual regression testing. We use it for generating our imagery into documentation, and I have even done test using that as well. So it's pretty versatile, too. 01:02:15 It's like the new Selenium, sort of. 01:02:17 Exactly. 01:02:18 Yea
+
+
+## [Episode 385](https://talkpython.fm/episodes/show/385/higher-level-python-asyncio-with-anyio)
+
+- Title: Higher level Python asyncio with AnyIO
+- Published Sat, Oct 15, 2022, recorded Thu, Sep 29, 2022.
+- Guest: Alex Grönholm on Twitter [@](https://twitter.com/)
+
+notable PyPI package. I mean, we talked about a bunch you could recommend any of these we talked about where you can say something else you found interesting. 56:27 Well, I think I already mentioned Trio, but this is a question, really? Maybe poetry. 56:34 Okay. Yeah. Poetry. Yeah. 56:35 Poetry is something that I use for my application at work. It's the closest thing in Python to say yarn. So I manage the dependencies and lock down the dependencies using poetry. It's quite handy for that. There are some issues with poetry, like when I just need to update one dependency, update them all, and small is
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
+@chris1610
+
+## [Episode 384](https://talkpython.fm/episodes/show/384/python-data-visualization-where-to-start)
+
+- Title: Python Data Visualization - Where To Start?
+- Published Tue, Oct 4, 2022, recorded Wed, Sep 28, 2022.
+- Guest: Chris Moffitt on Twitter [@chris1610](https://twitter.com/chris1610)
+
+1. **Splink** - *Fast probabilistic data linkage at scale.* [PyPi](https://pypi.org/project/splink/) | [Website](https://moj-analytical-services.github.io/splink/) | [Source Code](https://github.com/moj-analytical-services/splink)
+
+<img src="https://user-images.githubusercontent.com/12855744/198071871-5db2d6ef-217b-4487-968b-393c3507ba40.png" width="50%">
+
+Fast, accurate and scalable probabilistic data linkage using your choice of SQL backend
+
+2. **Redframes** - *General Purpose Data Manipulation Library.* [PyPi](https://pypi.org/project/redframes/) | [Website](https://) | [Source Code](https://github.com/maxhumber/redframes)
+
+<img src="https://user-images.githubusercontent.com/12855744/198072402-c9fd381d-dd8f-4867-ae2e-61ca7bff6812.png" width="50%">
+
+redframes (rectangular data frames) is a general purpose data manipulation library that prioritizes syntax, simplicity, and speed (to a solution). Importantly, the library is fully interoperable with pandas, compatible with scikit-learn, and works great with matplotlib.
+
+
+## [Episode 383](https://talkpython.fm/episodes/show/383/textinator-and-building-macos-apps-with-python)
+
+- Title: Textinator and Building macOS Apps with Python
+- Published Wed, Sep 28, 2022, recorded Sun, Sep 25, 2022.
+- Guest: Rhet Turnbull on Twitter [@RhetTurnbull](https://twitter.com/RhetTurnbull)
+
+1. **Textinator** - *Simple macOS StatusBar / menu bar app.* [PyPi]() | [Website]() | [Source Code](https://github.com/RhetTbull/textinator)
+
+<img src="https://user-images.githubusercontent.com/12855744/198070052-7cbf6ac6-5d3b-4c69-a281-14a46dafe710.png" width="50%">
+
+Simple macOS StatusBar / menu bar app to perform automatic text detection on screenshots.
+
+
+## [Episode 382](https://talkpython.fm/episodes/show/382/apache-superset-modern-data-exploration-platform)
+
+- Title: Apache Superset: Modern Data Exploration Platform
+- Published Thu, Sep 22, 2022, recorded Mon, Sep 19, 2022.
+- Guest: Maxime Beauchemin on Twitter [@mistercrunch](https://twitter.com/mistercrunch)
+
+1. **sqlfluff ** - *The SQL Linter for Humans.* [PyPi](https://pypi.org/project/sqlfluff/) | [Website](https://www.sqlfluff.com/) | [Source Code](https://github.com/alanmcruickshank/sqlfluff)
+
+<img src="https://user-images.githubusercontent.com/12855744/198068933-29d59234-a819-49a1-8fab-6ca03764f812.png" width="50%">
+
+SQLFluff is a dialect-flexible and configurable SQL linter. Designed with ELT applications in mind, SQLFluff also works with Jinja templating and dbt. SQLFluff will auto-fix most linting errors, allowing you to focus your time on what matters.
+
+
+## [Episode 381](https://talkpython.fm/episodes/show/381/python-perf-specializing-adaptive-interpreter)
+
+- Title: Python Perf: Specializing, Adaptive Interpreter
+- Published Fri, Sep 16, 2022, recorded Thu, Sep 15, 2022.
+- Guest: Brandt Bucher on GitHub [@brandtbucher](https://github.com/brandtbucher/)
+
+1. **PyMTL 3 (Mamba)** - *A Python-based hardware generation, simulation, and verification framework.* [PyPi](https://pypi.org/project/pymtl3/) | [Website](https://github.com/pymtl/pymtl3 | [Source Code](https://github.com/pymtl/pymtl3)
+
+PyMTL3 (Mamba) is the latest version of PyMTL, an open-source Python-based hardware generation, simulation, and verification framework with multi-level hardware modeling support. The original PyMTL was introduced at MICRO-47 in December, 2014. Please note that PyMTL 3 is currently beta software that is under active development and documentation is currently quite sparse.
+
+
+## [Episode 380](https://talkpython.fm/episodes/show/380/7-lessons-from-building-a-modern-tui-framework)
+
+- Title: 7 lessons from building a modern TUI framework
+- Published Mon, Sep 5, 2022, recorded Mon, Sep 5, 2022.
+- Guest: Will McGugan on Twitter [@willmcgugan](https://twitter.com/willmcgugan)
+
+notable PyPI package. I mean, we've touched on some good ones that start or end with Rich, but anything else you run across that you're like, oh, this is fantastic, people should check this out. 01:04:38 Oh, gosh, there's so many advice. I'm drawing a blank. 01:04:43 I should have heard one in advance. 01:04:45 How about one that you use that makes Rich work well or something? 01:04:48 Well, there's Prompt Toolkit, so I owe Prompt Toolkit I'm a big debt of gratitude because when I was figuring out the textual stuff, I looked at the Prompt Toolkit source code, which is a
+
+1. **package_name** - *package_detail.* [PyPi](https://pypi.org/project/) | [Website](https://) | [Source Code](https://)
+
+<img src="" width="50%">
+
+Content
+
+
 
 ## [Episode 379](https://talkpython.fm/episodes/show/379/17-libraries-you-should-be-using-in-django)
 
