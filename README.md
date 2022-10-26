@@ -37,7 +37,7 @@ Playwright is a framework for Web Testing and Automation. It allows testing Chro
 
 - Title: Higher level Python asyncio with AnyIO
 - Published Sat, Oct 15, 2022, recorded Thu, Sep 29, 2022.
-- Guest: Alex Grönholm on Twitter [@](https://twitter.com/)
+- Guest: Alex Grönholm on GitHub [@agronholm](https://github.com/agronholm)
 
 1. **Trio** - *A friendly Python library for async concurrency and I/O.* [PyPi](https://pypi.org/project/trio) | [Website](https://trio.readthedocs.io/en/stable/) | [Source Code](https://github.com/python-trio/trio)
 
