@@ -58,13 +58,13 @@ Poetry helps you declare, manage and install dependencies of Python projects, en
 
 1. **Splink** - *Fast probabilistic data linkage at scale.* [PyPi](https://pypi.org/project/splink/) | [Website](https://moj-analytical-services.github.io/splink/) | [Source Code](https://github.com/moj-analytical-services/splink)
 
-<img src="https://user-images.githubusercontent.com/12855744/198071871-5db2d6ef-217b-4487-968b-393c3507ba40.png" width="25%">
+<img src="https://user-images.githubusercontent.com/12855744/198071871-5db2d6ef-217b-4487-968b-393c3507ba40.png" width="50%">
 
 Fast, accurate and scalable probabilistic data linkage using your choice of SQL backend
 
 2. **Redframes** - *General Purpose Data Manipulation Library.* [PyPi](https://pypi.org/project/redframes/) | [Website](https://github.com/maxhumber/redframes) | [Source Code](https://github.com/maxhumber/redframes)
 
-<img src="https://user-images.githubusercontent.com/12855744/198072402-c9fd381d-dd8f-4867-ae2e-61ca7bff6812.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/198072402-c9fd381d-dd8f-4867-ae2e-61ca7bff6812.png" width="30%">
 
 redframes (rectangular data frames) is a general purpose data manipulation library that prioritizes syntax, simplicity, and speed (to a solution). Importantly, the library is fully interoperable with pandas, compatible with scikit-learn, and works great with matplotlib.
 
