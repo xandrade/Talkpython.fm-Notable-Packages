@@ -62,7 +62,7 @@ Poetry helps you declare, manage and install dependencies of Python projects, en
 
 Fast, accurate and scalable probabilistic data linkage using your choice of SQL backend
 
-2. **Redframes** - *General Purpose Data Manipulation Library.* [PyPi](https://pypi.org/project/redframes/) | [Website](https://) | [Source Code](https://github.com/maxhumber/redframes)
+2. **Redframes** - *General Purpose Data Manipulation Library.* [PyPi](https://pypi.org/project/redframes/) | [Website](https://github.com/maxhumber/redframes) | [Source Code](https://github.com/maxhumber/redframes)
 
 <img src="https://user-images.githubusercontent.com/12855744/198072402-c9fd381d-dd8f-4867-ae2e-61ca7bff6812.png" width="50%">
 
