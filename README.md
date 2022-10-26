@@ -58,7 +58,7 @@ Poetry helps you declare, manage and install dependencies of Python projects, en
 
 1. **Splink** - *Fast probabilistic data linkage at scale.* [PyPi](https://pypi.org/project/splink/) | [Website](https://moj-analytical-services.github.io/splink/) | [Source Code](https://github.com/moj-analytical-services/splink)
 
-<img src="https://user-images.githubusercontent.com/12855744/198071871-5db2d6ef-217b-4487-968b-393c3507ba40.png" width="50%">
+<img src="https://user-images.githubusercontent.com/12855744/198071871-5db2d6ef-217b-4487-968b-393c3507ba40.png" width="25%">
 
 Fast, accurate and scalable probabilistic data linkage using your choice of SQL backend
 
